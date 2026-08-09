@@ -44,7 +44,7 @@ hugo build
 
 ## Content Rules
 
-The importer keeps only French-ready markdown files with structured metadata, normalizes their Hugo front matter, removes duplicated opening headings, strips leftover promotional clutter, and promotes the target niches on the homepage via priority tags.
+The importer keeps only French-ready markdown files with structured metadata, normalizes their Hugo front matter, removes duplicated opening headings, strips leftover promotional clutter, and promotes the target niches on the homepage via priority tags. It also rejects articles that violate the editorial style rules in `scripts/import_articles.py`, including em dashes.
 
 ## Founder
 

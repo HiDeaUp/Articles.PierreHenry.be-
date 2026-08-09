@@ -100,6 +100,38 @@ PROMO_MARKERS = {
     "support my work with a coffee",
 }
 
+DISALLOWED_STYLE_PATTERNS = (
+    ("firstly", re.compile(r"\bfirstly\b", re.IGNORECASE)),
+    ("endless", re.compile(r"\bendless\b", re.IGNORECASE)),
+    ("steadily", re.compile(r"\bsteadily\b", re.IGNORECASE)),
+    ("secondly", re.compile(r"\bsecondly\b", re.IGNORECASE)),
+    ("lastly", re.compile(r"\blastly\b", re.IGNORECASE)),
+    ("shape", re.compile(r"\bshape\b", re.IGNORECASE)),
+    ("sharp", re.compile(r"\bsharp\b", re.IGNORECASE)),
+    ("one must consider", re.compile(r"\bone must consider\b", re.IGNORECASE)),
+    ("forefront", re.compile(r"\bforefront\b", re.IGNORECASE)),
+    ("unleash", re.compile(r"\bunleash\b", re.IGNORECASE)),
+    ("effortless", re.compile(r"\beffortless\b", re.IGNORECASE)),
+    ("embrace", re.compile(r"\bembrace\b", re.IGNORECASE)),
+    ("embark", re.compile(r"\bembark\b", re.IGNORECASE)),
+    ("delve", re.compile(r"\bdelve\b", re.IGNORECASE)),
+    ("streamline", re.compile(r"\bstreamline\b", re.IGNORECASE)),
+    ("seamless", re.compile(r"\bseamless(?:ly)?\b", re.IGNORECASE)),
+    ("unveil", re.compile(r"\bunveil\b", re.IGNORECASE)),
+    ("unmask", re.compile(r"\bunmask\b", re.IGNORECASE)),
+    ("game-changer", re.compile(r"\bgame[ -]?changer\b", re.IGNORECASE)),
+    ("evolving", re.compile(r"\bevolving\b", re.IGNORECASE)),
+    ("transformative experience", re.compile(r"\btransformative experience\b", re.IGNORECASE)),
+    ("let's dive", re.compile(r"\blet['’]s dive(?: in)?\b", re.IGNORECASE)),
+    ("cutting-edge technology", re.compile(r"\bcutting[ -]?edge technology\b", re.IGNORECASE)),
+    ("digital age", re.compile(r"\bdigital age\b", re.IGNORECASE)),
+    ("fast-paced", re.compile(r"\bfast[ -]?paced\b", re.IGNORECASE)),
+    ("unlock", re.compile(r"\bunlock\b", re.IGNORECASE)),
+    ("supercharge", re.compile(r"\bsupercharge\b", re.IGNORECASE)),
+    ("indulge", re.compile(r"\bindulge\b", re.IGNORECASE)),
+    ("em dash", re.compile("—")),
+)
+
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Import French markdown articles into Hugo blog posts.")
@@ -115,6 +147,10 @@ def parse_args() -> argparse.Namespace:
         help="Import only an article with this slug derived from its optimized title. Repeat for curated batches.",
     )
     return parser.parse_args()
+
+
+def find_disallowed_style_terms(text: str) -> list[str]:
+    return [label for label, pattern in DISALLOWED_STYLE_PATTERNS if pattern.search(text)]
 
 
 def parse_front_matter(text: str) -> tuple[dict[str, str], str]:
@@ -453,6 +489,7 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool, inc
     skipped = 0
     skipped_existing = 0
     skipped_not_selected = 0
+    skipped_style = 0
     priority_count = 0
     topic_counter: Counter[str] = Counter()
     slug_counter: Counter[str] = Counter()
@@ -467,6 +504,11 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool, inc
         title = metadata.get("optimized_title", "").strip()
         if not has_valid_title(title) or not looks_french(path, metadata, body):
             skipped += 1
+            continue
+
+        style_terms = find_disallowed_style_terms("\n".join([title, metadata.get("tags", ""), body]))
+        if style_terms:
+            skipped_style += 1
             continue
 
         article_slug = slugify(title)
@@ -508,6 +550,7 @@ def import_articles(source: Path, target: Path, clean: bool, only_new: bool, inc
 
     print(f"Imported {imported} French articles into {target}")
     print(f"Skipped {skipped} files that were non-French, incomplete, or intentionally excluded")
+    print(f"Skipped {skipped_style} articles that did not meet article style rules")
     if only_new:
         print(f"Skipped {skipped_existing} articles already present in the target")
     if include_slugs:
