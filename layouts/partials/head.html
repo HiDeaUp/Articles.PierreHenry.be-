@@ -1,0 +1,69 @@
+{{- /* Enhanced SEO and social meta tags */ -}}
+{{- $description := .Description | default .Site.Params.description -}}
+{{- $keywords := .Params.tags | default .Site.Params.keywords -}}
+{{- $socialImage := "og-image.png" | absURL -}}
+{{- $isArticle := and .IsPage (eq .Section "blog") -}}
+<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+{{ with $keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:type" content="{{ if $isArticle }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:locale" content="fr_FR">
+{{ if $isArticle }}
+<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}">
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+{{ range .Params.tags }}<meta property="article:tag" content="{{ . }}">{{ end }}
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:url" content="{{ .Permalink }}">
+
+<!-- Canonical -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Favicon and PWA -->
+<link rel="icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#222">
+
+<!-- Social Preview Image -->
+<meta property="og:image" content="{{ $socialImage }}">
+<meta property="og:image:alt" content="Articles de Pierre-Henry Soria">
+<meta name="twitter:image" content="{{ $socialImage }}">
+<meta name="twitter:image:alt" content="Articles de Pierre-Henry Soria">
+
+{{- if $isArticle }}
+{{- $articleSchema := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "description" $description
+  "url" .Permalink
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  "datePublished" (.PublishDate.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "inLanguage" .Site.Language.Lang
+  "image" $socialImage
+  "keywords" (delimit $keywords ", ")
+  "author" (dict "@type" "Person" "name" .Site.Params.author "url" .Site.BaseURL)
+  "publisher" (dict "@type" "Person" "name" .Site.Params.author "url" .Site.BaseURL)
+-}}
+<script type="application/ld+json">{{ $articleSchema | jsonify | safeJS }}</script>
+{{- end }}
+
+<!-- Windows Tile -->
+<meta name="msapplication-config" content="/browserconfig.xml">
+
+<!-- Image Caption Styling -->
+<link rel="stylesheet" href="/css/figure.css">
+<link rel="stylesheet" href="/css/social-links.css">

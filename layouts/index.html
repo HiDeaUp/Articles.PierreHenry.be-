@@ -1,0 +1,54 @@
+{{ define "main" }}
+<content>
+  {{ .Content }}
+
+  {{ $allPosts := where .Site.RegularPages "Section" "blog" }}
+  {{ $priorityPosts := where $allPosts "Params.priority" true }}
+
+  {{ if gt (len $priorityPosts) 0 }}
+  <h2>Priority Reads</h2>
+  <p>Start here for the topics with the strongest emphasis across the archive: tech, nomad work, money, wealth, self-transcendence, time management, tasks, productivity, time blocking, and entrepreneurship.</p>
+  <ul class="blog-posts">
+    {{ range first 18 ($priorityPosts.ByDate.Reverse) }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}'>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
+  <h2>Explore by Topic</h2>
+  <p>
+    {{ range $topic := slice "tech" "nomad" "money" "wealth" "self-transcendence" "time management" "tasks" "productivity" "time blocking" "entrepreneurship" }}
+    {{ with $.Site.GetPage (printf "/tags/%s" ($topic | urlize)) }}
+    <a href="{{ .RelPermalink }}">#{{ $topic }}</a>&nbsp;
+    {{ end }}
+    {{ end }}
+  </p>
+
+  <h2>Latest Articles</h2>
+  <ul class="blog-posts">
+    {{ range first 24 ($allPosts.ByDate.Reverse) }}
+    <li>
+      <span>
+        <i>
+          <time datetime='{{ .Date.Format "2006-01-02" }}'>
+            {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+          </time>
+        </i>
+      </span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ else }}
+    <li>No articles imported yet.</li>
+    {{ end }}
+  </ul>
+</content>
+{{ end }}

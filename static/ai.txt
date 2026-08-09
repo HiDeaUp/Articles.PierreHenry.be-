@@ -1,0 +1,3 @@
+# Allow LLMs and search engines to index this site
+User-agent: *
+Allow: /

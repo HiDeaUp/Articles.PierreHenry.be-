@@ -1,0 +1,13 @@
+{{- $alt := .Get "alt" | default (.Get "title") | default .Page.Title -}}
+{{- $title := .Get "title" | default .Page.Title -}}
+<figure itemscope itemtype="https://schema.org/ImageObject">
+  {{- if .Get "link" -}}
+    <a href="{{ .Get "link" }}" target="_blank" rel="noopener">
+  {{- end -}}
+  <img src="{{ .Get "src" }}" alt="{{ $alt }}" title="{{ $title }}" loading="lazy" decoding="async" itemprop="contentUrl" />
+  <meta itemprop="name" content="{{ $title }}" />
+  {{- if .Get "link" -}}</a>{{- end -}}
+  {{- if .Get "caption" -}}
+    <figcaption class="image-caption" itemprop="caption">{{ .Get "caption" | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

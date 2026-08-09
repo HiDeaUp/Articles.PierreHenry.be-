@@ -1,0 +1,31 @@
+baseURL = "https://articles.pierrehenry.be/"
+theme = "hugo-bearblog"
+
+title = "Pierre-Henry Soria – Articles en français sur la technologie et la vie intentionnelle"
+author = "Pierre-Henry Soria"
+copyright = "Copyright © 2026, Pierre-Henry Soria."
+locale = "fr"
+defaultContentLanguage = "fr"
+enableRobotsTXT = true
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+[params]
+  author = "Pierre-Henry Soria"
+  description = "Articles quotidiens en français sur la technologie, le génie logiciel, le travail intentionnel et le développement d'idées utiles."
+  keywords = ["technologie", "génie logiciel", "intelligence artificielle", "productivité", "entrepreneuriat", "vie intentionnelle", "Pierre-Henry Soria"]
+  title = "Pierre-Henry Soria – Technologie et vie intentionnelle"
+  hideMadeWithLine = true
+  enablePostNavigator = true
+  dateFormat = "2006-01-02"
+
+[markup]
+  [markup.highlight]
+    style = "friendly"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
