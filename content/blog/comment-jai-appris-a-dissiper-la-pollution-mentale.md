@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/fc025c2f0f1f"
 source_youtube = "https://www.youtube.com/watch?v=_0On3VCE2bs"
 +++
 
-{{< figure src="https://unsplash.com/@artemkovalev" alt="Comment j’ai appris à dissiper la pollution mentale" title="Comment j’ai appris à dissiper la pollution mentale" caption="Santé mentale au quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1461468611824-46457c0e11fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5saWdodHxlbnwwfDB8fHwxNzg1NjY5ODAzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Se ressourcer face à l’immensité apaisante" title="Comment j’ai appris à dissiper la pollution mentale" caption="Se ressourcer face à l’immensité apaisante - Photo de [Artem Kovalev](https://unsplash.com/@artemkovalev)" >}}
 
+
+**Santé mentale au quotidien**
 
 ## Comment j’ai appris à dissiper la pollution mentale
 
@@ -32,10 +34,8 @@ Ce qui m’aide d’abord, ce sont de petits moments de pause dans la journée. 
 
 Ensuite, la respiration. J’utilise souvent un exercice de sophrologie simple, le « 4-4-4 » : inspire par le nez en gonflant thorax et abdomen pendant 4 secondes, bloque 4 secondes, puis expire par la bouche 4 secondes. Répète ce cycle sept fois. Tu te sentiras déjà plus léger. Il existe aussi la variante « 5-7-8 » : inspire 5 secondes, bloque 7, expire 8. À faire plusieurs fois dans la journée, dès que la pollution mentale revient.
 
-{{< figure src="https://images.unsplash.com/photo-1506452305024-9d3f02d1c9b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaXN0eSUyMGZvcmVzdCUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NTY2OTgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="La nature, alliée contre le tumulte intérieur" title="Comment j’ai appris à dissiper la pollution mentale" caption="La nature, alliée contre le tumulte intérieur" >}}
+{{< figure src="https://images.unsplash.com/photo-1506452305024-9d3f02d1c9b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtaXN0eSUyMGZvcmVzdCUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NTY2OTgwNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="La nature, alliée contre le tumulte intérieur" title="Comment j’ai appris à dissiper la pollution mentale" caption="La nature, alliée contre le tumulte intérieur - Photo de [Kyle Glenn](https://unsplash.com/@kylejglenn)" >}}
 
-
-La nature, alliée contre le tumulte intérieur - Photo de [Kyle Glenn](https://unsplash.com/@kylejglenn)
 
 Bouger est aussi essentiel. Un jogging, une séance de sport, une promenade dans un parc ou un bois : sortir et respirer l’air frais aide à dissiper les pensées envahissantes. Même cuisiner : préparer un gâteau ou des crêpes te ramène à l’instant présent et t’aide à oublier le reste.
 
@@ -51,10 +51,8 @@ La méditation est un entraînement pour le cerveau. Plus tu médites, plus tu d
 
 Il existe aussi Petit Bambou (française) et Headspace (américaine), mais elles sont payantes. Medito vit grâce aux dons, et je la trouve tout aussi efficace. Avec la méditation, tu développes une vraie « musculation cérébrale » : tu apprends à dire stop aux idées noires, à la rumination.
 
-{{< figure src="https://images.unsplash.com/photo-1634245482486-233fd8b2286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxkZXNrJTIwd2l0aCUyMGpvdXJuYWwlMjBhbmQlMjB0ZWF8ZW58MHwwfHx8MTc4NTY2OTgwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire pour libérer l’esprit encombré" title="Comment j’ai appris à dissiper la pollution mentale" caption="Écrire pour libérer l’esprit encombré" >}}
+{{< figure src="https://images.unsplash.com/photo-1634245482486-233fd8b2286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxkZXNrJTIwd2l0aCUyMGpvdXJuYWwlMjBhbmQlMjB0ZWF8ZW58MHwwfHx8MTc4NTY2OTgwNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire pour libérer l’esprit encombré" title="Comment j’ai appris à dissiper la pollution mentale" caption="Écrire pour libérer l’esprit encombré - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Écrire pour libérer l’esprit encombré - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 Je conseille de méditer le matin, dès le réveil, mais l’important, c’est la régularité. Plus tu pratiques, plus tu gagnes en clarté et en force mentale.
 

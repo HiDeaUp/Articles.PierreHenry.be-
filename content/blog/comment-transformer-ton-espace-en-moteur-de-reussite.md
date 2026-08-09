@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/c20152a92762"
 source_youtube = "https://www.youtube.com/watch?v=Wn4WnXnHcWY"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1727707185480-a50e6090b58c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb3p5JTIwcmVhZGluZyUyMG5vb2slMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjU1OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le salon, point de départ de ton ambition" title="Comment transformer ton espace en moteur de réussite" caption="Le salon, point de départ de ton ambition" >}}
+{{< figure src="https://images.unsplash.com/photo-1727707185480-a50e6090b58c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb3p5JTIwcmVhZGluZyUyMG5vb2slMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjU1OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le salon, point de départ de ton ambition" title="Comment transformer ton espace en moteur de réussite" caption="Le salon, point de départ de ton ambition - Photo de [Clay Banks](https://unsplash.com/@claybanks)" >}}
 
-
-Le salon, point de départ de ton ambition - Photo de [Clay Banks](https://unsplash.com/@claybanks)
 
 Imagine-toi dans un coin de ton appartement, une tasse de chocolat chaud à la main, entouré d’objets que tu apprécies vraiment. Une bougie qui diffuse une lumière douce, une table en bois, un mur de briques. Ce n’est pas un décor de magazine, mais c’est ton espace, celui où tu te sens bien, où tu peux souffler et prendre du recul.
 
@@ -32,10 +30,8 @@ Pour moi, ce sont les petits détails qui font la différence : une Kindle ou qu
 
 Le succès ne dépend pas seulement de l’espace physique, mais aussi des personnes qui t’entourent. Si tu ne peux pas inviter tes amis ou mentors chez toi, tu peux t’entourer virtuellement de bonnes personnes. J’écoute souvent des livres audio, des conférences vidéo, ou des vidéos YouTube en mode audio grâce à YouTube Premium. Cela me permet de rester inspiré et motivé, même quand je suis seul.
 
-{{< figure src="https://images.unsplash.com/photo-1618381801643-3d253a63a386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6ZWQlMjB3b29kZW4lMjBkZXNrJTIwY2FuZGxlc3xlbnwwfDB8fHwxNzg2MjU2MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Une pause gourmande pour nourrir tes rêves" title="Comment transformer ton espace en moteur de réussite" caption="Une pause gourmande pour nourrir tes rêves" >}}
+{{< figure src="https://images.unsplash.com/photo-1618381801643-3d253a63a386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcmdhbml6ZWQlMjB3b29kZW4lMjBkZXNrJTIwY2FuZGxlc3xlbnwwfDB8fHwxNzg2MjU2MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Une pause gourmande pour nourrir tes rêves" title="Comment transformer ton espace en moteur de réussite" caption="Une pause gourmande pour nourrir tes rêves - Photo de [Markus Spiske](https://unsplash.com/@markusspiske)" >}}
 
-
-Une pause gourmande pour nourrir tes rêves - Photo de [Markus Spiske](https://unsplash.com/@markusspiske)
 
 Tu peux faire pareil : choisis des contenus qui t’élèvent et te donnent envie de progresser. Remplis ton espace de ces voix et de ces idées, cela crée une atmosphère propice à la réussite.
 
@@ -51,10 +47,8 @@ Quelques pistes concrètes :
 
 L’important, c’est de faire de ton intérieur un allié, un espace qui te porte vers ce que tu veux accomplir. Même si ce n’est pas l’idéal aujourd’hui, tu peux déjà poser les bases d’un environnement qui te ressemble et qui t’aide à avancer.
 
-{{< figure src="https://images.unsplash.com/photo-1736232429279-bbd04b76d841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGRyaW5raW5nJTIwaG90JTIwY2hvY29sYXRlJTIwaG9tZXxlbnwwfDB8fHwxNzg2MjU2MDI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commence ta réussite avec un instant pour toi" title="Comment transformer ton espace en moteur de réussite" caption="Commence ta réussite avec un instant pour toi" >}}
+{{< figure src="https://images.unsplash.com/photo-1736232429279-bbd04b76d841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGRyaW5raW5nJTIwaG90JTIwY2hvY29sYXRlJTIwaG9tZXxlbnwwfDB8fHwxNzg2MjU2MDI0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commence ta réussite avec un instant pour toi" title="Comment transformer ton espace en moteur de réussite" caption="Commence ta réussite avec un instant pour toi - Photo de [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki)" >}}
 
-
-Commence ta réussite avec un instant pour toi - Photo de [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki)
 
 ## Ose investir dans ton bien-être
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/50f8734aa297"
 source_youtube = "https://www.youtube.com/watch?v=vL-4WwMmDzA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1529057415459-f9fdebeae24f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1vcm5pbmclMjBzdW5saWdodCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjUzOTc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps d’observer la vie" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Prendre le temps d’observer la vie" >}}
+{{< figure src="https://images.unsplash.com/photo-1529057415459-f9fdebeae24f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1vcm5pbmclMjBzdW5saWdodCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjUzOTc4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps d’observer la vie" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Prendre le temps d’observer la vie - Photo de [From Marwool](https://unsplash.com/@frommarwool)" >}}
 
-
-Prendre le temps d’observer la vie - Photo de [From Marwool](https://unsplash.com/@frommarwool)
 
 Il y a une tension silencieuse qui mine nos journées modernes : on court après le bonheur, mais plus on s’agite, plus il semble nous échapper. On se promet d’être heureux demain, après avoir changé ceci, accompli cela, ou atteint tel objectif. Pourtant, la clé n’est pas dans la révolution, mais dans une série de micro-changements, simples, naturels, et profondément humains. Je vais te partager ici une méthode concrète, testée, qui a montré des résultats trois fois supérieurs aux antidépresseurs. Pas de miracle, pas de recette magique, mais une série d’ajustements quotidiens qui transforment ta vie de l’intérieur.
 
@@ -38,10 +36,8 @@ N’hésite pas à oser des activités qui sortent des stéréotypes : un homme 
 
 Certaines tâches, comme le ménage, la vaisselle, le rangement, sont souvent vues comme des corvées à automatiser ou déléguer. Pourtant, ce sont des moments idéaux pour écouter des podcasts, des livres audio, ou simplement laisser vagabonder ses pensées de façon constructive. Si tu conduis beaucoup, programme ton autoradio pour lancer automatiquement des contenus inspirants. L’idée, c’est de ne jamais laisser la place à la rumination négative.
 
-{{< figure src="https://images.unsplash.com/photo-1728931710117-4e0e41c58420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHBvdXJpbmclMjB0ZWElMjBjb3p5fGVufDB8MHx8fDE3ODYyNTM5Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser apprivoiser l’inconnu au quotidien" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Oser apprivoiser l’inconnu au quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1728931710117-4e0e41c58420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHBvdXJpbmclMjB0ZWElMjBjb3p5fGVufDB8MHx8fDE3ODYyNTM5Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser apprivoiser l’inconnu au quotidien" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Oser apprivoiser l’inconnu au quotidien - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Oser apprivoiser l’inconnu au quotidien - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Les temps morts à l’extérieur : transformer l’attente en créativité
 
@@ -63,10 +59,8 @@ Quand tu te sens morose, sors cinq minutes dehors, sans lunettes de soleil. Pren
 
 Fais une cure de lumière : une heure par jour pendant une semaine, puis trente minutes par jour ensuite. Tu verras la différence sur ton énergie, ton sommeil, ton envie de faire des choses.
 
-{{< figure src="https://images.unsplash.com/photo-1586013910460-83f1ab03dbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxiYXJlJTIwZmVldCUyMGdyYXNzJTIwZGV3ZHJvcHN8ZW58MHwwfHx8MTc4NjI1Mzk4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Marcher doucement vers un mieux-être" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Marcher doucement vers un mieux-être" >}}
+{{< figure src="https://images.unsplash.com/photo-1586013910460-83f1ab03dbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxiYXJlJTIwZmVldCUyMGdyYXNzJTIwZGV3ZHJvcHN8ZW58MHwwfHx8MTc4NjI1Mzk4MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Marcher doucement vers un mieux-être" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Marcher doucement vers un mieux-être - Photo de [Nick Page](https://unsplash.com/@nickpage)" >}}
 
-
-Marcher doucement vers un mieux-être - Photo de [Nick Page](https://unsplash.com/@nickpage)
 
 ## L’amitié : la priorité numéro un
 
@@ -84,10 +78,8 @@ On néglige trop souvent le sommeil, croyant gagner du temps en dormant moins. C
 
 Adopte une routine apaisante le soir : vingt minutes de méditation, de silence, ou de bilan de la journée à la bougie. Évite les écrans et la stimulation intellectuelle avant de dormir. Lève-toi à la même heure chaque jour, c’est plus important que l’heure du coucher. Si tu es en couple, essaye d’avoir deux couvertures ou deux matelas pour ne pas perturber le sommeil de l’autre.
 
-{{< figure src="https://images.unsplash.com/photo-1518104593124-ac2e82a5eb9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nJTIwcmFpbiUyMHVtYnJlbGxhfGVufDB8MHx8fDE3ODYyNTM5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Accueillir la joie même sous la pluie" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Accueillir la joie même sous la pluie" >}}
+{{< figure src="https://images.unsplash.com/photo-1518104593124-ac2e82a5eb9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nJTIwcmFpbiUyMHVtYnJlbGxhfGVufDB8MHx8fDE3ODYyNTM5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Accueillir la joie même sous la pluie" title="Comment j’ai transformé mon bonheur sans tout révolutionner" caption="Accueillir la joie même sous la pluie - Photo de [Joel Overbeck](https://unsplash.com/@wenutius)" >}}
 
-
-Accueillir la joie même sous la pluie - Photo de [Joel Overbeck](https://unsplash.com/@wenutius)
 
 ## La nutrition : des petits ajustements qui changent tout
 

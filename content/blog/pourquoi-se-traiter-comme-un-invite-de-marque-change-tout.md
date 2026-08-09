@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/86278e060a1f"
 source_youtube = "https://www.youtube.com/watch?v=F_TuEYNbaZc"
 +++
 
-{{< figure src="https://unsplash.com/@eugenivy_now" alt="Pourquoi se traiter comme un invité de marque change tout" title="Pourquoi se traiter comme un invité de marque change tout" caption="Prendre soin de soi" >}}
+{{< figure src="https://images.unsplash.com/photo-1700463882272-8fae2f74f55e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNldHRpbmclMjB0YWJsZSUyMGNhbmRsZXN8ZW58MHwwfHx8MTc4NTY3MjE5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Célèbre-toi comme tu célèbres les autres" title="Pourquoi se traiter comme un invité de marque change tout" caption="Célèbre-toi comme tu célèbres les autres - Photo de [Eugenia Pan'kiv](https://unsplash.com/@eugenivy_now)" >}}
 
+
+**Prendre soin de soi**
 
 ## Pourquoi se traiter comme un invité de marque change tout
 
@@ -26,10 +28,8 @@ As-tu déjà remarqué comme tu fais parfois le strict minimum pour toi-même 
 
 Alors, pourquoi ne pas te traiter toi-même comme un invité de marque ? Pourquoi offrir le meilleur aux autres et te contenter du minimum ? Cette question a changé ma façon de vivre.
 
-{{< figure src="https://images.unsplash.com/photo-1744833306639-3bc1d87b3cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW4lMjBlbmpveWluZyUyMGJyZWFrZmFzdCUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODU2NzIxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Offre-toi des instants d’attention sincère" title="Pourquoi se traiter comme un invité de marque change tout" caption="Offre-toi des instants d’attention sincère" >}}
+{{< figure src="https://images.unsplash.com/photo-1744833306639-3bc1d87b3cca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW4lMjBlbmpveWluZyUyMGJyZWFrZmFzdCUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODU2NzIxOTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Offre-toi des instants d’attention sincère" title="Pourquoi se traiter comme un invité de marque change tout" caption="Offre-toi des instants d’attention sincère - Photo de [Vix Films](https://unsplash.com/@vix7)" >}}
 
-
-Offre-toi des instants d’attention sincère - Photo de [Vix Films](https://unsplash.com/@vix7)
 
 ## S’accorder la même importance qu’aux autres
 
@@ -43,10 +43,8 @@ Bien se traiter ne demande pas de grands efforts. Il s’agit souvent de choisir
 
 Après douze ans à chercher le meilleur système pour me créer une belle vie, j’ai compris que le temps, c’est de la vie. Chaque minute perdue ne revient pas. Autant la remplir de gestes qui nous élèvent.
 
-{{< figure src="https://images.unsplash.com/photo-1768413292047-116be08f120c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb3p5JTIwYmF0aCUyMHNlbGYlMjBjYXJlfGVufDB8MHx8fDE3ODU2NzIxOTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer des rituels pour se choyer soi-même" title="Pourquoi se traiter comme un invité de marque change tout" caption="Créer des rituels pour se choyer soi-même" >}}
+{{< figure src="https://images.unsplash.com/photo-1768413292047-116be08f120c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb3p5JTIwYmF0aCUyMHNlbGYlMjBjYXJlfGVufDB8MHx8fDE3ODU2NzIxOTd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer des rituels pour se choyer soi-même" title="Pourquoi se traiter comme un invité de marque change tout" caption="Créer des rituels pour se choyer soi-même - Photo de [Caroline Badran](https://unsplash.com/@___atmos)" >}}
 
-
-Créer des rituels pour se choyer soi-même - Photo de [Caroline Badran](https://unsplash.com/@___atmos)
 
 ## Construire les fondations d’une belle vie
 

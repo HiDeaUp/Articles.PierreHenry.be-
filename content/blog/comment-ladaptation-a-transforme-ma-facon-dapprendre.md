@@ -11,8 +11,10 @@ source_medium = "https://medium.com/@phenrysay/721995882f68"
 source_youtube = "https://www.youtube.com/watch?v=_K5A41PY8kk"
 +++
 
-{{< figure src="https://unsplash.com/@lenaruff84560" alt="Comment l’adaptation a transformé ma façon d’apprendre" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Pouvoir de l'adaptation" >}}
+{{< figure src="https://images.unsplash.com/photo-1768825197238-629b1ae2dc18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHN0ZXBwaW5nJTIwb3V0c2lkZSUyMGRvb3J8ZW58MHwwfHx8MTc4NTY3MjUwMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Ouvrir la porte à de nouvelles méthodes" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Ouvrir la porte à de nouvelles méthodes - Photo de [lena ruffinatto](https://unsplash.com/@lenaruff84560)" >}}
 
+
+**Pouvoir de l'adaptation**
 
 ## Comment l’adaptation a transformé ma façon d’apprendre
 
@@ -26,10 +28,8 @@ On préfère souvent rester dans nos habitudes, utiliser ce qu’on connaît dé
 
 La clé, c’est d’être curieux, de rester ouvert aux nouvelles opportunités, aux nouveaux outils, aux façons inédites de faire les choses. Ce n’est pas seulement une question de productivité, c’est un état d’esprit qui te permet d’aller plus loin, de ne jamais rester bloqué.
 
-{{< figure src="https://images.unsplash.com/photo-1578879981267-666aaa9045fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwdHVybmluZyUyMGJvb2slMjBwYWdlfGVufDB8MHx8fDE3ODU2NzI1MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Explorer l’apprentissage, un livre à la fois" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Explorer l’apprentissage, un livre à la fois" >}}
+{{< figure src="https://images.unsplash.com/photo-1578879981267-666aaa9045fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwdHVybmluZyUyMGJvb2slMjBwYWdlfGVufDB8MHx8fDE3ODU2NzI1MDF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Explorer l’apprentissage, un livre à la fois" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Explorer l’apprentissage, un livre à la fois - Photo de [Jessica Da Rosa](https://unsplash.com/@iamdarosaa)" >}}
 
-
-Explorer l’apprentissage, un livre à la fois - Photo de [Jessica Da Rosa](https://unsplash.com/@iamdarosaa)
 
 ## Dépasser le moule
 
@@ -43,10 +43,8 @@ Tout change le jour où tu acceptes de redéfinir tes propres règles du jeu. Tu
 
 Un autre point essentiel : la discipline. On pense souvent que la discipline est une contrainte, mais c’est tout l’inverse. La discipline, c’est la liberté.
 
-{{< figure src="https://images.unsplash.com/photo-1765338022950-0c78ca6c5c91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoaWtlciUyMGNsaW1iaW5nJTIwcm9ja3klMjB0cmFpbHxlbnwwfDB8fHwxNzg1NjcyNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gravir les sommets de l’adaptation" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Gravir les sommets de l’adaptation" >}}
+{{< figure src="https://images.unsplash.com/photo-1765338022950-0c78ca6c5c91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoaWtlciUyMGNsaW1iaW5nJTIwcm9ja3klMjB0cmFpbHxlbnwwfDB8fHwxNzg1NjcyNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gravir les sommets de l’adaptation" title="Comment l’adaptation a transformé ma façon d’apprendre" caption="Gravir les sommets de l’adaptation - Photo de [Ryan Fleischer](https://unsplash.com/@flyshoot)" >}}
 
-
-Gravir les sommets de l’adaptation - Photo de [Ryan Fleischer](https://unsplash.com/@flyshoot)
 
 Quand tu es discipliné dans tes journées, dans tes actions, tu te crées de l’espace mental, tu gagnes du temps, tu te libères. Parce que tu es organisé, tu sais où tu vas, et tu peux ensuite profiter de ta liberté. La discipline, ce n’est pas se priver, c’est se donner les moyens d’aller plus loin, de faire ce qui compte vraiment pour toi.
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/3c99683348c6"
 source_youtube = "https://www.youtube.com/watch?v=naxTFSCNlsU"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1616452362403-2a49231dbd94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0YW5kaW5nJTIwb24lMjBtb3VudGFpbiUyMHN1bnJpc2V8ZW58MHwwfHx8MTc4NjI1OTAzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Affronter ses sommets intérieurs sans hésiter" title="Comment la force mentale libère de l’inaction et du doute" caption="Affronter ses sommets intérieurs sans hésiter" >}}
+{{< figure src="https://images.unsplash.com/photo-1616452362403-2a49231dbd94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0YW5kaW5nJTIwb24lMjBtb3VudGFpbiUyMHN1bnJpc2V8ZW58MHwwfHx8MTc4NjI1OTAzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Affronter ses sommets intérieurs sans hésiter" title="Comment la force mentale libère de l’inaction et du doute" caption="Affronter ses sommets intérieurs sans hésiter - Photo de [Nilotpal Kalita](https://unsplash.com/@nilotpalkalita)" >}}
 
-
-Affronter ses sommets intérieurs sans hésiter - Photo de [Nilotpal Kalita](https://unsplash.com/@nilotpalkalita)
 
 Imagine-toi un matin, paralysé par le doute. Tu te lèves, mais l’incertitude t’empêche d’avancer. Tu hésites à lancer ce projet, à changer une habitude, à prendre une décision qui pourrait tout transformer. Ce doute agit comme un poison lent. Il te paralyse et te fait perdre un temps précieux, que tu ne récupéreras jamais.
 
@@ -30,10 +28,8 @@ Nous vivons dans un monde saturé d’informations. News, notifications, emails,
 
 Réduis ta consommation de news, coupe les notifications inutiles, éloigne-toi de cette pollution mentale. Concentre-toi sur ce que tu peux changer, sur les projets qui ont un impact réel dans ta vie et celle des autres.
 
-{{< figure src="https://images.unsplash.com/photo-1704461964028-697c2560de79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBzdGFyaW5nJTIwb3V0JTIwcmFpbnklMjB3aW5kb3d8ZW58MHwwfHx8MTc4NjI1OTAzNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder l’avenir malgré le doute persistant" title="Comment la force mentale libère de l’inaction et du doute" caption="Regarder l’avenir malgré le doute persistant" >}}
+{{< figure src="https://images.unsplash.com/photo-1704461964028-697c2560de79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBzdGFyaW5nJTIwb3V0JTIwcmFpbnklMjB3aW5kb3d8ZW58MHwwfHx8MTc4NjI1OTAzNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder l’avenir malgré le doute persistant" title="Comment la force mentale libère de l’inaction et du doute" caption="Regarder l’avenir malgré le doute persistant - Photo de [Clark Gu](https://unsplash.com/@atluminon)" >}}
 
-
-Regarder l’avenir malgré le doute persistant - Photo de [Clark Gu](https://unsplash.com/@atluminon)
 
 ## Agir pour avancer
 
@@ -47,10 +43,8 @@ Nous avons tous 24 heures dans une journée. Ce qui fait la différence, c’est
 
 Pour m’aider, j’utilise une application d’alimentation qui me permet de scanner mes plats et boissons. En quelques secondes, j’ai toutes les informations dont j’ai besoin. Ce geste quotidien a eu un impact réel sur ma vie. Je sais ce que je mange, je prends de meilleures décisions, et je vois les résultats. Ce type d’habitude, même minime, peut transformer ta motivation et ton énergie.
 
-{{< figure src="https://images.unsplash.com/photo-1520359319979-f360d010d777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwYnJlYWtpbmclMjBwYXBlciUyMGNoYWluc3xlbnwwfDB8fHwxNzg2MjU5MDM1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Briser les chaînes de l’inaction mentale" title="Comment la force mentale libère de l’inaction et du doute" caption="Briser les chaînes de l’inaction mentale" >}}
+{{< figure src="https://images.unsplash.com/photo-1520359319979-f360d010d777?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwYnJlYWtpbmclMjBwYXBlciUyMGNoYWluc3xlbnwwfDB8fHwxNzg2MjU5MDM1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Briser les chaînes de l’inaction mentale" title="Comment la force mentale libère de l’inaction et du doute" caption="Briser les chaînes de l’inaction mentale - Photo de [Bryson Hammer](https://unsplash.com/@trhammerhead)" >}}
 
-
-Briser les chaînes de l’inaction mentale - Photo de [Bryson Hammer](https://unsplash.com/@trhammerhead)
 
 ## Se concentrer sur l’essentiel
 

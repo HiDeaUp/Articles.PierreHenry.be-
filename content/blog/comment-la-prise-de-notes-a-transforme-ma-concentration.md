@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/83c3ad59e640"
 source_youtube = "https://www.youtube.com/watch?v=R8559Xp9Q2k"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1600188769045-bc6026bfc8cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdyaXRpbmclMjBub3RlYm9vayUyMGRlc2t8ZW58MHwwfHx8MTc4NjI1MzAzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’accorder un instant pour mieux se recentrer" title="Comment la prise de notes a transformé ma concentration" caption="S’accorder un instant pour mieux se recentrer" >}}
+{{< figure src="https://images.unsplash.com/photo-1600188769045-bc6026bfc8cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdyaXRpbmclMjBub3RlYm9vayUyMGRlc2t8ZW58MHwwfHx8MTc4NjI1MzAzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’accorder un instant pour mieux se recentrer" title="Comment la prise de notes a transformé ma concentration" caption="S’accorder un instant pour mieux se recentrer - Photo de [Darius Bashar](https://unsplash.com/@dariusbashar)" >}}
 
-
-S’accorder un instant pour mieux se recentrer - Photo de [Darius Bashar](https://unsplash.com/@dariusbashar)
 
 Il y a toujours ce moment précis où ton cerveau déborde, où mille idées se bousculent et risquent de s’évaporer si tu ne fais rien. C’est là que la prise de notes devient essentielle pour moi. Ce n’est pas juste un outil, mais un véritable allié pour canaliser ce flot incessant de pensées, de projets, de tâches. J’ai appris à ne plus compter uniquement sur ma mémoire. Externaliser ce qui m’encombre l’esprit, le déposer sur un support tangible, m’aide à avancer.
 
@@ -32,10 +30,8 @@ Même si le digital est pratique, rien ne remplace le papier. J’ai un carnet e
 
 Le mouvement de la main sur le papier, la sensation du stylo, tout cela favorise la mémorisation. Si tu veux vraiment retenir ce que tu notes, essaie d’écrire à la main, même si le digital te tente. La différence est réelle.
 
-{{< figure src="https://images.unsplash.com/photo-1652422485192-d959b9a8d16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxkaWdpdGFsJTIwdGFibGV0JTIwbm90ZXMlMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI1MzAzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Café, clavier et pensées organisées" title="Comment la prise de notes a transformé ma concentration" caption="Café, clavier et pensées organisées" >}}
+{{< figure src="https://images.unsplash.com/photo-1652422485192-d959b9a8d16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxkaWdpdGFsJTIwdGFibGV0JTIwbm90ZXMlMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI1MzAzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Café, clavier et pensées organisées" title="Comment la prise de notes a transformé ma concentration" caption="Café, clavier et pensées organisées - Photo de [GoodNotes 5](https://unsplash.com/@goodnotes)" >}}
 
-
-Café, clavier et pensées organisées - Photo de [GoodNotes 5](https://unsplash.com/@goodnotes)
 
 ## Lire sans distraction
 
@@ -49,10 +45,8 @@ La clé, c’est la discipline. Refuser la dispersion, ne pas t’autoriser à p
 
 Pour renforcer ma concentration, j’ai mis en place des rituels. Chaque jour, je me répète des affirmations positives, je me projette dans la réussite, j’organise mes matinées pour être sûr de tout donner. Se comporter comme si tu avais déjà réussi, c’est un levier puissant. Peu importe si cela paraît ridicule aux yeux des autres. Ce qui compte, c’est ce qui t’aide à avancer.
 
-{{< figure src="https://images.unsplash.com/photo-1651739083833-5bb14d052380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5iZWFtJTIwdGhyb3VnaCUyMHdpbmRvdyUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzg2MjUzMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer un espace lumineux pour ses idées" title="Comment la prise de notes a transformé ma concentration" caption="Créer un espace lumineux pour ses idées" >}}
+{{< figure src="https://images.unsplash.com/photo-1651739083833-5bb14d052380?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5iZWFtJTIwdGhyb3VnaCUyMHdpbmRvdyUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzg2MjUzMDM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer un espace lumineux pour ses idées" title="Comment la prise de notes a transformé ma concentration" caption="Créer un espace lumineux pour ses idées - Photo de [Annie Spratt](https://unsplash.com/@anniespratt)" >}}
 
-
-Créer un espace lumineux pour ses idées - Photo de [Annie Spratt](https://unsplash.com/@anniespratt)
 
 ## Organiser ses journées autrement
 

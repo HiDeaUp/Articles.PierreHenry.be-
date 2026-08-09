@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/86448efef958"
 source_youtube = "https://www.youtube.com/watch?v=OHVGaAbuVzk"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1572038434556-39997b7d30f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGNsaW1iaW5nJTIwc3RvbmUlMjBzdGVwc3xlbnwwfDB8fHwxNzg2MjM5NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gravir chaque marche vers la liberté intérieure" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Gravir chaque marche vers la liberté intérieure" >}}
+{{< figure src="https://images.unsplash.com/photo-1572038434556-39997b7d30f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGNsaW1iaW5nJTIwc3RvbmUlMjBzdGVwc3xlbnwwfDB8fHwxNzg2MjM5NTI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gravir chaque marche vers la liberté intérieure" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Gravir chaque marche vers la liberté intérieure - Photo de [Arnaud Mariat](https://unsplash.com/@arnaudmariat)" >}}
 
-
-Gravir chaque marche vers la liberté intérieure - Photo de [Arnaud Mariat](https://unsplash.com/@arnaudmariat)
 
 Il est facile de croire que nos limites sont imposées par l’extérieur, alors qu’en réalité, elles viennent souvent de nous-mêmes. J’en ai pris conscience à travers un exemple concret : mon téléphone.
 
@@ -28,10 +26,8 @@ Nous nous créons tous, à un moment ou à un autre, des barrières invisibles. 
 
 Changer cette dynamique commence par reconnaître que ces croyances ne sont pas des vérités, mais des histoires que l’on se raconte. Il s’agit de se dire : si je veux vraiment quelque chose, je peux y arriver. Tout est possible, à condition de ne pas se saboter soi-même.
 
-{{< figure src="https://images.unsplash.com/photo-1765620860582-f3bff18862ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kJTIwb3BlbmluZyUyMHdpbmRvdyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyMzk1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser tendre la main vers de nouveaux possibles" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Oser tendre la main vers de nouveaux possibles" >}}
+{{< figure src="https://images.unsplash.com/photo-1765620860582-f3bff18862ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kJTIwb3BlbmluZyUyMHdpbmRvdyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyMzk1Mjd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser tendre la main vers de nouveaux possibles" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Oser tendre la main vers de nouveaux possibles - Photo de [Liana S](https://unsplash.com/@cherstve_pechivo)" >}}
 
-
-Oser tendre la main vers de nouveaux possibles - Photo de [Liana S](https://unsplash.com/@cherstve_pechivo)
 
 ## Oser changer d’outil, changer d’habitude
 
@@ -45,10 +41,8 @@ L’essentiel, c’est l’action. Tant que tu restes dans l’hésitation, tes 
 
 J’ai vécu ce processus. J’ai pris mon téléphone, respiré un grand coup, et appelé. Au début, ce n’était pas évident. Mais en persévérant, j’ai compris que le plus difficile, ce n’était pas l’appel, mais le fait de dépasser mes propres croyances limitantes.
 
-{{< figure src="https://images.unsplash.com/photo-1615107899082-044cc1133649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyMzk1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Du quotidien naît la force de changer" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Du quotidien naît la force de changer" >}}
+{{< figure src="https://images.unsplash.com/photo-1615107899082-044cc1133649?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyMzk1Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Du quotidien naît la force de changer" title="Comment j’ai surmonté mes barrières mentales grâce à de petits gestes" caption="Du quotidien naît la force de changer - Photo de [sonia jahandari](https://unsplash.com/@soniajahandari)" >}}
 
-
-Du quotidien naît la force de changer - Photo de [sonia jahandari](https://unsplash.com/@soniajahandari)
 
 ## Créer des routines qui te soutiennent
 

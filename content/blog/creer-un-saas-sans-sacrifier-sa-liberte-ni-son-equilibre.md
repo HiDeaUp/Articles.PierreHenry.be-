@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/7a74cbfdf770"
 source_youtube = "https://www.youtube.com/watch?v=uHgN1wmGa3k"
 +++
 
-{{< figure src="https://unsplash.com/@mnelen" alt="Créer un SaaS sans sacrifier sa liberté ni son équilibre" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Vie nomade et SaaS" >}}
+{{< figure src="https://images.unsplash.com/photo-1654355252504-42c1c9dd1fe0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwbm9tYWQlMjB3b3JraW5nJTIwYmVhY2h8ZW58MHwwfHx8MTc4NTY2MjAzNHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Liberté d’entreprendre les pieds dans le sable" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Liberté d’entreprendre les pieds dans le sable - Photo de [Anastasiia Nelen](https://unsplash.com/@mnelen)" >}}
 
+
+**Vie nomade et SaaS**
 
 ## Créer un SaaS sans sacrifier sa liberté ni son équilibre
 
@@ -38,10 +40,8 @@ Quand tu lances un SaaS, la première chose à travailler, c’est le branding. 
 
 Le choix des couleurs n’est pas anodin : rouge pour l’énergie, bleu pour la confiance, gris pour le sérieux, rose pour la créativité ou l’amour. Mais au-delà de la palette, c’est la cohérence qui compte. Si tu es cool sur TikTok et hyper sérieux sur LinkedIn, tu perds ton audience. Il faut adapter le ton, mais rester fidèle à l’essence de ta marque.
 
-{{< figure src="https://images.unsplash.com/photo-1547105484-2871e57056f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBjYWZlJTIwY296eSUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NTY2MjAzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver l’équilibre même en travaillant à distance" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Trouver l’équilibre même en travaillant à distance" >}}
+{{< figure src="https://images.unsplash.com/photo-1547105484-2871e57056f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBjYWZlJTIwY296eSUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NTY2MjAzNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver l’équilibre même en travaillant à distance" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Trouver l’équilibre même en travaillant à distance - Photo de [Liana Mikah](https://unsplash.com/@lianamikah)" >}}
 
-
-Trouver l’équilibre même en travaillant à distance - Photo de [Liana Mikah](https://unsplash.com/@lianamikah)
 
 ## L’avatar client : la boussole de toutes tes décisions
 
@@ -67,10 +67,8 @@ J’ai vécu à Bruxelles, à Paris, à Melbourne, à Singapour. J’ai ressenti
 
 J’ai monté des sociétés à Londres, à Singapour, en Australie. Le Royaume-Uni reste, selon moi, le pays le plus simple pour créer une entreprise en ligne. Tout se fait sur internet, le taux d’imposition est raisonnable, la fermeture d’une société est aussi relativement simple.
 
-{{< figure src="https://images.unsplash.com/photo-1492681290082-e932832941e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMHN1bnJpc2UlMjBmcmVlZG9tfGVufDB8MHx8fDE3ODU2NjIwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur son parcours SaaS" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Prendre de la hauteur sur son parcours SaaS" >}}
+{{< figure src="https://images.unsplash.com/photo-1492681290082-e932832941e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtb3VudGFpbiUyMHN1bnJpc2UlMjBmcmVlZG9tfGVufDB8MHx8fDE3ODU2NjIwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur son parcours SaaS" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Prendre de la hauteur sur son parcours SaaS - Photo de [Pablo Heimplatz](https://unsplash.com/@pabloheimplatz)" >}}
 
-
-Prendre de la hauteur sur son parcours SaaS - Photo de [Pablo Heimplatz](https://unsplash.com/@pabloheimplatz)
 
 À Singapour, c’est plus complexe : il faut souvent un directeur local, les frais de comptabilité varient selon le chiffre d’affaires ou les dépenses. J’ai testé Slick (fondé par des Français, très efficace) et Awesome (plus cher, mais parfois plus adapté selon les pays). En Australie, c’est entre les deux, et il faut faire attention à la TVA, surtout si tu fais du e-commerce.
 
@@ -94,10 +92,8 @@ Travailler seul, c’est difficile. J’utilise des outils comme Forest (pour re
 
 Ma routine : consommer 20 % de contenu (livres, podcasts, formations), créer et agir 80 % du temps. L’abus d’information mène au syndrome de l’imposteur. Il faut agir, tester, apprendre en faisant.
 
-{{< figure src="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzcG9ydCUyMGJhY2twYWNrJTIwdHJhdmVsfGVufDB8MHx8fDE3ODU2NjIwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir ses mots, façonner sa vision" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Choisir ses mots, façonner sa vision" >}}
+{{< figure src="https://images.unsplash.com/photo-1655722724447-2d2a3071e7f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwYXNzcG9ydCUyMGJhY2twYWNrJTIwdHJhdmVsfGVufDB8MHx8fDE3ODU2NjIwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir ses mots, façonner sa vision" title="Créer un SaaS sans sacrifier sa liberté ni son équilibre" caption="Choisir ses mots, façonner sa vision - Photo de [Global Residence Index](https://unsplash.com/@globalresidenceindex)" >}}
 
-
-Choisir ses mots, façonner sa vision - Photo de [Global Residence Index](https://unsplash.com/@globalresidenceindex)
 
 ## Marketing : parle à ton avatar, pas à tout le monde
 

@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/22d6b7218814"
 source_youtube = "https://www.youtube.com/watch?v=sMUELqIk_2w"
 +++
 
-{{< figure src="https://unsplash.com/@naka_mura" alt="Sortir de la routine pour avancer vers ce qui compte" title="Sortir de la routine pour avancer vers ce qui compte" caption="Progresser avec intention" >}}
+{{< figure src="https://images.unsplash.com/photo-1628846229956-af4ff60a0a3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBlbXB0eSUyMHJvYWR8ZW58MHwwfHx8MTc4NTY2MjU5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer pas à pas vers l’essentiel" title="Sortir de la routine pour avancer vers ce qui compte" caption="Avancer pas à pas vers l’essentiel - Photo de [taichi nakamura](https://unsplash.com/@naka_mura)" >}}
 
+
+**Progresser avec intention**
 
 ## Sortir de la routine pour avancer vers ce qui compte
 
@@ -32,10 +34,8 @@ Pour casser cette routine, il faut se donner des défis. Se demander : qu’est-
 
 Pour ne plus tourner en rond, il est essentiel de traquer tes efforts et tes progrès. Sans suivi, tu risques de rester bloqué sans t’en rendre compte. J’ai commencé à utiliser des tags pour organiser mes vidéos : celles déjà traitées, celles à explorer. Cela m’a permis d’identifier les répétitions et de cibler les sujets à renouveler.
 
-{{< figure src="https://images.unsplash.com/photo-1588338949261-659fc6fed20b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3VybmFsJTIwYW5kJTIwY29mZmVlJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODU2NjI1OTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire le sens de chaque journée" title="Sortir de la routine pour avancer vers ce qui compte" caption="Écrire le sens de chaque journée" >}}
+{{< figure src="https://images.unsplash.com/photo-1588338949261-659fc6fed20b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxqb3VybmFsJTIwYW5kJTIwY29mZmVlJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODU2NjI1OTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire le sens de chaque journée" title="Sortir de la routine pour avancer vers ce qui compte" caption="Écrire le sens de chaque journée - Photo de [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout)" >}}
 
-
-Écrire le sens de chaque journée - Photo de [Sixteen Miles Out](https://unsplash.com/@sixteenmilesout)
 
 Ce principe s’applique à tous les domaines. Note ce que tu fais, ce que tu apprends, ce que tu veux changer. Prends le temps de regarder en arrière pour mesurer le chemin parcouru. C’est ainsi que tu éviteras de répéter les mêmes erreurs ou de rester coincé dans une routine stérile.
 
@@ -49,10 +49,8 @@ Comme dans la vie d’un entrepreneur, il faut réagir dès que quelque chose co
 
 Le temps n’est pas une ressource renouvelable. Si tu perds une heure aujourd’hui, tu ne la récupéreras jamais. L’argent peut revenir, le temps non. Il faut donc l’utiliser avec sagesse et intention.
 
-{{< figure src="https://images.unsplash.com/photo-1758272959663-b30513083206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoaWtlciUyMHJlYWNoaW5nJTIwbW91bnRhaW4lMjBzdW1taXR8ZW58MHwwfHx8MTc4NTY2MjU5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Fêter le courage de sortir du cadre" title="Sortir de la routine pour avancer vers ce qui compte" caption="Fêter le courage de sortir du cadre" >}}
+{{< figure src="https://images.unsplash.com/photo-1758272959663-b30513083206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoaWtlciUyMHJlYWNoaW5nJTIwbW91bnRhaW4lMjBzdW1taXR8ZW58MHwwfHx8MTc4NTY2MjU5M3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Fêter le courage de sortir du cadre" title="Sortir de la routine pour avancer vers ce qui compte" caption="Fêter le courage de sortir du cadre - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Fêter le courage de sortir du cadre - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 Chaque minute compte. Utilise-la pour avancer vers ce qui a du sens pour toi. Demande-toi régulièrement : est-ce que ce que je fais aujourd’hui me rapproche de mes objectifs, ou est-ce que je me contente de tourner en rond ?
 

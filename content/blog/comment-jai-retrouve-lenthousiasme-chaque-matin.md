@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/cf97ba68c14a"
 source_youtube = "https://www.youtube.com/watch?v=ogP7SY-3dkM"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1644945582515-2d03f90dcd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwd29tYW4lMjBzdHJldGNoaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI1MDAzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ouvrir à une journée pleine de possibles" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="S’ouvrir à une journée pleine de possibles" >}}
+{{< figure src="https://images.unsplash.com/photo-1644945582515-2d03f90dcd72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwd29tYW4lMjBzdHJldGNoaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI1MDAzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ouvrir à une journée pleine de possibles" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="S’ouvrir à une journée pleine de possibles - Photo de [Baylee Gramling](https://unsplash.com/@bayleejadegramling)" >}}
 
-
-S’ouvrir à une journée pleine de possibles - Photo de [Baylee Gramling](https://unsplash.com/@bayleejadegramling)
 
 Il t’arrive peut-être de te lever sans énergie, sans cette envie de commencer la journée. Pourtant, il existe des moyens concrets pour retrouver l’enthousiasme et transformer ton quotidien. Après de nombreuses expérimentations, j’ai identifié des leviers simples et efficaces pour cultiver cette motivation, jour après jour. Voici ce qui fonctionne vraiment pour moi.
 
@@ -34,10 +32,8 @@ La musique est un déclencheur puissant d’émotions et d’énergie. J’utili
 
 La lumière joue un rôle clé dans la qualité du réveil et de la motivation. J’ai testé les simulateurs d’aube, ces lampes qui reproduisent progressivement le lever du soleil. Pour environ 40 à 50 euros, tu peux en trouver facilement en ligne. La lumière qui augmente avant le réveil prépare le corps à sortir du sommeil naturellement. J’ai constaté que cela rend le réveil plus doux et donne le ton pour la journée.
 
-{{< figure src="https://images.unsplash.com/photo-1493770348161-369560ae357d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYnJlYWtmYXN0JTIwdGFibGUlMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyNTAwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un petit-déjeuner coloré pour nourrir l’envie" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="Un petit-déjeuner coloré pour nourrir l’envie" >}}
+{{< figure src="https://images.unsplash.com/photo-1493770348161-369560ae357d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwYnJlYWtmYXN0JTIwdGFibGUlMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyNTAwMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un petit-déjeuner coloré pour nourrir l’envie" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="Un petit-déjeuner coloré pour nourrir l’envie - Photo de [Brooke Lark](https://unsplash.com/@brookelark)" >}}
 
-
-Un petit-déjeuner coloré pour nourrir l’envie - Photo de [Brooke Lark](https://unsplash.com/@brookelark)
 
 Pour bien dormir, veille à ce que ta chambre soit sombre la nuit. Le matin, laisse la lumière t’envahir pour favoriser un réveil énergique.
 
@@ -51,10 +47,8 @@ Le week-end, je réserve parfois un Airbnb à la campagne ou à la montagne. Si 
 
 L’action est essentielle pour réveiller l’enthousiasme. Le matin, j’aime sauter devant le miroir ou faire quelques mouvements dynamiques pour activer mon corps et mon esprit. Ce rituel me donne un vrai coup de fouet.
 
-{{< figure src="https://images.unsplash.com/photo-1759523621990-58a409b68fad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxiZWRyb29tJTIwd2luZG93JTIwc29mdCUyMG1vcm5pbmclMjBsaWdodHxlbnwwfDB8fHwxNzg2MjUwMDMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin réveille l’âme" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="La lumière du matin réveille l’âme" >}}
+{{< figure src="https://images.unsplash.com/photo-1759523621990-58a409b68fad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxiZWRyb29tJTIwd2luZG93JTIwc29mdCUyMG1vcm5pbmclMjBsaWdodHxlbnwwfDB8fHwxNzg2MjUwMDMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin réveille l’âme" title="Comment j’ai retrouvé l’enthousiasme chaque matin" caption="La lumière du matin réveille l’âme - Photo de [Lilishia Gounder](https://unsplash.com/@lilishia)" >}}
 
-
-La lumière du matin réveille l’âme - Photo de [Lilishia Gounder](https://unsplash.com/@lilishia)
 
 Teste différents exercices : sauter, danser, t’étirer. L’important est de bouger pour sentir l’énergie circuler.
 

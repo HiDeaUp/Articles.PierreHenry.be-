@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/dd81d8678cac"
 source_youtube = "https://www.youtube.com/watch?v=zAXizR2BC1o"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1611570172695-ae1a64ee13bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjB0cmFpbHxlbnwwfDB8fHwxNzg2MjQzMTI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer vers une vie qui m’inspire" title="Ce que j’ai appris pour vivre enfin une vie qui me ressemble" caption="Avancer vers une vie qui m’inspire" >}}
+{{< figure src="https://images.unsplash.com/photo-1611570172695-ae1a64ee13bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjB0cmFpbHxlbnwwfDB8fHwxNzg2MjQzMTI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer vers une vie qui m’inspire" title="Ce que j’ai appris pour vivre enfin une vie qui me ressemble" caption="Avancer vers une vie qui m’inspire - Photo de [Jennifer Coffin-Grey](https://unsplash.com/@jennifergrey)" >}}
 
-
-Avancer vers une vie qui m’inspire - Photo de [Jennifer Coffin-Grey](https://unsplash.com/@jennifergrey)
 
 Il t’est sûrement déjà arrivé de te sentir insatisfait, même en faisant ce qui te passionne. Peut-être as-tu observé des personnes qui semblent avoir tout pour être heureuses, mais qui ne le sont pas, ou t’es-tu surpris à envier la vie de quelqu’un d’autre en te demandant s’il aime vraiment ce qu’il fait. Cette tension entre ce que l’on voudrait vivre et ce que l’on subit m’a amené à repenser ce qui rend la vie vraiment épanouissante.
 

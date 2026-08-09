@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/6f90a918176a"
 source_youtube = "https://www.youtube.com/watch?v=TsKA_2Jhufk"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1607557997149-96bf2b30c3c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGpvdXJuYWxpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0ODU0NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la clarté dans chaque page écrite" title="Comment un simple carnet a transformé mes journées" caption="Trouver la clarté dans chaque page écrite" >}}
+{{< figure src="https://images.unsplash.com/photo-1607557997149-96bf2b30c3c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGpvdXJuYWxpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0ODU0NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la clarté dans chaque page écrite" title="Comment un simple carnet a transformé mes journées" caption="Trouver la clarté dans chaque page écrite - Photo de [Alexandra Fuller](https://unsplash.com/@alexandrajf)" >}}
 
-
-Trouver la clarté dans chaque page écrite - Photo de [Alexandra Fuller](https://unsplash.com/@alexandrajf)
 
 Il est 3h41 du matin. Je viens de me réveiller, encore un peu endormi, mais déjà une idée me trotte dans la tête : aujourd’hui, je veux te montrer un outil simple qui a transformé ma manière de vivre et de travailler. Ce n’est ni un iPad dernier cri, ni une application révolutionnaire. C’est un carnet. Un simple carnet, posé sur mon lit, qui m’accompagne chaque matin.
 
@@ -38,10 +36,8 @@ Je note mes réussites, mes épreuves, les choses dont je suis fier. Parce que s
 
 Tu connais peut-être cette citation d’Abraham Lincoln : « Si tu me donnes six heures pour couper un arbre, je vais passer quatre heures à aiguiser ma hache et une heure seulement à couper l’arbre. » La préparation, la stratégie, la réflexion avant l’action, c’est ce qui fait la différence.
 
-{{< figure src="https://images.unsplash.com/photo-1642543492493-f57f7047be73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjB0YWJsZXxlbnwwfDB8fHwxNzg2MjQ4NTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le carnet qui guide chaque début de journée" title="Comment un simple carnet a transformé mes journées" caption="Le carnet qui guide chaque début de journée" >}}
+{{< figure src="https://images.unsplash.com/photo-1642543492493-f57f7047be73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjB0YWJsZXxlbnwwfDB8fHwxNzg2MjQ4NTQ2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le carnet qui guide chaque début de journée" title="Comment un simple carnet a transformé mes journées" caption="Le carnet qui guide chaque début de journée - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Le carnet qui guide chaque début de journée - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 Dans mon carnet, je ne me contente pas de lister des tâches. J’organise, je hiérarchise, je réfléchis à la meilleure façon de faire. Je surligne, je structure, j’améliore mes notes. L’organisation transforme une idée en résultat. Ce n’est pas le temps passé qui compte, mais la manière dont tu utilises ce temps.
 
@@ -59,10 +55,8 @@ Beaucoup s’obstinent dans une voie qui ne mène nulle part. Être persévéran
 
 La clé, c’est de savoir pivoter. D’utiliser les bons outils. Si tu veux percer un mur, prends un marteau-piqueur, pas ta tête. Dans la vie, c’est pareil : il faut parfois changer d’approche, tester de nouvelles méthodes, chercher ce qui fonctionne vraiment pour toi.
 
-{{< figure src="https://images.unsplash.com/photo-1710447503692-8364152e431c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kd3JpdGluZyUyMGlkZWFzJTIwZWFybHklMjBkYXdufGVufDB8MHx8fDE3ODYyNDg1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire pour vivre plus consciemment chaque matin" title="Comment un simple carnet a transformé mes journées" caption="Écrire pour vivre plus consciemment chaque matin" >}}
+{{< figure src="https://images.unsplash.com/photo-1710447503692-8364152e431c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kd3JpdGluZyUyMGlkZWFzJTIwZWFybHklMjBkYXdufGVufDB8MHx8fDE3ODYyNDg1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire pour vivre plus consciemment chaque matin" title="Comment un simple carnet a transformé mes journées" caption="Écrire pour vivre plus consciemment chaque matin - Photo de [Benja Godin](https://unsplash.com/@benja_godin)" >}}
 
-
-Écrire pour vivre plus consciemment chaque matin - Photo de [Benja Godin](https://unsplash.com/@benja_godin)
 
 Mon carnet, c’est aussi ça : un espace pour tester, ajuster, pivoter quand il le faut. Je ne reste pas bloqué sur une idée ou une méthode qui ne donne pas de résultats. J’expérimente, je note ce qui marche, j’abandonne ce qui ne sert à rien.
 

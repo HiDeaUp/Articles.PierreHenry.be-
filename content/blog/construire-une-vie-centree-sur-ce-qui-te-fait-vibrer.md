@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/5b8ae0470295"
 source_youtube = "https://www.youtube.com/watch?v=La_8AXpK520"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1776239979769-ab5672b094f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGJhY2twYWNrJTIwYWlycG9ydCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQ2NzU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser partir là où ton cœur appelle" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Oser partir là où ton cœur appelle" >}}
+{{< figure src="https://images.unsplash.com/photo-1776239979769-ab5672b094f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGJhY2twYWNrJTIwYWlycG9ydCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQ2NzU0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser partir là où ton cœur appelle" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Oser partir là où ton cœur appelle - Photo de [Margo Evardson](https://unsplash.com/@stadinstudio)" >}}
 
-
-Oser partir là où ton cœur appelle - Photo de [Margo Evardson](https://unsplash.com/@stadinstudio)
 
 Derrière moi, les avions décollent et atterrissent. Ce décor d’aéroport symbolise le mouvement, le départ, la possibilité de nouveaux horizons. C’est ici que je t’invite à réfléchir à une question essentielle : comment construire un mode de vie centré sur ta passion, sans te perdre dans la complexité qui freine ton élan ?
 
@@ -36,10 +34,8 @@ Vivre de sa passion ne signifie pas forcément en faire un métier traditionnel.
 
 Ce qui compte, c’est d’être au contact de ce qui t’anime, de créer des échanges, de partager, d’apprendre. Parfois, ton rôle sera d’écouter, de poser les bonnes questions, de mettre en lumière ceux qui vivent déjà de cette passion. C’est tout aussi valable et gratifiant.
 
-{{< figure src="https://images.unsplash.com/photo-1764867256379-3877b9cb5832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW4lMjByZWFkaW5nJTIwbWluaW1hbGlzdCUyMGJlZHJvb218ZW58MHwwfHx8MTc4NjI0Njc1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Laisser la lumière guider tes choix essentiels" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Laisser la lumière guider tes choix essentiels" >}}
+{{< figure src="https://images.unsplash.com/photo-1764867256379-3877b9cb5832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW4lMjByZWFkaW5nJTIwbWluaW1hbGlzdCUyMGJlZHJvb218ZW58MHwwfHx8MTc4NjI0Njc1NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Laisser la lumière guider tes choix essentiels" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Laisser la lumière guider tes choix essentiels - Photo de [Efe Kekikciler](https://unsplash.com/@mutanzom)" >}}
 
-
-Laisser la lumière guider tes choix essentiels - Photo de [Efe Kekikciler](https://unsplash.com/@mutanzom)
 
 ## Construire sa crédibilité, accepter le temps long
 
@@ -59,10 +55,8 @@ Si tu utilises l’email, construis une mailing list avec des outils comme Mailc
 
 Quand tu as une communauté, tu peux envisager de monétiser. Crée un produit, lance une formation, propose un livre. Ne brûle pas les étapes : inutile de publier un livre sur Amazon si personne ne te connaît. Attends d’avoir une audience fidèle, prête à te soutenir. La monétisation vient après l’attraction, jamais avant.
 
-{{< figure src="https://images.unsplash.com/photo-1478515463067-d20f52aace26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5yaXNlJTIwbW91bnRhaW4lMjBzaWxob3VldHRlJTIwYWxvbmV8ZW58MHwwfHx8MTc4NjI0Njc1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à l’horizon, choisir sa propre voie" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Face à l’horizon, choisir sa propre voie" >}}
+{{< figure src="https://images.unsplash.com/photo-1478515463067-d20f52aace26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5yaXNlJTIwbW91bnRhaW4lMjBzaWxob3VldHRlJTIwYWxvbmV8ZW58MHwwfHx8MTc4NjI0Njc1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à l’horizon, choisir sa propre voie" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Face à l’horizon, choisir sa propre voie - Photo de [Matt Sclarandis](https://unsplash.com/@matt_sclarandis)" >}}
 
-
-Face à l’horizon, choisir sa propre voie - Photo de [Matt Sclarandis](https://unsplash.com/@matt_sclarandis)
 
 Tu peux aussi vendre des interviews, des ateliers, des contenus premium. L’important est de rester aligné avec ta passion, sans te forcer à faire ce qui ne te ressemble pas. Si tu es passionné, ton enthousiasme sera contagieux, et les gens seront prêts à payer pour accéder à ce que tu proposes.
 
@@ -80,10 +74,8 @@ La pollution mentale vient souvent de la complexité accumulée : outils inutile
 
 Ce travail demande de la discipline, mais il est essentiel pour reprendre le contrôle de ta vie. Plus tu feras le propre dans ton quotidien, plus tu seras disponible pour ta passion, plus tu avanceras vite et bien.
 
-{{< figure src="https://images.unsplash.com/photo-1566165069885-625ec8fbac71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBjZXJhbWljJTIwbXVnJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0Njc1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer l’instant simple et passionné" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Savourer l’instant simple et passionné" >}}
+{{< figure src="https://images.unsplash.com/photo-1566165069885-625ec8fbac71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBjZXJhbWljJTIwbXVnJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0Njc1Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer l’instant simple et passionné" title="Construire une vie centrée sur ce qui te fait vibrer" caption="Savourer l’instant simple et passionné - Photo de [Chandra Oh](https://unsplash.com/@ceveoh)" >}}
 
-
-Savourer l’instant simple et passionné - Photo de [Chandra Oh](https://unsplash.com/@ceveoh)
 
 ## Créer une atmosphère sur mesure
 

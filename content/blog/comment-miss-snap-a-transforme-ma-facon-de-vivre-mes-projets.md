@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/bea5019a2ed7"
 source_youtube = "https://www.youtube.com/watch?v=NeNWRoYcNZw"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1611095973763-414019e72400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3aXRoJTIwbGFwdG9wJTIwbW9ybmluZyUyMGNvZmZlZXxlbnwwfDB8fHwxNzg2MjUyNDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer chaque projet avec passion et curiosité" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Commencer chaque projet avec passion et curiosité" >}}
+{{< figure src="https://images.unsplash.com/photo-1611095973763-414019e72400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3aXRoJTIwbGFwdG9wJTIwbW9ybmluZyUyMGNvZmZlZXxlbnwwfDB8fHwxNzg2MjUyNDA3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer chaque projet avec passion et curiosité" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Commencer chaque projet avec passion et curiosité - Photo de [Docusign](https://unsplash.com/@docusign)" >}}
 
-
-Commencer chaque projet avec passion et curiosité - Photo de [Docusign](https://unsplash.com/@docusign)
 
 La vie est trop courte pour s’ennuyer
 
@@ -26,10 +24,8 @@ Miss Snap est une application que j’ai créée pour suivre ce que je mange et 
 
 Notre perception de nos habitudes est souvent faussée. On oublie vite ce qu’on a mangé, on minimise certains excès. Mais quand j’ai vu, grâce à l’application, que j’avais mangé près de 100 kilos de frites en cinq ans, j’ai pris conscience de l’écart entre mes intentions et la réalité. Sans ce suivi, je ne m’en serais jamais rendu compte.
 
-{{< figure src="https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kJTIwd3JpdGluZyUyMGluJTIwcGxhbm5lciUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTI0MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses rêves pour mieux les réaliser" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Écrire ses rêves pour mieux les réaliser" >}}
+{{< figure src="https://images.unsplash.com/photo-1456324504439-367cee3b3c32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kJTIwd3JpdGluZyUyMGluJTIwcGxhbm5lciUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTI0MDh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses rêves pour mieux les réaliser" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Écrire ses rêves pour mieux les réaliser - Photo de [Cathryn Lavery](https://unsplash.com/@cathrynlavery)" >}}
 
-
-Écrire ses rêves pour mieux les réaliser - Photo de [Cathryn Lavery](https://unsplash.com/@cathrynlavery)
 
 Ce projet est devenu ma mission de vie. Chaque jour, je consacre entre une demi-heure et une heure et demie au développement de Miss Snap. Parfois, ce n’est qu’une demi-heure, mais je le fais tous les jours, sans exception. Il n’y a pas un jour où je n’avance pas, même un peu. Ce rythme régulier, cette constance, fait toute la différence. Ce n’est pas la quantité de travail en une seule fois qui compte, mais la persévérance quotidienne.
 
@@ -37,10 +33,8 @@ Créer un projet épanouissant, c’est possible
 
 Ce que je retiens de cette expérience, c’est que chacun peut trouver un projet qui le motive, qui lui donne envie de se lever le matin. Il ne s’agit pas forcément de créer une application. L’essentiel, c’est de trouver ce qui te passionne, ce qui te donne le sentiment d’avancer vers une vie qui te ressemble. Pour moi, coder sur Miss Snap est un plaisir, un moteur pour mon bien-être et ma fierté personnelle.
 
-{{< figure src="https://images.unsplash.com/photo-1618360102298-833604585fc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjYWxlbmRhciUyMHdhbGwlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI1MjQwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Adopter de nouvelles habitudes pour avancer sereinement" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Adopter de nouvelles habitudes pour avancer sereinement" >}}
+{{< figure src="https://images.unsplash.com/photo-1618360102298-833604585fc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjYWxlbmRhciUyMHdhbGwlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI1MjQwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Adopter de nouvelles habitudes pour avancer sereinement" title="Comment Miss Snap a transformé ma façon de vivre mes projets" caption="Adopter de nouvelles habitudes pour avancer sereinement - Photo de [sq lim](https://unsplash.com/@sql)" >}}
 
-
-Adopter de nouvelles habitudes pour avancer sereinement - Photo de [sq lim](https://unsplash.com/@sql)
 
 Si tu ressens ce manque, cette impression de passer à côté de ta vie, je t’invite à te lancer. Commence petit, mais avance chaque jour. Même une demi-heure par jour peut transformer un rêve en réalité, à condition de t’y tenir. La transparence que m’apporte Miss Snap sur mes habitudes, tu peux la retrouver dans n’importe quel domaine de ta vie, à condition de mesurer, d’ajuster et de progresser.
 

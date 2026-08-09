@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/0aca05ae55e1"
 source_youtube = "https://www.youtube.com/watch?v=ld9GT8j48eU"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1542330952-bffc55e812b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGRlY2x1dHRlcmluZyUyMGRlc2t8ZW58MHwwfHx8MTc4NjI0NTgxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer l’essentiel, sourire retrouvé" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="Savourer l’essentiel, sourire retrouvé" >}}
+{{< figure src="https://images.unsplash.com/photo-1542330952-bffc55e812b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGRlY2x1dHRlcmluZyUyMGRlc2t8ZW58MHwwfHx8MTc4NjI0NTgxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer l’essentiel, sourire retrouvé" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="Savourer l’essentiel, sourire retrouvé - Photo de [Paige Cody](https://unsplash.com/@paige_cody)" >}}
 
-
-Savourer l’essentiel, sourire retrouvé - Photo de [Paige Cody](https://unsplash.com/@paige_cody)
 
 Il y a une surcharge silencieuse qui pèse sur nos vies modernes : plus nos journées se remplissent, plus notre esprit s’encombre. Cette accumulation, je la ressens comme une pollution mentale. Elle s’infiltre partout : dans nos applications, nos routines, nos engagements, nos échanges quotidiens. Sans ménage régulier, elle finit par nous submerger.
 
@@ -30,10 +28,8 @@ Ce tri n’est pas qu’une question de confort. Il te permet de reprendre le co
 
 Revoir ses objectifs : distinguer l’essentiel
 
-{{< figure src="https://images.unsplash.com/photo-1777115582253-26a58b821a54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjB0aWR5JTIwa2l0Y2hlbiUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQ1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La simplicité éclaire nos routines" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="La simplicité éclaire nos routines" >}}
+{{< figure src="https://images.unsplash.com/photo-1777115582253-26a58b821a54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjB0aWR5JTIwa2l0Y2hlbiUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQ1ODE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La simplicité éclaire nos routines" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="La simplicité éclaire nos routines - Photo de [franci ee](https://unsplash.com/@ee_franci)" >}}
 
-
-La simplicité éclaire nos routines - Photo de [franci ee](https://unsplash.com/@ee_franci)
 
 Faire le propre, c’est aussi revoir tes objectifs. Certains sont irréalistes ou trop lourds. D’autres sont simples et réalisables. Prends le temps de comparer : qu’est-ce que tu peux mettre en place aujourd’hui ? Qu’est-ce qui, hier, t’a pesé ou rendu malheureux ? Il y a sûrement des habitudes ou des tâches qui t’irritent sans que tu t’en rendes compte.
 
@@ -45,10 +41,8 @@ J’ai proposé à ma copine de passer au “pick and collect”, un service cou
 
 Ce changement simple a eu un impact réel. Il a libéré du temps, de l’énergie, et surtout de l’espace mental. Plus besoin de penser chaque jour à ce qu’il manque, de se presser après le travail pour faire les courses. On a allégé notre quotidien, et on peut se concentrer sur l’essentiel.
 
-{{< figure src="https://images.unsplash.com/photo-1758438919146-f3f59a6d2544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjB3YWxraW5nJTIwcXVpZXQlMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDU4MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’échapper du brouillard mental quotidien" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="S’échapper du brouillard mental quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1758438919146-f3f59a6d2544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjB3YWxraW5nJTIwcXVpZXQlMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDU4MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’échapper du brouillard mental quotidien" title="Comment j’ai retrouvé du temps et de la clarté en simplifiant mes routines" caption="S’échapper du brouillard mental quotidien - Photo de [Zetong Li](https://unsplash.com/@zetong)" >}}
 
-
-S’échapper du brouillard mental quotidien - Photo de [Zetong Li](https://unsplash.com/@zetong)
 
 Comment appliquer cette logique à ton quotidien ?
 

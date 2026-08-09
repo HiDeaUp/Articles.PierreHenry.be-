@@ -182,6 +182,19 @@ def escape_toml(value: str) -> str:
     return value.replace("\\", "\\\\").replace('"', '\\"')
 
 
+def normalize_original_title(value: str) -> str:
+    if "—" not in value:
+        return value
+
+    prefix, suffix = re.split(r"\s*—\s*", value, maxsplit=1)
+    suffix = suffix.replace("—", "-")
+    if ":" in prefix:
+        return f"{prefix}, {suffix}"
+    if not suffix.isupper():
+        suffix = suffix[:1].lower() + suffix[1:]
+    return f"{prefix}: {suffix}"
+
+
 def normalize_publication_date(value: str) -> str:
     value = value.strip()
     if re.fullmatch(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?", value):
@@ -318,7 +331,7 @@ def normalize_sections(body: str) -> str:
             if replacement:
                 normalized_lines.append(replacement)
                 continue
-        normalized_lines.append(line)
+        normalized_lines.append(line.rstrip())
 
     text = "\n".join(normalized_lines)
     text = re.sub(r"(?m)^https://(?:www\.)?youtube\.com/watch\?v=.*$\n?", "", text)
@@ -365,7 +378,12 @@ def escape_shortcode_value(value: str) -> str:
 
 
 def normalize_alt_text(value: str, fallback: str) -> str:
-    alt = re.sub(r"\s*(?:-|--|—)\s*Photo by\s+.*?(?:\s+on\s+Unsplash)?\s*$", "", value, flags=re.I)
+    alt = re.sub(
+        r"\s*(?:-|--|—)\s*Photo (?:by|de|par)\s+.*?(?:\s+(?:on|sur)\s+Unsplash)?\s*$",
+        "",
+        value,
+        flags=re.I,
+    )
     alt = re.sub(r"\s+", " ", alt).strip()
     if not alt or alt.lower().startswith("photo by") or len(alt) > 180:
         return fallback
@@ -387,19 +405,27 @@ def convert_markdown_images(body: str, page_title: str) -> str:
     )
     image_with_caption_pattern = re.compile(
         r'(?ms)^!\[(?P<alt>.*?)\]\((?P<src>\S+?)(?:\s+"(?P<title>[^"]*)")?\)\s*\n'
-        r'(?P<caption>\*.*?\*|[^\n]*Photo by[^\n]*)\s*$'
+        r'(?P<caption>\*.*?\*|[^\n]*(?i:Photo (?:by|de|par))[^\n]*)\s*$'
     )
 
     def replacement(match: re.Match[str]) -> str:
+        src = match.group("src")
+        if src.startswith("https://unsplash.com/"):
+            return ""
+
         raw_alt = match.group("alt")
         title = match.group("title") or page_title
         raw_caption = match.groupdict().get("caption") or ""
         caption = raw_caption.strip().strip("*").strip()
         alt = normalize_alt_text(raw_alt, page_title)
         if not caption:
-            credit_match = re.search(r"(?:-|--|—)\s*(Photo by\s+.*)$", raw_alt, flags=re.I)
+            credit_match = re.search(
+                r"(?:-|--|—)\s*(Photo (?:by|de|par)\s+.*)$",
+                raw_alt,
+                flags=re.I,
+            )
             caption = credit_match.group(1) if credit_match else alt
-        return make_figure_shortcode(match.group("src"), alt, title, caption)
+        return make_figure_shortcode(src, alt, title, caption)
 
     parts = re.split(r"(?ms)(^```.*?^```)", body)
     for index in range(0, len(parts), 2):
@@ -455,6 +481,7 @@ def render_front_matter(metadata: dict[str, str], title: str, slug: str, tags: l
 
     original_title = metadata.get("original_title")
     if original_title:
+        original_title = normalize_original_title(original_title)
         lines.append(f'original_title = "{escape_toml(original_title)}"')
 
     medium_url = metadata.get("medium_url")

@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/1bf1b6f80c74"
 source_youtube = "https://www.youtube.com/watch?v=stGHH5CtZuc"
 +++
 
-{{< figure src="https://unsplash.com/@bielmorro" alt="Comment de petites nouveautés élargissent tes horizons" title="Comment de petites nouveautés élargissent tes horizons" caption="Sortir de sa zone de confort" >}}
+{{< figure src="https://images.unsplash.com/photo-1483387912914-f903fc3e0afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0ZXBwaW5nJTIwaW50byUyMGZvcmVzdHxlbnwwfDB8fHwxNzg1NjY1ODkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer, c’est déjà explorer l’inconnu" title="Comment de petites nouveautés élargissent tes horizons" caption="Avancer, c’est déjà explorer l’inconnu - Photo de [Biel Morro](https://unsplash.com/@bielmorro)" >}}
 
+
+**Sortir de sa zone de confort**
 
 ## Comment de petites nouveautés élargissent tes horizons
 
@@ -28,10 +30,8 @@ Une phrase me revient souvent : « Oser, c’est perdre l’équilibre un instan
 
 Je te propose d’essayer chaque jour quelque chose de nouveau. Cela peut être aussi simple que t’installer dans un coffee shop inconnu, dîner dans un restaurant jamais testé, ou aller seul dans ce bar à cocktails qui t’attire depuis longtemps. Peut-être ressens-tu de la timidité ou de l’appréhension. Mais aujourd’hui, donne-toi la permission d’étendre ta zone de confort, d’y faire entrer de nouvelles expériences.
 
-{{< figure src="https://images.unsplash.com/photo-1772291320136-7bfb40006088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGV4cGxvcmluZyUyMG5ldyUyMGZhYnJpY3xlbnwwfDB8fHwxNzg1NjY1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer, c’est oser réinventer son quotidien" title="Comment de petites nouveautés élargissent tes horizons" caption="Créer, c’est oser réinventer son quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1772291320136-7bfb40006088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGV4cGxvcmluZyUyMG5ldyUyMGZhYnJpY3xlbnwwfDB8fHwxNzg1NjY1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer, c’est oser réinventer son quotidien" title="Comment de petites nouveautés élargissent tes horizons" caption="Créer, c’est oser réinventer son quotidien - Photo de [Erwin Bosman](https://unsplash.com/@erwinbosman)" >}}
 
-
-Créer, c’est oser réinventer son quotidien - Photo de [Erwin Bosman](https://unsplash.com/@erwinbosman)
 
 ## Les petites nouveautés ouvrent de grandes portes
 
@@ -45,10 +45,8 @@ En élargissant ta zone de confort, tu remarqueras que ce qui te faisait peur hi
 
 C’est en multipliant ces petits pas hors de ta routine que tu apprivoises la nouveauté, que tu réduis la peur et gagnes en assurance. Plus tu oses, plus tu t’ouvres à ce que la vie peut t’apporter.
 
-{{< figure src="https://images.unsplash.com/photo-1779765717609-497b65dc4b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjaXR5JTIwc3RyZWV0JTIwZWFybHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NTY2NTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Chaque lumière nouvelle élargit ton regard" title="Comment de petites nouveautés élargissent tes horizons" caption="Chaque lumière nouvelle élargit ton regard" >}}
+{{< figure src="https://images.unsplash.com/photo-1779765717609-497b65dc4b29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjaXR5JTIwc3RyZWV0JTIwZWFybHklMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NTY2NTg5NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Chaque lumière nouvelle élargit ton regard" title="Comment de petites nouveautés élargissent tes horizons" caption="Chaque lumière nouvelle élargit ton regard - Photo de [dav other](https://unsplash.com/@davalkina)" >}}
 
-
-Chaque lumière nouvelle élargit ton regard - Photo de [dav other](https://unsplash.com/@davalkina)
 
 ## Construire une vie qui te ressemble
 

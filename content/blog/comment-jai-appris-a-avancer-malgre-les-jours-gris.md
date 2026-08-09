@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/d5d680fc56ad"
 source_youtube = "https://www.youtube.com/watch?v=4_IEeQwXLFI"
 +++
 
-{{< figure src="https://unsplash.com/@demandshothk" alt="Comment j’ai appris à avancer malgré les jours gris" title="Comment j’ai appris à avancer malgré les jours gris" caption="Construire sa force intérieure" >}}
+{{< figure src="https://images.unsplash.com/photo-1777905374426-9ed62077a1c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdhbGtpbmclMjByYWlueSUyMHN0cmVldHxlbnwwfDB8fHwxNzg1NjY1NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la lumière même sous la pluie" title="Comment j’ai appris à avancer malgré les jours gris" caption="Trouver la lumière même sous la pluie - Photo de [Desmond Leung](https://unsplash.com/@demandshothk)" >}}
 
+
+**Construire sa force intérieure**
 
 ## Comment j’ai appris à avancer malgré les jours gris
 
@@ -28,10 +30,8 @@ Pour progresser, il est essentiel de distinguer deux horizons : la vision à cou
 
 La vision à long terme, elle, est plus diffuse. Il ne s’agit plus seulement de ce que tu veux faire, mais de qui tu veux devenir dans cinq à huit ans. Si tu pouvais choisir la personne idéale que tu aimerais être, à quoi ressemblerait-elle ? Parfois, on s’inspire de modèles, de personnes qui incarnent ce que l’on voudrait devenir. Cette projection, même vague, sert de boussole pour orienter tes choix et tes efforts.
 
-{{< figure src="https://images.unsplash.com/photo-1736819341395-15591452a54c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBzdGVhbWluZyUyMG11ZyUyMHdpbmRvd3xlbnwwfDB8fHwxNzg1NjY1NTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un moment pour respirer et se recentrer" title="Comment j’ai appris à avancer malgré les jours gris" caption="Un moment pour respirer et se recentrer" >}}
+{{< figure src="https://images.unsplash.com/photo-1736819341395-15591452a54c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBzdGVhbWluZyUyMG11ZyUyMHdpbmRvd3xlbnwwfDB8fHwxNzg1NjY1NTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un moment pour respirer et se recentrer" title="Comment j’ai appris à avancer malgré les jours gris" caption="Un moment pour respirer et se recentrer - Photo de [Leiada Krözjhen](https://unsplash.com/@leiadakrozjhen)" >}}
 
-
-Un moment pour respirer et se recentrer - Photo de [Leiada Krözjhen](https://unsplash.com/@leiadakrozjhen)
 
 ## Composer avec l’environnement
 
@@ -45,10 +45,8 @@ L’hiver, j’ai tendance à faire plus de brainstorming, à réfléchir à mes
 
 Parfois, ce sera simplement réfléchir, écrire, ou faire le bilan de tes envies. L’important, c’est la régularité et l’investissement sur toi-même. Petit à petit, tu construis ta semaine idéale, ton mois idéal, et tu te rapproches de la vie qui t’enthousiasme.
 
-{{< figure src="https://images.unsplash.com/photo-1612561855855-d9344eb8187d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMGJyZWFraW5nJTIwdGhyb3VnaCUyMGNsb3Vkc3xlbnwwfDB8fHwxNzg1NjY1NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’espoir renaît, même sous un ciel gris" title="Comment j’ai appris à avancer malgré les jours gris" caption="L’espoir renaît, même sous un ciel gris" >}}
+{{< figure src="https://images.unsplash.com/photo-1612561855855-d9344eb8187d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMGJyZWFraW5nJTIwdGhyb3VnaCUyMGNsb3Vkc3xlbnwwfDB8fHwxNzg1NjY1NTY4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’espoir renaît, même sous un ciel gris" title="Comment j’ai appris à avancer malgré les jours gris" caption="L’espoir renaît, même sous un ciel gris - Photo de [Richard Fullbrook](https://unsplash.com/@reel_rebellion)" >}}
 
-
-L’espoir renaît, même sous un ciel gris - Photo de [Richard Fullbrook](https://unsplash.com/@reel_rebellion)
 
 ## Passer à l’action, aujourd’hui
 

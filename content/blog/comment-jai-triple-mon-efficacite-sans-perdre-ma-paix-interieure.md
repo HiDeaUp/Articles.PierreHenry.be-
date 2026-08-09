@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/c7b5f5744041"
 source_youtube = "https://www.youtube.com/watch?v=aXX7gfcermQ"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1758599878920-d42cccc4aeca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBsaXZpbmclMjByb29tfGVufDB8MHx8fDE3ODYyNTE4MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Méditer pour amplifier la productivité sereine" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Méditer pour amplifier la productivité sereine" >}}
+{{< figure src="https://images.unsplash.com/photo-1758599878920-d42cccc4aeca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBsaXZpbmclMjByb29tfGVufDB8MHx8fDE3ODYyNTE4MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Méditer pour amplifier la productivité sereine" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Méditer pour amplifier la productivité sereine - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Méditer pour amplifier la productivité sereine - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 Un paradoxe te préoccupe peut-être : comment accomplir trois fois plus sans sacrifier ta paix intérieure ? On présente souvent la productivité comme une course effrénée, une accumulation de tâches et d’outils qui finissent par nous épuiser. Pourtant, il existe une approche plus sereine et efficace. J’ai construit mon quotidien autour de cette idée, et aujourd’hui, je veux te partager le plan d’efficacité qui m’a permis de transformer ma façon de travailler et de préserver mon équilibre.
 
@@ -36,10 +34,8 @@ Teste plusieurs applications si besoin, mais ne garde que celle qui te convient 
 
 Si tu voyages beaucoup ou que ta connexion est incertaine, limite les tâches qui nécessitent Internet. Prévois des actions réalisables hors ligne et privilégie des outils utilisables sans connexion.
 
-{{< figure src="https://images.unsplash.com/photo-1614783424231-6a7658f47ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxvcmdhbml6ZWQlMjBkZXNrJTIwbW9ybmluZyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTE4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mettre des mots sur ses nouvelles habitudes" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Mettre des mots sur ses nouvelles habitudes" >}}
+{{< figure src="https://images.unsplash.com/photo-1614783424231-6a7658f47ec9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxvcmdhbml6ZWQlMjBkZXNrJTIwbW9ybmluZyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTE4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Mettre des mots sur ses nouvelles habitudes" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Mettre des mots sur ses nouvelles habitudes - Photo de [Vinicius &#34;amnx&#34; Amano](https://unsplash.com/@viniciusamano)" >}}
 
-
-Mettre des mots sur ses nouvelles habitudes - Photo de [Vinicius "amnx" Amano](https://unsplash.com/@viniciusamano)
 
 Pour gérer notes et informations, utilise par exemple Apple Notes (qui permet de scanner et d’archiver des documents), Google Keep ou Notion. Centralise tes données, numérise tes papiers, classe-les dans des dossiers spécifiques et débarrasse-toi du papier inutile. Devenir “paperless” allège ton espace physique et ta charge mentale.
 
@@ -57,10 +53,8 @@ Même logique pour les réseaux sociaux : limite leur usage non professionnel à
 
 Fais le tri dans ce que tu possèdes et dans tes activités. Plus tu élimines l’inutile, plus tu libères d’espace et d’énergie mentale. Si tu n’as pas utilisé un objet depuis trois mois, il y a peu de chances que tu en aies encore besoin. Vends-le, donne-le ou recycle-le. Ta maison n’est pas un espace de stockage.
 
-{{< figure src="https://images.unsplash.com/photo-1585809913760-4fb4ed7d33e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBibGFua2V0fGVufDB8MHx8fDE3ODYyNTE4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Des outils simples pour l’efficacité apaisée" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Des outils simples pour l’efficacité apaisée" >}}
+{{< figure src="https://images.unsplash.com/photo-1585809913760-4fb4ed7d33e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBibGFua2V0fGVufDB8MHx8fDE3ODYyNTE4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Des outils simples pour l’efficacité apaisée" title="Comment j’ai triplé mon efficacité sans perdre ma paix intérieure" caption="Des outils simples pour l’efficacité apaisée - Photo de [NegiPho](https://unsplash.com/@negipho)" >}}
 
-
-Des outils simples pour l’efficacité apaisée - Photo de [NegiPho](https://unsplash.com/@negipho)
 
 Adopte la règle du strict minimum : garde uniquement ce qui te sert vraiment. Par exemple, si tu vis à deux, inutile d’avoir dix cuillères et cinq fourchettes. Moins tu as d’ustensiles, plus tu es obligé de les laver régulièrement, et plus il est facile de trouver ce que tu cherches. Cette simplicité matérielle favorise l’efficacité au quotidien.
 

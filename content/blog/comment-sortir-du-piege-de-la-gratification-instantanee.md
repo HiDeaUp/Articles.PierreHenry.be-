@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/f91ff6b049bc"
 source_youtube = "https://www.youtube.com/watch?v=muJFTEsaUPM"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1521566652839-697aa473761a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb258ZW58MHwwfHx8MTc4NjI0MjIzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir consciemment au lieu de céder à l’impulsion" title="Comment sortir du piège de la gratification instantanée" caption="Choisir consciemment au lieu de céder à l’impulsion" >}}
+{{< figure src="https://images.unsplash.com/photo-1521566652839-697aa473761a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb258ZW58MHwwfHx8MTc4NjI0MjIzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir consciemment au lieu de céder à l’impulsion" title="Comment sortir du piège de la gratification instantanée" caption="Choisir consciemment au lieu de céder à l’impulsion - Photo de [Joshua Rawson-Harris](https://unsplash.com/@joshrh19)" >}}
 
-
-Choisir consciemment au lieu de céder à l’impulsion - Photo de [Joshua Rawson-Harris](https://unsplash.com/@joshrh19)
 
 Imagine-toi en train de scroller sur ton téléphone, passant d’une vidéo à l’autre, absorbé par ce flux sans fin. Ce geste, tu le connais par cœur. Il est facile, réconfortant, et procure ce petit shot de plaisir instantané. Pourtant, une fois l’écran éteint, il ne reste rien. Pas de souvenir marquant, pas de fierté, juste la sensation d’avoir perdu du temps. C’est là tout le piège de la gratification instantanée : elle détourne ton attention de ce qui compte vraiment pour toi.
 
@@ -30,10 +28,8 @@ La différence entre le plaisir éphémère et la satisfaction durable est immen
 
 Le temps ne se remplace pas. Chaque journée est une opportunité unique de bâtir quelque chose de nouveau, de réel, qui te booste et te rapproche de tes aspirations. La vie ne t’attend pas, elle file. Agir aujourd’hui est essentiel.
 
-{{< figure src="https://images.unsplash.com/photo-1526907279934-3c9d2e53170f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGJ1aWxkaW5nJTIwd29vZGVuJTIwbW9kZWx8ZW58MHwwfHx8MTc4NjI0MjIzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tenir bon face à la tentation rapide" title="Comment sortir du piège de la gratification instantanée" caption="Tenir bon face à la tentation rapide" >}}
+{{< figure src="https://images.unsplash.com/photo-1526907279934-3c9d2e53170f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGJ1aWxkaW5nJTIwd29vZGVuJTIwbW9kZWx8ZW58MHwwfHx8MTc4NjI0MjIzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tenir bon face à la tentation rapide" title="Comment sortir du piège de la gratification instantanée" caption="Tenir bon face à la tentation rapide - Photo de [Ronja Flucke](https://unsplash.com/@ronjamaria)" >}}
 
-
-Tenir bon face à la tentation rapide - Photo de [Ronja Flucke](https://unsplash.com/@ronjamaria)
 
 ## Transformer l’intention en action concrète
 
@@ -51,10 +47,8 @@ Le secret, c’est la répétition. Un petit projet chaque jour, même modeste, 
 
 Le plus grand risque, ce n’est pas de se tromper, c’est de ne rien faire. Imagine-toi perdu dans le désert, assoiffé, sans savoir où trouver un puits. Si tu restes immobile, tu n’arriveras nulle part. Il faut choisir une direction, avancer, quitte à devoir faire demi-tour si ce n’était pas la bonne. Dans la vie, c’est pareil : si tu n’oses pas prendre de décision, tu stagnes. Même une mauvaise décision t’apprend quelque chose et te rapproche de la solution.
 
-{{< figure src="https://images.unsplash.com/photo-1620639862527-0efda041dc92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNtaWxpbmclMjBzdW5saWdodCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQyMjM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps de s’ancrer en soi" title="Comment sortir du piège de la gratification instantanée" caption="Prendre le temps de s’ancrer en soi" >}}
+{{< figure src="https://images.unsplash.com/photo-1620639862527-0efda041dc92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHNtaWxpbmclMjBzdW5saWdodCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjQyMjM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps de s’ancrer en soi" title="Comment sortir du piège de la gratification instantanée" caption="Prendre le temps de s’ancrer en soi - Photo de [TiAchen Aier](https://unsplash.com/@tchn27)" >}}
 
-
-Prendre le temps de s’ancrer en soi - Photo de [TiAchen Aier](https://unsplash.com/@tchn27)
 
 N’attends pas que tout soit parfait pour agir. Prends une décision, lance-toi, ajuste en chemin. C’est le seul moyen d’avancer et de te rapprocher de tes objectifs.
 

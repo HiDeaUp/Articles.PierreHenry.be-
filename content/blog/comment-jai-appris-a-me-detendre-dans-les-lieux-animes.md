@@ -8,13 +8,15 @@ summary = "Dans un café animé, un bus bondé ou à l’aéroport, le bruit et 
 tags = ["détente", "gestion du stress", "lieux publics", "sérénité", "tech", "techniques de relaxation"]
 priority = true
 priority_topics = ["tech"]
-original_title = "Vivre avec grandeur, intention et clarté : par où commencer ?"
+original_title = "Vivre avec grandeur, intention et clarté: par où commencer ?"
 source_medium = "https://medium.com/@phenrysay/f34f82a8c677"
 source_youtube = "https://www.youtube.com/watch?v=lVNy1LpPpiU"
 +++
 
-{{< figure src="https://unsplash.com/@artemkovalev" alt="Comment j’ai appris à me détendre dans les lieux animés" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Trouver le calme en public" >}}
+{{< figure src="https://images.unsplash.com/photo-1461468611824-46457c0e11fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbnxlbnwwfDB8fHwxNzg1NjY4OTA4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Respirer face à l’immensité, même en ville" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Respirer face à l’immensité, même en ville - Photo de [Artem Kovalev](https://unsplash.com/@artemkovalev)" >}}
 
+
+**Trouver le calme en public**
 
 ## Comment j’ai appris à me détendre dans les lieux animés
 
@@ -32,10 +34,8 @@ Ce rythme calme le corps et l’esprit, te ramène dans le moment présent et t�
 
 Un autre pilier de ma routine, c’est la méditation au réveil, chez moi. Ce moment de calme avant que la journée ne démarre me permet de mieux contrôler mes pensées et mes réactions. Résultat : dans les lieux publics, je suis beaucoup plus résistant au stress extérieur.
 
-{{< figure src="https://images.unsplash.com/photo-1770255888774-38da3cb1f322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3aXRoJTIwaGVhZHBob25lcyUyMGNyb3dkZWQlMjBzdWJ3YXl8ZW58MHwwfHx8MTc4NTY2ODkwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver son calme au cœur de la foule" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Retrouver son calme au cœur de la foule" >}}
+{{< figure src="https://images.unsplash.com/photo-1770255888774-38da3cb1f322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3aXRoJTIwaGVhZHBob25lcyUyMGNyb3dkZWQlMjBzdWJ3YXl8ZW58MHwwfHx8MTc4NTY2ODkwOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver son calme au cœur de la foule" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Retrouver son calme au cœur de la foule - Photo de [Aho](https://unsplash.com/@ahoroom)" >}}
 
-
-Retrouver son calme au cœur de la foule - Photo de [Aho](https://unsplash.com/@ahoroom)
 
 Même courte, la méditation matinale agit comme un entraînement. Elle t’aide à rester centré et à ne pas te laisser happer par l’agitation ou les imprévus.
 
@@ -49,10 +49,8 @@ Ce changement de posture influence mon état intérieur. Plus je me détends phy
 
 Enfin, il y a ce travail mental de relativisation. Je me demande toujours : “Quelle est la pire chose qui puisse m’arriver ici ?” Souvent, la réponse est… rien. Peut-être que quelqu’un me juge, mais ces gens ne me connaissent pas, et au fond, qu’est-ce que ça change ? La plupart de nos soucis dans les lieux publics sont insignifiants à l’échelle de l’univers. On se crée des problèmes qui, avec un peu de recul, n’en valent pas la peine.
 
-{{< figure src="https://images.unsplash.com/photo-1462392492910-dbe985c1e680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjB3aW5kb3clMjBwZWFjZWZ1bCUyMGNvcm5lcnxlbnwwfDB8fHwxNzg1NjY4OTEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chercher une parenthèse paisible dans l’agitation" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Chercher une parenthèse paisible dans l’agitation" >}}
+{{< figure src="https://images.unsplash.com/photo-1462392492910-dbe985c1e680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjB3aW5kb3clMjBwZWFjZWZ1bCUyMGNvcm5lcnxlbnwwfDB8fHwxNzg1NjY4OTEwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chercher une parenthèse paisible dans l’agitation" title="Comment j’ai appris à me détendre dans les lieux animés" caption="Chercher une parenthèse paisible dans l’agitation - Photo de [Ashim D’Silva](https://unsplash.com/@randomlies)" >}}
 
-
-Chercher une parenthèse paisible dans l’agitation - Photo de [Ashim D’Silva](https://unsplash.com/@randomlies)
 
 Prendre conscience de cela, c’est se libérer d’un poids inutile. On arrête de se focaliser sur le regard des autres et on retrouve de l’espace pour respirer, même dans l’agitation.
 

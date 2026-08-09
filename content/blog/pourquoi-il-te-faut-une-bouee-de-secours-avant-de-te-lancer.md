@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/734ce7a21c87"
 source_youtube = "https://www.youtube.com/watch?v=FuTUpaIQ11A"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1565367944640-2a5168f28411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxsaWZlJTIwcmluZyUyMGJlYWNoJTIwc3Vuc2V0fGVufDB8MHx8fDE3ODYyNDQ5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'entourer avant de plonger dans l'inconnu" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="S'entourer avant de plonger dans l'inconnu" >}}
+{{< figure src="https://images.unsplash.com/photo-1565367944640-2a5168f28411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxsaWZlJTIwcmluZyUyMGJlYWNoJTIwc3Vuc2V0fGVufDB8MHx8fDE3ODYyNDQ5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'entourer avant de plonger dans l'inconnu" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="S'entourer avant de plonger dans l'inconnu - Photo de [natsuki](https://unsplash.com/@myr0326)" >}}
 
-
-S'entourer avant de plonger dans l'inconnu - Photo de [natsuki](https://unsplash.com/@myr0326)
 
 Tu as peut-être un projet en tête, une envie de changement ou un rêve à réaliser : faire le tour du monde, acheter une ferme, ou créer un business de zéro. Se lancer à fond dans une nouvelle aventure est excitant. Pourtant, tout miser sur une seule idée, sans rien d’autre à côté, peut être risqué. Si ça ne marche pas, tu risques de tout perdre. C’est là qu’intervient la notion de bouée de secours.
 
@@ -28,10 +26,8 @@ Avoir une bouée de secours, c’est s’appuyer sur un autre pilier solide. Ce 
 
 Il ne s’agit pas seulement d’argent ou de réussite matérielle. L’important, c’est de cultiver des réussites dans différents aspects de ta vie. Si tu as déjà accompli des choses dont tu es fier, tu auras moins peur d’échouer dans de nouveaux projets. Même en cas d’échec, tu sais que tu as réussi ailleurs. Cette confiance te permet de prendre des risques et de t’investir pleinement, sans la peur de tout perdre.
 
-{{< figure src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBsYW5uaW5nJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI0NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses bases avant de se lancer" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="Écrire ses bases avant de se lancer" >}}
+{{< figure src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBsYW5uaW5nJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI0NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses bases avant de se lancer" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="Écrire ses bases avant de se lancer - Photo de [Thought Catalog](https://unsplash.com/@thoughtcatalog)" >}}
 
-
-Écrire ses bases avant de se lancer - Photo de [Thought Catalog](https://unsplash.com/@thoughtcatalog)
 
 ## Trouver l’équilibre
 
@@ -41,10 +37,8 @@ Si ce n’est pas le cas, commence par là. Travaille sur ta vie personnelle, su
 
 Que tu veuilles lancer une entreprise, reprendre des études ou relever un défi personnel, si ta vie personnelle est chaotique, chaque difficulté semblera insurmontable. Mets d’abord en place des fondations solides, puis lance-toi.
 
-{{< figure src="https://images.unsplash.com/photo-1766040676521-566f783dd16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoaWtlciUyMGNyb3NzaW5nJTIwcml2ZXIlMjBzdG9uZXN8ZW58MHwwfHx8MTc4NjI0NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="S'appuyer sur ses fondations pour avancer" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="S'appuyer sur ses fondations pour avancer" >}}
+{{< figure src="https://images.unsplash.com/photo-1766040676521-566f783dd16e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoaWtlciUyMGNyb3NzaW5nJTIwcml2ZXIlMjBzdG9uZXN8ZW58MHwwfHx8MTc4NjI0NDkyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="S'appuyer sur ses fondations pour avancer" title="Pourquoi il te faut une bouée de secours avant de te lancer" caption="S'appuyer sur ses fondations pour avancer - Photo de [Declan Sun](https://unsplash.com/@declansun)" >}}
 
-
-S'appuyer sur ses fondations pour avancer - Photo de [Declan Sun](https://unsplash.com/@declansun)
 
 ## Construire ta bouée de secours
 

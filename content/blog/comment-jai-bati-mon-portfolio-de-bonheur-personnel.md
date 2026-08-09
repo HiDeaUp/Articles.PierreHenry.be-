@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/50697853a547"
 source_youtube = "https://www.youtube.com/watch?v=v-7VTEj5TiY"
 +++
 
-{{< figure src="https://unsplash.com/@candice_picard" alt="Comment j’ai bâti mon portfolio de bonheur personnel" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Bonheur au quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1536914356815-690cf1fa40e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNtaWxpbmclMjBzdW5saWdodCUyMHdpbmRvd3xlbnwwfDB8fHwxNzg1NjY2Nzg0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Sourire sincère, reflet du bonheur construit" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Sourire sincère, reflet du bonheur construit - Photo de [Candice Picard](https://unsplash.com/@candice_picard)" >}}
 
+
+**Bonheur au quotidien**
 
 ## Comment j’ai bâti mon portfolio de bonheur personnel
 
@@ -28,10 +30,8 @@ Cette prise de conscience s’est concrétisée à travers mes projets personnel
 
 Au fil du temps, j’ai créé plusieurs applications, chacune répondant à un besoin différent et enrichissant mon quotidien. Ces projets forment ensemble un portfolio de bonheur : un ensemble d’activités qui, additionnées, constituent la base de mon bien-être.
 
-{{< figure src="https://images.unsplash.com/photo-1642543492572-69cc65b7746b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBncmF0aXR1ZGUlMjBqb3VybmFsfGVufDB8MHx8fDE3ODU2NjY3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instants simples, graines de gratitude quotidienne" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Instants simples, graines de gratitude quotidienne" >}}
+{{< figure src="https://images.unsplash.com/photo-1642543492572-69cc65b7746b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGhvbGRpbmclMjBncmF0aXR1ZGUlMjBqb3VybmFsfGVufDB8MHx8fDE3ODU2NjY3ODV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Instants simples, graines de gratitude quotidienne" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Instants simples, graines de gratitude quotidienne - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Instants simples, graines de gratitude quotidienne - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 Tu n’as pas besoin d’être développeur pour appliquer cette approche. L’essentiel est d’identifier et de cultiver ce qui te rend heureux et te donne de la gratitude. Que ce soit un projet créatif, une activité sportive, du bénévolat ou des moments de partage, l’important est de bâtir un portfolio personnel qui te ressemble.
 
@@ -41,10 +41,8 @@ Quand on multiplie les projets, le risque de s’épuiser existe. J’ai appris 
 
 Délimiter clairement des plages horaires pour chaque activité permet de préserver son énergie et d’éviter le burnout. Cela oblige à accepter que tout ne sera pas fini d’un coup, mais chaque avancée compte. C’est ce qui fait la différence sur le long terme.
 
-{{< figure src="https://images.unsplash.com/photo-1758523668661-3ed85a005b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZWFjZWZ1bCUyMG1vcm5pbmclMjBjb2ZmZWUlMjBiYWxjb255fGVufDB8MHx8fDE3ODU2NjY3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pause lecture, savourer l’énergie du moment" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Pause lecture, savourer l’énergie du moment" >}}
+{{< figure src="https://images.unsplash.com/photo-1758523668661-3ed85a005b0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZWFjZWZ1bCUyMG1vcm5pbmclMjBjb2ZmZWUlMjBiYWxjb255fGVufDB8MHx8fDE3ODU2NjY3ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Pause lecture, savourer l’énergie du moment" title="Comment j’ai bâti mon portfolio de bonheur personnel" caption="Pause lecture, savourer l’énergie du moment - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Pause lecture, savourer l’énergie du moment - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 ## Devenir le Héros de ta Vie
 

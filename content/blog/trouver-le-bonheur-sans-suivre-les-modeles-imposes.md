@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/4b2855b53d8f"
 source_youtube = "https://www.youtube.com/watch?v=3ZyCTWZzg3c"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1620137964181-2596f0fb0454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer à son rythme vers soi-même" title="Trouver le bonheur sans suivre les modèles imposés" caption="Avancer à son rythme vers soi-même" >}}
+{{< figure src="https://images.unsplash.com/photo-1620137964181-2596f0fb0454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer à son rythme vers soi-même" title="Trouver le bonheur sans suivre les modèles imposés" caption="Avancer à son rythme vers soi-même - Photo de [Magda Smolen](https://unsplash.com/@magda_smolen)" >}}
 
-
-Avancer à son rythme vers soi-même - Photo de [Magda Smolen](https://unsplash.com/@magda_smolen)
 
 Trouver le bonheur là où il a du sens
 
@@ -26,10 +24,8 @@ Le but de la vie, c’est d’être heureux. Ce bonheur ne vient pas de l’imit
 
 On entend souvent qu’il faut sortir de sa zone de confort pour évoluer. Pourtant, cette injonction peut nous éloigner de nous-mêmes. Il arrive qu’on s’impose des expériences qui ne nous ressemblent pas, sous la pression sociale ou l’influence d’autres personnes. On finit par suivre des modèles extérieurs qui ne tiennent pas compte de notre histoire, de nos limites ou de nos aspirations.
 
-{{< figure src="https://images.unsplash.com/photo-1758687126877-b37052a20a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nJTIwY296eSUyMGhvbWV8ZW58MHwwfHx8MTc4NjI0NTIzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Inventer sa joie à l’abri des normes" title="Trouver le bonheur sans suivre les modèles imposés" caption="Inventer sa joie à l’abri des normes" >}}
+{{< figure src="https://images.unsplash.com/photo-1758687126877-b37052a20a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nJTIwY296eSUyMGhvbWV8ZW58MHwwfHx8MTc4NjI0NTIzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Inventer sa joie à l’abri des normes" title="Trouver le bonheur sans suivre les modèles imposés" caption="Inventer sa joie à l’abri des normes - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Inventer sa joie à l’abri des normes - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 Sortir de sa zone de confort à tout prix, c’est risquer de se perdre. Ce n’est pas en quittant ce qui nous fait du bien qu’on s’épanouit, mais en élargissant progressivement sa zone de confort. Se dépasser, oui, mais à son rythme, en restant fidèle à soi-même. Aller trop loin, c’est s’éloigner de ce qui est bon pour soi.
 
@@ -41,10 +37,8 @@ Pour rester centré sur ce qui compte pour toi, je te suggère un exercice simpl
 
 Quand tu prends l’habitude de dire du bien de toi, il devient plus facile de savoir ce qui est bon pour toi et de cerner tes besoins. Ce n’est pas une solution miracle, mais une façon concrète de te reconnecter à toi-même et d’avancer dans la direction qui te ressemble.
 
-{{< figure src="https://images.unsplash.com/photo-1622405137916-91cfc49d91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWV0JTIwYmFyZWZvb3QlMjBncmFzcyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNDUyMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’enraciner dans l’authenticité du moment" title="Trouver le bonheur sans suivre les modèles imposés" caption="S’enraciner dans l’authenticité du moment" >}}
+{{< figure src="https://images.unsplash.com/photo-1622405137916-91cfc49d91a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmZWV0JTIwYmFyZWZvb3QlMjBncmFzcyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNDUyMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’enraciner dans l’authenticité du moment" title="Trouver le bonheur sans suivre les modèles imposés" caption="S’enraciner dans l’authenticité du moment - Photo de [Merri J](https://unsplash.com/@merrij)" >}}
 
-
-S’enraciner dans l’authenticité du moment - Photo de [Merri J](https://unsplash.com/@merrij)
 
 ## Élargir sa zone de confort sans se perdre
 

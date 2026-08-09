@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/ea82de6f9fb8"
 source_youtube = "https://www.youtube.com/watch?v=M7Dcw3st36A"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjYwNzkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver la paix en pleine nature" title="Comment j’ai simplifié ma vie pour retrouver la paix intérieure" caption="Retrouver la paix en pleine nature" >}}
+{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjYwNzkwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver la paix en pleine nature" title="Comment j’ai simplifié ma vie pour retrouver la paix intérieure" caption="Retrouver la paix en pleine nature - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)" >}}
 
-
-Retrouver la paix en pleine nature - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)
 
 Dans un monde saturé d’informations et de sollicitations, il est facile de perdre de vue l’essentiel. J’ai moi-même connu ce sentiment de débordement, à force de vouloir tout faire, tout réussir, tout prouver. Mais cette dispersion ne mène qu’à la confusion et à l’épuisement. J’ai donc choisi de repenser ma façon de vivre et de travailler.
 

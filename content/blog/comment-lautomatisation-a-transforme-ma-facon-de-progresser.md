@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/4b676e994429"
 source_youtube = "https://www.youtube.com/watch?v=NF34EiA_wtk"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1625297671662-f073f2a91528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBhdXRvbWF0aW9uJTIwY29kZSUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzg2MjM5MjI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’ordinateur, moteur silencieux de mes progrès" title="Comment l’automatisation a transformé ma façon de progresser" caption="L’ordinateur, moteur silencieux de mes progrès" >}}
+{{< figure src="https://images.unsplash.com/photo-1625297671662-f073f2a91528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxsYXB0b3AlMjBhdXRvbWF0aW9uJTIwY29kZSUyMHdvcmtzcGFjZXxlbnwwfDB8fHwxNzg2MjM5MjI3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’ordinateur, moteur silencieux de mes progrès" title="Comment l’automatisation a transformé ma façon de progresser" caption="L’ordinateur, moteur silencieux de mes progrès - Photo de [Justin Morgan](https://unsplash.com/@justin_morgan)" >}}
 
-
-L’ordinateur, moteur silencieux de mes progrès - Photo de [Justin Morgan](https://unsplash.com/@justin_morgan)
 
 Pourquoi tant de projets restent-ils à l’état de rêve, malgré notre motivation initiale ? Souvent, la réponse tient en un mot : friction. On veut écrire un livre, lancer un business, bâtir une audience, ou progresser dans son domaine, mais chaque étape semble demander un effort disproportionné. Même moi, en tant que lead software engineer, il m’arrive de me sentir bloqué, de me demander comment franchir ce fameux niveau supérieur.
 
@@ -28,10 +26,8 @@ Le déclic, c’est ce moment où tu réalises que tu peux utiliser des outils c
 
 Automatiser, c’est aussi faire des choix. Peut-être faut-il renoncer temporairement à certains plaisirs, comme le restaurant tous les soirs ou le cappuccino quotidien. Se faire plaisir reste essentiel, mais avec modération. L’objectif, c’est de réinvestir ce temps et cet argent dans ce qui t’élève vraiment.
 
-{{< figure src="https://images.unsplash.com/photo-1731956543784-d7d571d52ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGZvY3VzZWQlMjBkZXNrJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzOTIyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Un espace repensé par l’automatisation" title="Comment l’automatisation a transformé ma façon de progresser" caption="Un espace repensé par l’automatisation" >}}
+{{< figure src="https://images.unsplash.com/photo-1731956543784-d7d571d52ac8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGZvY3VzZWQlMjBkZXNrJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzOTIyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Un espace repensé par l’automatisation" title="Comment l’automatisation a transformé ma façon de progresser" caption="Un espace repensé par l’automatisation - Photo de [Alice Kotlyarenko](https://unsplash.com/@onegrandtrip)" >}}
 
-
-Un espace repensé par l’automatisation - Photo de [Alice Kotlyarenko](https://unsplash.com/@onegrandtrip)
 
 ## Organiser sa journée comme une mini-vie
 
@@ -45,10 +41,8 @@ Automatiser sa vie, c’est aussi oser remettre en question son environnement. S
 
 J’aspire à un style de vie qui ressemble à des vacances : profiter de la plage, des palmiers, de la nature. Vivre en ville, entouré de bruit et de pollution, n’est pas une fatalité. Nous sommes faits pour la nature, pour les bains de forêt. J’aime pratiquer la sylvothérapie, ce contact direct avec les arbres, qui apporte un vrai équilibre.
 
-{{< figure src="https://images.unsplash.com/photo-1712238107648-4e94c158ab3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxyb2JvdGljJTIwYXJtJTIwYXNzZW1ibGluZyUyMGRldmljZXxlbnwwfDB8fHwxNzg2MjM5MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quand la technologie donne vie à nos ambitions" title="Comment l’automatisation a transformé ma façon de progresser" caption="Quand la technologie donne vie à nos ambitions" >}}
+{{< figure src="https://images.unsplash.com/photo-1712238107648-4e94c158ab3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxyb2JvdGljJTIwYXJtJTIwYXNzZW1ibGluZyUyMGRldmljZXxlbnwwfDB8fHwxNzg2MjM5MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quand la technologie donne vie à nos ambitions" title="Comment l’automatisation a transformé ma façon de progresser" caption="Quand la technologie donne vie à nos ambitions - Photo de [Guille B](https://unsplash.com/@guilleb)" >}}
 
-
-Quand la technologie donne vie à nos ambitions - Photo de [Guille B](https://unsplash.com/@guilleb)
 
 ## Devenir le héros de sa propre vie
 

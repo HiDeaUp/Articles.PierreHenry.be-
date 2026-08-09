@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/859aff5a8092"
 source_youtube = "https://www.youtube.com/watch?v=jUC0p6xhofE"
 +++
 
-{{< figure src="https://unsplash.com/@jeremybishop" alt="Comment la posture et les rituels quotidiens transforment la confiance en soi" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Routines de confiance" >}}
+{{< figure src="https://images.unsplash.com/photo-1602303917904-39912f325b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0cmV0Y2hpbmclMjB3aW5kb3clMjBsaWdodHxlbnwwfDB8fHwxNzg1NjYzMjAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Affirmer sa posture, libérer sa confiance" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Affirmer sa posture, libérer sa confiance - Photo de [Jeremy Bishop](https://unsplash.com/@jeremybishop)" >}}
 
+
+**Routines de confiance**
 
 ## Comment la posture et les rituels quotidiens transforment la confiance en soi
 
@@ -30,10 +32,8 @@ La confiance ne se construit pas seulement le matin. Ta routine du soir compte t
 
 C’est aussi le moment idéal pour te demander : « Qu’est-ce que je veux accomplir demain ? » Cette question, posée dans le calme du soir, prépare ton esprit à avancer dès le lendemain matin.
 
-{{< figure src="https://images.unsplash.com/photo-1764082497081-a023b72c9239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBtZWRpdGF0aW5nJTIwY296eSUyMGhvbWV8ZW58MHwwfHx8MTc4NTY2MzIwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Le rituel du matin éclaire nos pensées" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Le rituel du matin éclaire nos pensées" >}}
+{{< figure src="https://images.unsplash.com/photo-1764082497081-a023b72c9239?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBtZWRpdGF0aW5nJTIwY296eSUyMGhvbWV8ZW58MHwwfHx8MTc4NTY2MzIwMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Le rituel du matin éclaire nos pensées" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Le rituel du matin éclaire nos pensées - Photo de [Hanna Lazar](https://unsplash.com/@potokvarte)" >}}
 
-
-Le rituel du matin éclaire nos pensées - Photo de [Hanna Lazar](https://unsplash.com/@potokvarte)
 
 ## Investir dans un projet personnel
 
@@ -47,10 +47,8 @@ Un ingrédient essentiel : savoir qui tu veux devenir. Sans vision, même la mei
 
 Chaque jour, pose-toi la question : « Qui ai-je envie de devenir ? » Puis, agis un peu, même modestement, pour te rapprocher de cette version de toi-même. Ce n’est pas une question de quantité, mais de constance. Même une demi-heure par jour suffit à faire la différence, tant que tu avances vers la personne que tu veux être.
 
-{{< figure src="https://images.unsplash.com/photo-1548372290-8d01b6c8e78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW58ZW58MHwwfHx8MTc4NTY2MzIwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à l’horizon, bâtir son assurance" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Face à l’horizon, bâtir son assurance" >}}
+{{< figure src="https://images.unsplash.com/photo-1548372290-8d01b6c8e78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtYW58ZW58MHwwfHx8MTc4NTY2MzIwM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à l’horizon, bâtir son assurance" title="Comment la posture et les rituels quotidiens transforment la confiance en soi" caption="Face à l’horizon, bâtir son assurance - Photo de [Rana Sawalha](https://unsplash.com/@ranasawalha)" >}}
 
-
-Face à l’horizon, bâtir son assurance - Photo de [Rana Sawalha](https://unsplash.com/@ranasawalha)
 
 ## Adopter le mindset du succès
 

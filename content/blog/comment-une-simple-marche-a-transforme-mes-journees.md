@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/ac2a56e978cb"
 source_youtube = "https://www.youtube.com/watch?v=g0kAJC8OewA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1783700536411-ed6125c48efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdhbGtpbmclMjBjaXR5JTIwcGFya3xlbnwwfDB8fHwxNzg2MjM4NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Évader l’esprit au cœur de la ville" title="Comment une simple marche a transformé mes journées" caption="Évader l’esprit au cœur de la ville" >}}
+{{< figure src="https://images.unsplash.com/photo-1783700536411-ed6125c48efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdhbGtpbmclMjBjaXR5JTIwcGFya3xlbnwwfDB8fHwxNzg2MjM4NjE3fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Évader l’esprit au cœur de la ville" title="Comment une simple marche a transformé mes journées" caption="Évader l’esprit au cœur de la ville - Photo de [Zulfugar Karimov](https://unsplash.com/@zulfugarkarimov)" >}}
 
-
-Évader l’esprit au cœur de la ville - Photo de [Zulfugar Karimov](https://unsplash.com/@zulfugarkarimov)
 
 Il y a quelque temps, j’ai remarqué à quel point je me sentais tendu après mes matinées de travail. Même une bonne nuit de sommeil ne suffisait pas à dissiper cette fatigue. C’est en instaurant une habitude très simple que j’ai commencé à ressentir une vraie différence : marcher, sans distraction, juste moi et le moment présent.
 
@@ -26,10 +24,8 @@ Après le déjeuner, je prends le temps de faire une petite marche dans mon quar
 
 On oublie souvent que ces moments de pause sont essentiels. Ils aident à faire baisser la pression, à réduire le stress, et à retrouver le contrôle sur sa journée. Quand tu passes ton temps devant un écran ou que tu rumines, tu t’éloignes de ce qui compte vraiment. Marcher, même quelques minutes, aide à se recentrer.
 
-{{< figure src="https://images.unsplash.com/photo-1532028070844-aa8e0b9a7eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMGxlYXZlc3xlbnwwfDB8fHwxNzg2MjM4NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Respirer la paix au fil des pas" title="Comment une simple marche a transformé mes journées" caption="Respirer la paix au fil des pas" >}}
+{{< figure src="https://images.unsplash.com/photo-1532028070844-aa8e0b9a7eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMGxlYXZlc3xlbnwwfDB8fHwxNzg2MjM4NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Respirer la paix au fil des pas" title="Comment une simple marche a transformé mes journées" caption="Respirer la paix au fil des pas - Photo de [Niklas Hamann](https://unsplash.com/@niklas_hamann)" >}}
 
-
-Respirer la paix au fil des pas - Photo de [Niklas Hamann](https://unsplash.com/@niklas_hamann)
 
 ## Retrouver le moment présent
 
@@ -41,10 +37,8 @@ Si tu as accès à un parc ou à des arbres, c’est encore mieux. La nature ren
 
 Depuis que j’ai intégré cette habitude à ma routine, j’ai constaté une baisse réelle de mon stress. Je réfléchis plus clairement, je me sens plus présent et aligné avec ce qui compte pour moi. Ce n’est pas une solution miracle, mais c’est un point de départ simple et accessible.
 
-{{< figure src="https://images.unsplash.com/photo-1616430284384-62ba9ce6c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmZWV0JTIwd2Fsa2luZyUyMGZvcmVzdCUyMHRyYWlsfGVufDB8MHx8fDE3ODYyMzg2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver l’équilibre loin du tumulte" title="Comment une simple marche a transformé mes journées" caption="Retrouver l’équilibre loin du tumulte" >}}
+{{< figure src="https://images.unsplash.com/photo-1616430284384-62ba9ce6c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmZWV0JTIwd2Fsa2luZyUyMGZvcmVzdCUyMHRyYWlsfGVufDB8MHx8fDE3ODYyMzg2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver l’équilibre loin du tumulte" title="Comment une simple marche a transformé mes journées" caption="Retrouver l’équilibre loin du tumulte - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Retrouver l’équilibre loin du tumulte - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 Essaie par toi-même. Prends dix minutes après ton repas, va marcher sans distraction. Observe ce qui change en toi. Cette petite pause peut vraiment transformer ta journée.
 

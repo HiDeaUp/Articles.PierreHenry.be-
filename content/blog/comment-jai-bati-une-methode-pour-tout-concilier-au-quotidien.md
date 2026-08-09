@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/c24520608c2d"
 source_youtube = "https://www.youtube.com/watch?v=-GcXBIfWWYk"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1702047129200-89734f555f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBsYW5uaW5nJTIwZGVzayUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNDEzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gérer son temps, c’est se libérer" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Gérer son temps, c’est se libérer" >}}
+{{< figure src="https://images.unsplash.com/photo-1702047129200-89734f555f38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBsYW5uaW5nJTIwZGVzayUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNDEzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Gérer son temps, c’est se libérer" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Gérer son temps, c’est se libérer - Photo de [Creatopy](https://unsplash.com/@creatopy)" >}}
 
-
-Gérer son temps, c’est se libérer - Photo de [Creatopy](https://unsplash.com/@creatopy)
 
 Comment certaines personnes arrivent-elles à accomplir autant de choses dans une journée, alors que d’autres peinent à finir une seule tâche ? Je me suis longtemps posé la question. Aujourd’hui, je mène de front un emploi à temps plein, un master en data science, des cours de programmation de plus de dix heures, deux chaînes YouTube (français et anglais), des comptes TikTok et Instagram, un apprentissage continu, une vie de couple et de famille, des amis, des loisirs, des sorties, de la natation, des voyages, et des cours de développement personnel sur Podia. Si j’y parviens, ce n’est pas parce que mes journées sont plus longues, mais parce que j’ai construit, année après année, une méthode de gestion du temps efficace.
 
@@ -32,10 +30,8 @@ Pour aller plus loin, j’utilise aussi RescueTime ou Wakel pour analyser où pa
 
 Optimiser son temps, c’est multiplier les raccourcis. Chaque minute compte. Par exemple, je décale certaines tâches récurrentes : couper les ongles, laver le linge, aller chez le coiffeur. Décaler une visite chez le coiffeur d’une semaine, sur l’année, fait gagner du temps.
 
-{{< figure src="https://images.unsplash.com/photo-1606787842788-32ecd7260629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxmYW1pbHklMjBicmVha2Zhc3QlMjBjb3p5JTIwa2l0Y2hlbnxlbnwwfDB8fHwxNzg2MjQxMzUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver l’équilibre dans l’entraide quotidienne" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Trouver l’équilibre dans l’entraide quotidienne" >}}
+{{< figure src="https://images.unsplash.com/photo-1606787842788-32ecd7260629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxmYW1pbHklMjBicmVha2Zhc3QlMjBjb3p5JTIwa2l0Y2hlbnxlbnwwfDB8fHwxNzg2MjQxMzUzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver l’équilibre dans l’entraide quotidienne" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Trouver l’équilibre dans l’entraide quotidienne - Photo de [Jimmy Dean](https://unsplash.com/@jimmydean)" >}}
 
-
-Trouver l’équilibre dans l’entraide quotidienne - Photo de [Jimmy Dean](https://unsplash.com/@jimmydean)
 
 Le déverrouillage automatique du téléphone (Face ID, reconnaissance rétinienne) fait aussi gagner de précieuses secondes. Même logique pour les gestionnaires de mots de passe : OnePassword est mon préféré, mais ceux d’Apple ou de Google sont efficaces. LastPass ne m’a jamais convaincu.
 
@@ -49,10 +45,8 @@ Je pratique aussi le « sautage de repas » : un ou deux repas par jour, c
 
 L’immersion totale dans une tâche, le « flow », est un levier puissant. Je structure mes journées en sprints de 90 minutes, surtout le matin. Pour gagner du temps, je me fais parfois livrer les repas, et j’utilise les fonctions d’accessibilité du téléphone pour me faire lire mes emails ou contenus. Sur iPhone, la dictée vocale et Siri sont précieux ; sur Android, Google Assistant fonctionne aussi.
 
-{{< figure src="https://images.unsplash.com/photo-1763890869755-f1dce911f196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwc3R1ZHlpbmclMjBjYWZlJTIwYWZ0ZXJub29ufGVufDB8MHx8fDE3ODYyNDEzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dialoguer, c’est aussi organiser ses priorités" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Dialoguer, c’est aussi organiser ses priorités" >}}
+{{< figure src="https://images.unsplash.com/photo-1763890869755-f1dce911f196?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdHVkZW50JTIwc3R1ZHlpbmclMjBjYWZlJTIwYWZ0ZXJub29ufGVufDB8MHx8fDE3ODYyNDEzNTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dialoguer, c’est aussi organiser ses priorités" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Dialoguer, c’est aussi organiser ses priorités - Photo de [Austin](https://unsplash.com/@austin_7792)" >}}
 
-
-Dialoguer, c’est aussi organiser ses priorités - Photo de [Austin](https://unsplash.com/@austin_7792)
 
 Pour prendre une décision, je pose un timer. Par exemple, pour choisir un restaurant, je me donne trois minutes. Si je n’ai pas décidé, je prends le choix par défaut. Cette contrainte accélère le passage à l’action.
 
@@ -72,10 +66,8 @@ Pour apprendre, j’utilise une checklist :
 
 J’épure mon environnement : je supprime distractions et notifications. Pour mémoriser, la répétition espacée est clé. J’apprends des mots en italien, je les révise le lendemain puis les jours suivants, via des applications de cartes ou de rappels comme Things 3. Même sous la douche, je me repasse les mots en tête.
 
-{{< figure src="https://images.unsplash.com/photo-1607871583590-10131167f88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjYWxlbmRhciUyMHdhbGwlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTM1NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Planifier chaque instant pour mieux s’accomplir" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Planifier chaque instant pour mieux s’accomplir" >}}
+{{< figure src="https://images.unsplash.com/photo-1607871583590-10131167f88b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjYWxlbmRhciUyMHdhbGwlMjBuYXR1cmFsJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTM1NHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Planifier chaque instant pour mieux s’accomplir" title="Comment j’ai bâti une méthode pour tout concilier au quotidien" caption="Planifier chaque instant pour mieux s’accomplir - Photo de [insung yoon](https://unsplash.com/@insungpandora)" >}}
 
-
-Planifier chaque instant pour mieux s’accomplir - Photo de [insung yoon](https://unsplash.com/@insungpandora)
 
 Créer des routines et des listes de contrôle est aussi important que respecter sa biologie. Nous sommes tous différents, il faut adapter ces conseils à ta réalité.
 

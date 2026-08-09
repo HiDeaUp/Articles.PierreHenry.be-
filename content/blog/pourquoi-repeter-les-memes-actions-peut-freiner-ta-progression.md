@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/735afe7a84df"
 source_youtube = "https://www.youtube.com/watch?v=k2B3iVb9mD8"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1644965871644-41ebfbdfe803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWxraW5nJTIwZW5kbGVzcyUyMGhhbGx3YXl8ZW58MHwwfHx8MTc4NjI0ODgxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer sans réfléchir mène à l'impasse" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="Avancer sans réfléchir mène à l'impasse" >}}
+{{< figure src="https://images.unsplash.com/photo-1644965871644-41ebfbdfe803?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWxraW5nJTIwZW5kbGVzcyUyMGhhbGx3YXl8ZW58MHwwfHx8MTc4NjI0ODgxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer sans réfléchir mène à l'impasse" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="Avancer sans réfléchir mène à l'impasse - Photo de [Andrea De Santis](https://unsplash.com/@santesson89)" >}}
 
-
-Avancer sans réfléchir mène à l'impasse - Photo de [Andrea De Santis](https://unsplash.com/@santesson89)
 
 Imagine-toi formateur, coach ou conférencier. Tu maîtrises ta méthode, tu la répètes chaque jour. C’est confortable, mais attention : cette routine peut vite devenir un piège. Sans remise en question, la qualité de ton travail risque de décliner sans que tu t’en aperçoives.
 
@@ -30,10 +28,8 @@ L’autoévaluation est essentielle. Suivre des formations ou apprendre de nouve
 
 Le feedback est aussi un levier puissant. Rester seul dans sa bulle, sans retour extérieur, limite l’amélioration. Il ne s’agit pas de suivre tous les avis, sinon tu te disperses. Mais si tu notes les retours, par exemple dans un tableau, et qu’un même conseil revient plusieurs fois, il mérite ton attention.
 
-{{< figure src="https://images.unsplash.com/photo-1782751592806-9825f8f17628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdGFnbmFudHxlbnwwfDB8fHwxNzg2MjQ4ODE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Rester immobile, c'est stagner doucement" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="Rester immobile, c'est stagner doucement" >}}
+{{< figure src="https://images.unsplash.com/photo-1782751592806-9825f8f17628?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdGFnbmFudHxlbnwwfDB8fHwxNzg2MjQ4ODE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Rester immobile, c'est stagner doucement" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="Rester immobile, c'est stagner doucement - Photo de [Michael Hamments](https://unsplash.com/@35mmtodgt)" >}}
 
-
-Rester immobile, c'est stagner doucement - Photo de [Michael Hamments](https://unsplash.com/@35mmtodgt)
 
 J’observe souvent les détails qui font la différence dans les lieux que je fréquente. Récemment, dans un spa, j’ai remarqué des équipements inventifs : glaçons pour la douche, portes automatiques, casiers avec boisson offerte. Ces petites innovations élèvent le niveau de service.
 
@@ -45,10 +41,8 @@ Par exemple, dans une salle de sport, si les casiers sont vides à l’arrivée 
 
 Pour trouver ces idées, il faut parfois sortir du cadre, brainstormer, observer ce qui se fait ailleurs et surtout rester à l’écoute de ceux que tu accompagnes. Ce sont souvent eux qui signalent les points à améliorer.
 
-{{< figure src="https://images.unsplash.com/photo-1549408227-169f8a4113a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMGJyZWFraW5nJTIwb2xkJTIwcm91dGluZSUyMGNoYWlufGVufDB8MHx8fDE3ODYyNDg4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'enfermer dans la routine freine l'élan" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="S'enfermer dans la routine freine l'élan" >}}
+{{< figure src="https://images.unsplash.com/photo-1549408227-169f8a4113a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMGJyZWFraW5nJTIwb2xkJTIwcm91dGluZSUyMGNoYWlufGVufDB8MHx8fDE3ODYyNDg4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'enfermer dans la routine freine l'élan" title="Pourquoi répéter les mêmes actions peut freiner ta progression" caption="S'enfermer dans la routine freine l'élan - Photo de [Kelli McClintock](https://unsplash.com/@kelli_mcclintock)" >}}
 
-
-S'enfermer dans la routine freine l'élan - Photo de [Kelli McClintock](https://unsplash.com/@kelli_mcclintock)
 
 ## Hausser la barre en continu
 

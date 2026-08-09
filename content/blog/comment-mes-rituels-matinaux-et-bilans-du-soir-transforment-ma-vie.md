@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/fe6a9431defb"
 source_youtube = "https://www.youtube.com/watch?v=wYSRMh8e_xA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1729886484967-a93f9d5df220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0NjEzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée avec une intention claire" title="Comment mes rituels matinaux et bilans du soir transforment ma vie" caption="Commencer la journée avec une intention claire" >}}
+{{< figure src="https://images.unsplash.com/photo-1729886484967-a93f9d5df220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0NjEzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée avec une intention claire" title="Comment mes rituels matinaux et bilans du soir transforment ma vie" caption="Commencer la journée avec une intention claire - Photo de [Dina Badamshina](https://unsplash.com/@dinaamazing)" >}}
 
-
-Commencer la journée avec une intention claire - Photo de [Dina Badamshina](https://unsplash.com/@dinaamazing)
 
 Un samedi matin, je commence par une vraie pause. Pas pour fuir, mais pour m’installer, réfléchir, me préparer à bâtir ma journée. Devant moi : des boules énergisantes à la datte et au caramel salé, du pain complet, un café, et mon ordinateur. Ce rituel est mon point de départ pour investir sur moi-même et façonner une vie qui me ressemble.
 

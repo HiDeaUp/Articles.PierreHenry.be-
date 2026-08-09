@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/8c75dec604c1"
 source_youtube = "https://www.youtube.com/watch?v=fGckzP-Slzg"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1546919992-1ef225fc864e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGNyb3Nzcm9hZHMlMjBjaXR5JTIwZHVza3xlbnwwfDB8fHwxNzg2MjQ5MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à la route, oser changer de direction" title="Quand suivre son instinct change le cours de ta vie" caption="Face à la route, oser changer de direction" >}}
+{{< figure src="https://images.unsplash.com/photo-1546919992-1ef225fc864e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGNyb3Nzcm9hZHMlMjBjaXR5JTIwZHVza3xlbnwwfDB8fHwxNzg2MjQ5MTE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Face à la route, oser changer de direction" title="Quand suivre son instinct change le cours de ta vie" caption="Face à la route, oser changer de direction - Photo de [Garin Chadwick](https://unsplash.com/@garinchadwick)" >}}
 
-
-Face à la route, oser changer de direction - Photo de [Garin Chadwick](https://unsplash.com/@garinchadwick)
 
 Il arrive que tout semble aller de travers : tu rates un train, tu manques un entretien important, ou tu perds une opportunité qui te tenait à cœur. Dans ces moments, cette petite voix intérieure te souffle une idée inattendue : et si ce revers était une chance déguisée ? C’est là que l’instinct révèle sa vraie force.
 
@@ -32,10 +30,8 @@ On a tous tendance à ressasser ce qui ne s’est pas passé comme prévu. Mais 
 
 Refuser de t’attarder sur ce qui est déjà fait libère ton esprit. Tu retrouves de la sérénité et tu ouvres la porte à des déclics qui te permettront d’avancer plus vite. C’est sortir du mode pause pour te remettre en mouvement, prêt à saisir ce qui se présente.
 
-{{< figure src="https://images.unsplash.com/photo-1774098795479-e218fc8356df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwdG91Y2hpbmclMjB3aWxkZmxvd2VycyUyMG1lYWRvd3xlbnwwfDB8fHwxNzg2MjQ5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laisser fleurir l’intuition au quotidien" title="Quand suivre son instinct change le cours de ta vie" caption="Laisser fleurir l’intuition au quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1774098795479-e218fc8356df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwdG91Y2hpbmclMjB3aWxkZmxvd2VycyUyMG1lYWRvd3xlbnwwfDB8fHwxNzg2MjQ5MTIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Laisser fleurir l’intuition au quotidien" title="Quand suivre son instinct change le cours de ta vie" caption="Laisser fleurir l’intuition au quotidien - Photo de [Moritz R](https://unsplash.com/@morruh)" >}}
 
-
-Laisser fleurir l’intuition au quotidien - Photo de [Moritz R](https://unsplash.com/@morruh)
 
 ## Accepter que le destin fait parfois bien les choses
 
@@ -49,10 +45,8 @@ Adopter cette attitude, ce n’est pas fuir la réalité. C’est choisir de ne 
 
 Quand tu cesses de ruminer, tu avances plus vite. Ton esprit s’apaise, tu deviens plus réceptif aux solutions et aux opportunités. Tu te rends disponible pour ce qui vient, au lieu de rester bloqué sur ce qui aurait pu être.
 
-{{< figure src="https://images.unsplash.com/photo-1559438410-1405f93a07e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwdHJhaW4lMjBkb29yJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0OTEyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Passerelles vers de nouveaux possibles intérieurs" title="Quand suivre son instinct change le cours de ta vie" caption="Passerelles vers de nouveaux possibles intérieurs" >}}
+{{< figure src="https://images.unsplash.com/photo-1559438410-1405f93a07e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwdHJhaW4lMjBkb29yJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0OTEyMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Passerelles vers de nouveaux possibles intérieurs" title="Quand suivre son instinct change le cours de ta vie" caption="Passerelles vers de nouveaux possibles intérieurs - Photo de [Javier Santos Guzmán](https://unsplash.com/@javisaurio)" >}}
 
-
-Passerelles vers de nouveaux possibles intérieurs - Photo de [Javier Santos Guzmán](https://unsplash.com/@javisaurio)
 
 ## Fais-le vraiment
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/d2019df078a6"
 source_youtube = "https://www.youtube.com/watch?v=Y_y5hS8gMh8"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1729886484967-a93f9d5df220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0NjEzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Premiers instants pour se reconnecter à soi" title="Comment mes routines du matin transforment mes journées" caption="Premiers instants pour se reconnecter à soi" >}}
+{{< figure src="https://images.unsplash.com/photo-1729886484967-a93f9d5df220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0NjEzMXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Premiers instants pour se reconnecter à soi" title="Comment mes routines du matin transforment mes journées" caption="Premiers instants pour se reconnecter à soi - Photo de [Dina Badamshina](https://unsplash.com/@dinaamazing)" >}}
 
-
-Premiers instants pour se reconnecter à soi - Photo de [Dina Badamshina](https://unsplash.com/@dinaamazing)
 
 Le matin, tout commence
 
@@ -30,10 +28,8 @@ Je pense aux sportifs de haut niveau. Même très préparés, ils peuvent échou
 
 Chaque matin, je prends le temps d’imaginer ma journée idéale. Je me vois accomplir ce qui compte pour moi. Je t’invite à faire de même : imagine ta journée comme une suite de petites victoires et ressens la fierté d’avoir mené à bien ce qui est important.
 
-{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kd3JpdGluZyUyMGdvYWxzJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI0NjEzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer son élan du jour avec simplicité" title="Comment mes routines du matin transforment mes journées" caption="Créer son élan du jour avec simplicité" >}}
+{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kd3JpdGluZyUyMGdvYWxzJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI0NjEzMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Créer son élan du jour avec simplicité" title="Comment mes routines du matin transforment mes journées" caption="Créer son élan du jour avec simplicité - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)" >}}
 
-
-Créer son élan du jour avec simplicité - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)
 
 La puissance des listes : à faire et à ne pas faire
 
@@ -47,10 +43,8 @@ La douche, un moment pour ancrer la journée
 
 Après avoir préparé mes listes, je passe à la douche. C’est un moment intentionnel. Sous l’eau, je visualise ma journée et je me prépare mentalement à attaquer la première tâche importante. J’aime finir par une douche froide, cela me donne un élan. Dès la sortie, je sais exactement ce que je vais faire en premier.
 
-{{< figure src="https://images.unsplash.com/photo-1551524163-d00af9f12253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwd2luZG93JTIwZnJlc2glMjBhaXJ8ZW58MHwwfHx8MTc4NjI0NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin inspire de nouveaux départs" title="Comment mes routines du matin transforment mes journées" caption="La lumière du matin inspire de nouveaux départs" >}}
+{{< figure src="https://images.unsplash.com/photo-1551524163-d00af9f12253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwd2luZG93JTIwZnJlc2glMjBhaXJ8ZW58MHwwfHx8MTc4NjI0NjEzM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin inspire de nouveaux départs" title="Comment mes routines du matin transforment mes journées" caption="La lumière du matin inspire de nouveaux départs - Photo de [Sebastian Staines](https://unsplash.com/@seabas)" >}}
 
-
-La lumière du matin inspire de nouveaux départs - Photo de [Sebastian Staines](https://unsplash.com/@seabas)
 
 Ensuite, je prends un petit-déjeuner, je lis un peu ou je profite simplement du moment présent. Si tu as un travail de bureau, la journée s’enchaîne naturellement. Le soir, je réserve les tâches qui demandent moins d’énergie et je profite de ma famille ou de ma moitié, pleinement présent.
 

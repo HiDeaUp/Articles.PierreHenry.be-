@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/8750c34aa922"
 source_youtube = "https://www.youtube.com/watch?v=JwJDRB2iPc0"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNDMwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver le calme malgré le tumulte intérieur" title="Comment j’ai surmonté la pollution mentale au quotidien" caption="Retrouver le calme malgré le tumulte intérieur" >}}
+{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNDMwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Retrouver le calme malgré le tumulte intérieur" title="Comment j’ai surmonté la pollution mentale au quotidien" caption="Retrouver le calme malgré le tumulte intérieur - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)" >}}
 
-
-Retrouver le calme malgré le tumulte intérieur - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)
 
 La pollution mentale : quand tout déraille malgré nos efforts
 

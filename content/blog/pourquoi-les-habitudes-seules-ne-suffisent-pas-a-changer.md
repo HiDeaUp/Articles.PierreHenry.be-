@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/f8103585a425"
 source_youtube = "https://www.youtube.com/watch?v=FJpSIufwBvU"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1739363968390-3cd8b17e9695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBhdXNpbmclMjBjaXR5JTIwc3RyZWV0JTIwZHVza3xlbnwwfDB8fHwxNzg2MjU1NzM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer demande plus que de la routine" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="Avancer demande plus que de la routine" >}}
+{{< figure src="https://images.unsplash.com/photo-1739363968390-3cd8b17e9695?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBhdXNpbmclMjBjaXR5JTIwc3RyZWV0JTIwZHVza3xlbnwwfDB8fHwxNzg2MjU1NzM4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer demande plus que de la routine" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="Avancer demande plus que de la routine - Photo de [Branislav Rodman](https://unsplash.com/@branislavrodman)" >}}
 
-
-Avancer demande plus que de la routine - Photo de [Branislav Rodman](https://unsplash.com/@branislavrodman)
 
 On entend souvent que la clé de la productivité, c’est de transformer ses actions en habitudes. Mais si tu as déjà essayé de t’accrocher à une routine qui ne te plaît pas, tu sais que la réalité est bien plus nuancée. Même une habitude bien ancrée peut s’effondrer si elle devient trop douloureuse ou dénuée de sens.
 
@@ -32,10 +30,8 @@ Ce qui change tout, c’est le challenge. Quand tu trouves une forme de fierté 
 
 Souviens-toi de l’école : obtenir un 20 sur 20, ce n’est pas forcément plus utile qu’un 15 pour obtenir ton diplôme. Pourtant, beaucoup d’élèves travaillent d’arrache-pied pour décrocher une mention ou une distinction. Pourquoi ? Par fierté, par envie de se prouver quelque chose, de relever un défi personnel.
 
-{{< figure src="https://images.unsplash.com/photo-1735065873874-1f67fee2537b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxtYW4lMjBzdHJ1Z2dsaW5nJTIwYWxhcm0lMjBjbG9jayUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NjI1NTczOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Changer commence par redéfinir ses envies" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="Changer commence par redéfinir ses envies" >}}
+{{< figure src="https://images.unsplash.com/photo-1735065873874-1f67fee2537b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxtYW4lMjBzdHJ1Z2dsaW5nJTIwYWxhcm0lMjBjbG9jayUyMG1vcm5pbmd8ZW58MHwwfHx8MTc4NjI1NTczOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Changer commence par redéfinir ses envies" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="Changer commence par redéfinir ses envies - Photo de [Nedo Raw](https://unsplash.com/@nedo_raw)" >}}
 
-
-Changer commence par redéfinir ses envies - Photo de [Nedo Raw](https://unsplash.com/@nedo_raw)
 
 Ce mécanisme, tu peux l’appliquer à ton quotidien. Quand tu visites une nouvelle ville, tu veux voir tous les monuments, explorer chaque recoin, et tu ressens une vraie satisfaction à la fin de la journée. Ce n’est pas une simple habitude, c’est le plaisir d’avoir accompli quelque chose, d’avoir relevé un challenge.
 
@@ -49,10 +45,8 @@ Même pour les tâches ménagères, il est possible de trouver un nouveau plaisi
 
 Ce que je veux te montrer, c’est que tu peux transformer ton quotidien en changeant simplement ta façon de voir les choses. Parfois, il suffit d’ajouter un élément qui te stimule, qui te donne envie de t’y mettre, pour que la routine devienne un moment agréable, voire attendu.
 
-{{< figure src="https://images.unsplash.com/photo-1764867248357-f1d63647bff3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjB3aW5kb3clMjBjb3p5JTIwcm9vbXxlbnwwfDB8fHwxNzg2MjU1NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin invite à se réinventer" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="La lumière du matin invite à se réinventer" >}}
+{{< figure src="https://images.unsplash.com/photo-1764867248357-f1d63647bff3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjB3aW5kb3clMjBjb3p5JTIwcm9vbXxlbnwwfDB8fHwxNzg2MjU1NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La lumière du matin invite à se réinventer" title="Pourquoi les habitudes seules ne suffisent pas à changer" caption="La lumière du matin invite à se réinventer - Photo de [Efe Kekikciler](https://unsplash.com/@mutanzom)" >}}
 
-
-La lumière du matin invite à se réinventer - Photo de [Efe Kekikciler](https://unsplash.com/@mutanzom)
 
 ## Les habitudes ne sont pas une fin en soi
 

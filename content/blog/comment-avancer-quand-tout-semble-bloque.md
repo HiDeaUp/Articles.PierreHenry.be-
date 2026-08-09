@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/c5b2ea34cfe2"
 source_youtube = "https://www.youtube.com/watch?v=gyMH5KngQIk"
 +++
 
-{{< figure src="https://unsplash.com/@dlugansky" alt="Comment avancer quand tout semble bloqué" title="Comment avancer quand tout semble bloqué" caption="Changer sa trajectoire" >}}
+{{< figure src="https://images.unsplash.com/photo-1760726299439-12f1abf16274?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjB3YWxraW5nJTIwbmFycm93JTIwdHVubmVsfGVufDB8MHx8fDE3ODU2NjIyOTB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer malgré les passages étroits" title="Comment avancer quand tout semble bloqué" caption="Avancer malgré les passages étroits - Photo de [Darya Luganskaya](https://unsplash.com/@dlugansky)" >}}
 
+
+**Changer sa trajectoire**
 
 ## Comment avancer quand tout semble bloqué
 
@@ -30,10 +32,8 @@ Sortir de ta zone de confort est indispensable. Demande-toi : « Quelles ressour
 
 Voici quelques leviers concrets à activer dès aujourd’hui :
 
-{{< figure src="https://images.unsplash.com/photo-1587316807833-7008b6d63a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwcGxhbnRpbmclMjBzbWFsbCUyMHNlZWRsaW5nfGVufDB8MHx8fDE3ODU2NjIyOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Faire grandir l’espoir dans l’adversité" title="Comment avancer quand tout semble bloqué" caption="Faire grandir l’espoir dans l’adversité" >}}
+{{< figure src="https://images.unsplash.com/photo-1587316807833-7008b6d63a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwcGxhbnRpbmclMjBzbWFsbCUyMHNlZWRsaW5nfGVufDB8MHx8fDE3ODU2NjIyOTF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Faire grandir l’espoir dans l’adversité" title="Comment avancer quand tout semble bloqué" caption="Faire grandir l’espoir dans l’adversité - Photo de [Zoe Richardson](https://unsplash.com/@farmsteadphoto)" >}}
 
-
-Faire grandir l’espoir dans l’adversité - Photo de [Zoe Richardson](https://unsplash.com/@farmsteadphoto)
 
 - **Économiser régulièrement**, même de très petites sommes. Dix euros par jour, par semaine ou par mois, c’est déjà un début. L’important, c’est la constance.
 - **Prendre de bonnes habitudes** chaque jour. Ce sont elles qui, accumulées, font la différence sur le long terme.
@@ -52,10 +52,8 @@ Tu es le pilote de ta vie. Personne ne fera les choses à ta place. C’est à t
 
 Investir sur toi-même, c’est apprendre à mieux gérer ton temps, ton stress, tes relations, ton argent. C’est aussi miser sur des connaissances rares et recherchées, comme l’intelligence artificielle aujourd’hui. Ces choix te donneront une longueur d’avance.
 
-{{< figure src="https://images.unsplash.com/photo-1635849625245-8990b146d5c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGxvb2tpbmclMjBvdXQlMjByYWlueSUyMHdpbmRvd3xlbnwwfDB8fHwxNzg1NjYyMjkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la lumière malgré la pluie" title="Comment avancer quand tout semble bloqué" caption="Trouver la lumière malgré la pluie" >}}
+{{< figure src="https://images.unsplash.com/photo-1635849625245-8990b146d5c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGxvb2tpbmclMjBvdXQlMjByYWlueSUyMHdpbmRvd3xlbnwwfDB8fHwxNzg1NjYyMjkyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la lumière malgré la pluie" title="Comment avancer quand tout semble bloqué" caption="Trouver la lumière malgré la pluie - Photo de [Clay LeConey](https://unsplash.com/@clayleconey)" >}}
 
-
-Trouver la lumière malgré la pluie - Photo de [Clay LeConey](https://unsplash.com/@clayleconey)
 
 ## Agis aujourd’hui
 

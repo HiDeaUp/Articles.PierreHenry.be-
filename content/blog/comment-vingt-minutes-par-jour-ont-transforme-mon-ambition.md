@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/78663bebf010"
 source_youtube = "https://www.youtube.com/watch?v=bTh6E-3jNlU"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MjgxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Lumière nouvelle sur l’ambition quotidienne" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Lumière nouvelle sur l’ambition quotidienne" >}}
+{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBtb3JuaW5nJTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MjgxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Lumière nouvelle sur l’ambition quotidienne" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Lumière nouvelle sur l’ambition quotidienne - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)" >}}
 
-
-Lumière nouvelle sur l’ambition quotidienne - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)
 
 Réaliser un projet ambitieux commence souvent par un geste simple : consacrer chaque matin vingt minutes à une activité qui nous passionne. Ce rituel, répété jour après jour, devient le moteur d’une ambition durable. La régularité relie alors le désir de se dépasser à la concrétisation de ses objectifs.
 
@@ -26,10 +24,8 @@ Je l’ai expérimenté personnellement. Quand tu trouves un projet qui t’obs�
 
 Répéter les mêmes gestes ne suffit pas. Pour progresser réellement, il faut apprendre à sortir du cadre. Nous grandissons tous dans un environnement qui nous formate, qui limite notre façon de penser et d’agir. Pourtant, c’est en osant penser autrement, en quittant les sentiers battus, que naissent les idées les plus intéressantes.
 
-{{< figure src="https://images.unsplash.com/photo-1569154442085-d1c35f0cc765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHdyaXRpbmclMjBub3RlYm9vayUyMGNvZmZlZXxlbnwwfDB8fHwxNzg2MjQyODE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chaque geste créatif nourrit mes objectifs" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Chaque geste créatif nourrit mes objectifs" >}}
+{{< figure src="https://images.unsplash.com/photo-1569154442085-d1c35f0cc765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHdyaXRpbmclMjBub3RlYm9vayUyMGNvZmZlZXxlbnwwfDB8fHwxNzg2MjQyODE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Chaque geste créatif nourrit mes objectifs" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Chaque geste créatif nourrit mes objectifs - Photo de [Mona Miller](https://unsplash.com/@m0ther_0f_memes)" >}}
 
-
-Chaque geste créatif nourrit mes objectifs - Photo de [Mona Miller](https://unsplash.com/@m0ther_0f_memes)
 
 Par exemple, si tu cultives des légumes, tu pourrais simplement entretenir ton potager. Mais pourquoi ne pas partager ton expérience ? Tu pourrais raconter ton aventure sur les réseaux sociaux, écrire des textes, enregistrer un podcast destiné aux jardiniers. Beaucoup de professionnels du jardinage passent du temps en déplacement. Un podcast pensé pour eux, qui aborde la réalité du métier, serait une ressource originale.
 
@@ -39,10 +35,8 @@ Explorer des formats inattendus permet de se démarquer. Il faut adapter son app
 
 L’essentiel n’est pas de tout changer d’un coup, mais d’avancer un peu chaque jour. La régularité finit par porter ses fruits. En investissant du temps dans ta passion, tu investis en toi-même. Ce temps se transforme en expérience, en confiance, en expertise.
 
-{{< figure src="https://images.unsplash.com/photo-1589887305888-6254d60b5308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwb3ZlciUyMG1vdW50YWluJTIwcGVha3xlbnwwfDB8fHwxNzg2MjQyODE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Horizons immenses nés de petits efforts" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Horizons immenses nés de petits efforts" >}}
+{{< figure src="https://images.unsplash.com/photo-1589887305888-6254d60b5308?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwb3ZlciUyMG1vdW50YWluJTIwcGVha3xlbnwwfDB8fHwxNzg2MjQyODE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Horizons immenses nés de petits efforts" title="Comment vingt minutes par jour ont transformé mon ambition" caption="Horizons immenses nés de petits efforts - Photo de [Mark König](https://unsplash.com/@markkoenig)" >}}
 
-
-Horizons immenses nés de petits efforts - Photo de [Mark König](https://unsplash.com/@markkoenig)
 
 Vivre de sa passion, c’est s’offrir la possibilité de s’élever et de se dépasser. Cela implique de sortir de sa zone de confort, d’essayer de nouvelles choses, d’accepter l’erreur, mais surtout d’apprendre et de grandir. Ce chemin demande patience et persévérance, mais il en vaut la peine.
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/14762f4e5758"
 source_youtube = "https://www.youtube.com/watch?v=DPE9htCLE9w"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1542330952-bffc55e812b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdvcmtpbmclMjB0aWR5JTIwZGVza3xlbnwwfDB8fHwxNzg2MjM2Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer ses petits succès chaque matin" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Savourer ses petits succès chaque matin" >}}
+{{< figure src="https://images.unsplash.com/photo-1542330952-bffc55e812b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdvcmtpbmclMjB0aWR5JTIwZGVza3xlbnwwfDB8fHwxNzg2MjM2Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer ses petits succès chaque matin" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Savourer ses petits succès chaque matin - Photo de [Paige Cody](https://unsplash.com/@paige_cody)" >}}
 
-
-Savourer ses petits succès chaque matin - Photo de [Paige Cody](https://unsplash.com/@paige_cody)
 
 Il est facile de perdre de vue ses objectifs : tu sais ce que tu veux accomplir, mais chaque jour, les distractions s’accumulent et t’éloignent de ta trajectoire. J’ai longtemps connu ce problème. J’ai compris que la clé n’est pas de multiplier les projets, mais de rester concentré sur ce qui compte vraiment pour moi.
 
@@ -32,10 +30,8 @@ Si tu repousses à plus tard, la vision s’efface. Tu finis par croire que ce n
 
 Ce que tu crois possible dépend aussi de ton environnement. Si tu t’entoures de personnes positives, même virtuellement via des podcasts ou des formations, tout devient plus accessible. L’effet Pygmalion joue ici aussi : si tu entends que c’est facile, tu le vivras comme facile. Si on te répète que c’est difficile, tu risques de le croire.
 
-{{< figure src="https://images.unsplash.com/photo-1763815378756-acf0f3232565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjM2Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ouvrir la porte à de nouvelles ambitions" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Ouvrir la porte à de nouvelles ambitions" >}}
+{{< figure src="https://images.unsplash.com/photo-1763815378756-acf0f3232565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjM2Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ouvrir la porte à de nouvelles ambitions" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Ouvrir la porte à de nouvelles ambitions - Photo de [Song Chen](https://unsplash.com/@chen_yang)" >}}
 
-
-Ouvrir la porte à de nouvelles ambitions - Photo de [Song Chen](https://unsplash.com/@chen_yang)
 
 C’est pour cela que je m’entoure de sources d’énergie positive. Chaque jour, je me répète des affirmations : « Aujourd’hui est une journée exceptionnelle, je vais réussir tout ce que j’entreprends. Je crois en moi, je vais aller loin. » Ce n’est pas magique, mais petit à petit, ça change l’état d’esprit. Parfois, ça prend du temps, parfois tu tâtonnes, mais tu finis par accomplir ce que tu veux vraiment.
 
@@ -51,10 +47,8 @@ Quand une pensée négative surgit, j’utilise une astuce simple : un élastiqu
 
 C’est comme une plante : sur du béton, elle ne pousse pas. Dans une bonne terre, elle s’épanouit. Ton environnement, c’est cette terre. Crée-toi un cadre fertile, propice à la progression.
 
-{{< figure src="https://images.unsplash.com/photo-1504542227056-9178533a9175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMHBlbiUyMG1vcm5pbmclMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjIzNjI5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tout commence par une intention claire" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Tout commence par une intention claire" >}}
+{{< figure src="https://images.unsplash.com/photo-1504542227056-9178533a9175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMHBlbiUyMG1vcm5pbmclMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjIzNjI5Nnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tout commence par une intention claire" title="Comment j’ai créé un cadre propice à mes objectifs" caption="Tout commence par une intention claire - Photo de [Bookblock](https://unsplash.com/@bookblock)" >}}
 
-
-Tout commence par une intention claire - Photo de [Bookblock](https://unsplash.com/@bookblock)
 
 ## Faire le bilan et ajuster
 

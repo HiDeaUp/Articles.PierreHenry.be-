@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/293939fa7b7b"
 source_youtube = "https://www.youtube.com/watch?v=1RirEj_8xCA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1785514111696-18c0a97f9275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWxraW5nJTIwc3VucmlzZSUyMHBhdGh8ZW58MHwwfHx8MTc4NjI0OTQyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur sa vie" title="Comment un projet personnel a transformé ma motivation" caption="Prendre de la hauteur sur sa vie" >}}
+{{< figure src="https://images.unsplash.com/photo-1785514111696-18c0a97f9275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjB3YWxraW5nJTIwc3VucmlzZSUyMHBhdGh8ZW58MHwwfHx8MTc4NjI0OTQyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur sa vie" title="Comment un projet personnel a transformé ma motivation" caption="Prendre de la hauteur sur sa vie - Photo de [damien dufour](https://unsplash.com/@damiendufourphotographie)" >}}
 
-
-Prendre de la hauteur sur sa vie - Photo de [damien dufour](https://unsplash.com/@damiendufourphotographie)
 
 Il y a des moments où tout semble flou. Tu te lèves, tu fais ce que tu dois faire, mais tu ressens un vide, un manque de direction. J’ai longtemps connu ce sentiment, jusqu’au jour où j’ai compris que la clé, c’est d’avoir une raison d’être concrète. Pas un objectif vague, mais un projet qui te porte et te donne envie d’avancer.
 
@@ -30,10 +28,8 @@ Avant, j’étais perdu face aux choix alimentaires. Grâce à cette application
 
 Mais l’essentiel, c’est d’avoir un projet qui te ressemble et qui répond à un problème réel que tu rencontres. Que ce soit une application, un petit business ou un hobby, l’important est que ce projet te permette d’apprendre, de progresser, et peut-être de monétiser ce que tu fais. Surtout, il te donne une vraie raison d’avancer.
 
-{{< figure src="https://images.unsplash.com/photo-1599008633840-052c7f756385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyNDk0MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Planifier ses rêves sur papier" title="Comment un projet personnel a transformé ma motivation" caption="Planifier ses rêves sur papier" >}}
+{{< figure src="https://images.unsplash.com/photo-1599008633840-052c7f756385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyNDk0MjF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Planifier ses rêves sur papier" title="Comment un projet personnel a transformé ma motivation" caption="Planifier ses rêves sur papier - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Planifier ses rêves sur papier - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Tomber amoureux du problème
 
@@ -47,10 +43,8 @@ Un projet aligné avec tes valeurs, c’est plus qu’un passe-temps. C’est un
 
 Ce projet devient une boussole. Il t’aide à rester fidèle à qui tu veux être et à tes valeurs profondes. C’est dans cette cohérence que tu trouves du sens et que tu construis une vie qui te ressemble.
 
-{{< figure src="https://images.unsplash.com/photo-1766038780820-a5c000ff0668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNtaWxpbmclMjB1cmJhbiUyMHJvb2Z0b3B8ZW58MHwwfHx8MTc4NjI0OTQyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Contempler la ville, rêver plus grand" title="Comment un projet personnel a transformé ma motivation" caption="Contempler la ville, rêver plus grand" >}}
+{{< figure src="https://images.unsplash.com/photo-1766038780820-a5c000ff0668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHNtaWxpbmclMjB1cmJhbiUyMHJvb2Z0b3B8ZW58MHwwfHx8MTc4NjI0OTQyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Contempler la ville, rêver plus grand" title="Comment un projet personnel a transformé ma motivation" caption="Contempler la ville, rêver plus grand - Photo de [JC Gellidon](https://unsplash.com/@jcgellidon)" >}}
 
-
-Contempler la ville, rêver plus grand - Photo de [JC Gellidon](https://unsplash.com/@jcgellidon)
 
 ## Passer à l’action aujourd’hui
 

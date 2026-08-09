@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/fb3c707e6d5e"
 source_youtube = "https://www.youtube.com/watch?v=skAEZ5biDqI"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1761389294347-4e7b17731a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHRob3VnaHRmdWwlMjB3aW5kb3clMjBsaWdodHxlbnwwfDB8fHwxNzg2MjQyNTI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre un moment pour se demander pourquoi" title="Comment une question par heure peut transformer ta journée" caption="Prendre un moment pour se demander pourquoi" >}}
+{{< figure src="https://images.unsplash.com/photo-1761389294347-4e7b17731a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHRob3VnaHRmdWwlMjB3aW5kb3clMjBsaWdodHxlbnwwfDB8fHwxNzg2MjQyNTI4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre un moment pour se demander pourquoi" title="Comment une question par heure peut transformer ta journée" caption="Prendre un moment pour se demander pourquoi - Photo de [Toby Osborn](https://unsplash.com/@tobyosborn)" >}}
 
-
-Prendre un moment pour se demander pourquoi - Photo de [Toby Osborn](https://unsplash.com/@tobyosborn)
 
 Il y a une question simple qui peut transformer ta journée : « Quelle est la chose que je pourrais faire dans l’heure qui vient pour être fier de moi ? » Se poser ce genre de question, au bon moment, agit comme un déclic. Cela t’oblige à sortir du mode automatique, à arrêter de répéter les mêmes gestes en espérant un résultat différent. On a tous connu ces journées où l’on enchaîne les tâches sans réfléchir, persuadé que la routine finira par payer. Mais il est illusoire d’attendre du changement en faisant toujours la même chose.
 
@@ -26,10 +24,8 @@ Changer sa vie commence souvent par changer ses questions. Quand tu t’interrog
 
 Il ne s’agit pas de tout bouleverser d’un coup, mais d’itérer, de réfléchir, de tester, puis de recommencer. C’est la meilleure façon d’utiliser ton temps, car il ne t’attend pas. Le temps est notre ressource la plus précieuse. Il serait dommage de le gaspiller à faire des choses qui ne t’apportent rien.
 
-{{< figure src="https://images.unsplash.com/photo-1719267687289-3f2283937665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kd3JpdGluZyUyMG5vdGVib29rJTIwY29mZmVlJTIwdGFibGV8ZW58MHwwfHx8MTc4NjI0MjUyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses questions pour guider sa journée" title="Comment une question par heure peut transformer ta journée" caption="Écrire ses questions pour guider sa journée" >}}
+{{< figure src="https://images.unsplash.com/photo-1719267687289-3f2283937665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kd3JpdGluZyUyMG5vdGVib29rJTIwY29mZmVlJTIwdGFibGV8ZW58MHwwfHx8MTc4NjI0MjUyOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses questions pour guider sa journée" title="Comment une question par heure peut transformer ta journée" caption="Écrire ses questions pour guider sa journée - Photo de [Daria Glakteeva](https://unsplash.com/@olenichek)" >}}
 
-
-Écrire ses questions pour guider sa journée - Photo de [Daria Glakteeva](https://unsplash.com/@olenichek)
 
 ## Optimiser son temps pour ce qui compte
 
@@ -41,10 +37,8 @@ Il vaut mieux consacrer son temps à ce qui compte vraiment : les activités qui
 
 Au fond, la chose la plus importante, c’est d’aimer ce que tu fais. D’aimer ta vie, chaque moment, d’être pleinement présent. C’est maintenant que tout se joue. Prends le temps de te demander, à chaque heure : « Est-ce que je suis content de ce que je viens de faire ? » Si la réponse est non, ajuste le tir. Si c’est oui, savoure ce sentiment de fierté.
 
-{{< figure src="https://images.unsplash.com/photo-1643789452257-7a8717f6e2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjaXR5JTIwc3RyZWV0JTIwc3VucmlzZSUyMHdhbGt8ZW58MHwwfHx8MTc4NjI0MjUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Voir sa journée sous un nouvel angle" title="Comment une question par heure peut transformer ta journée" caption="Voir sa journée sous un nouvel angle" >}}
+{{< figure src="https://images.unsplash.com/photo-1643789452257-7a8717f6e2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjaXR5JTIwc3RyZWV0JTIwc3VucmlzZSUyMHdhbGt8ZW58MHwwfHx8MTc4NjI0MjUyOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Voir sa journée sous un nouvel angle" title="Comment une question par heure peut transformer ta journée" caption="Voir sa journée sous un nouvel angle - Photo de [Jonny Gios](https://unsplash.com/@supergios)" >}}
 
-
-Voir sa journée sous un nouvel angle - Photo de [Jonny Gios](https://unsplash.com/@supergios)
 
 Il ne s’agit pas de viser la perfection, mais l’alignement. Plus tu t’autorises à te poser les bonnes questions, plus tu avances vers une vie qui te ressemble, où chaque heure compte vraiment. Si tu veux aller plus loin, il existe des outils, des formations, des carnets pour t’accompagner dans cette démarche. Mais la première étape reste la même : prends le temps de t’arrêter, de réfléchir, et d’agir en conscience.
 

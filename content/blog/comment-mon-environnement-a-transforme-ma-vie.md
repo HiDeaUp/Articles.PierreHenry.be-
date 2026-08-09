@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/f8cc3c343ab9"
 source_youtube = "https://www.youtube.com/watch?v=azkXTFLFreU"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1532028070844-aa8e0b9a7eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMGxlYXZlc3xlbnwwfDB8fHwxNzg2MjM4NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La nature inspire de nouveaux départs" title="Comment mon environnement a transformé ma vie" caption="La nature inspire de nouveaux départs" >}}
+{{< figure src="https://images.unsplash.com/photo-1532028070844-aa8e0b9a7eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5saWdodCUyMHRocm91Z2glMjBncmVlbiUyMGxlYXZlc3xlbnwwfDB8fHwxNzg2MjM4NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La nature inspire de nouveaux départs" title="Comment mon environnement a transformé ma vie" caption="La nature inspire de nouveaux départs - Photo de [Niklas Hamann](https://unsplash.com/@niklas_hamann)" >}}
 
-
-La nature inspire de nouveaux départs - Photo de [Niklas Hamann](https://unsplash.com/@niklas_hamann)
 
 Construire une vie extraordinaire ne commence pas par des exploits spectaculaires. Tout part d’un élément souvent négligé : l’environnement dans lequel tu évolues chaque jour. Quand je m’installe à mon bureau, face à une vue dégagée, ordinateur et notes à portée de main, je sens immédiatement la différence. La vue n’est pas qu’un décor. Elle rappelle que les problèmes qui semblent énormes ne sont, en réalité, que des poussières à l’échelle de l’univers.
 
@@ -34,10 +32,8 @@ Pour dépasser ces barrières, j’ai instauré un rituel simple. Chaque matin, 
 
 Ce rituel de fierté, tu peux l’adapter à ta façon. L’essentiel est de te donner chaque matin la permission de viser haut et de croire en tes capacités. Quand ton environnement te porte et que ton état d’esprit suit, tu crées les conditions pour avancer.
 
-{{< figure src="https://images.unsplash.com/photo-1766186157189-b757898764a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjb3p5JTIwcmVhZGluZyUyMG5vb2slMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyMzYyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le calme invite à se réinventer chaque matin" title="Comment mon environnement a transformé ma vie" caption="Le calme invite à se réinventer chaque matin" >}}
+{{< figure src="https://images.unsplash.com/photo-1766186157189-b757898764a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjb3p5JTIwcmVhZGluZyUyMG5vb2slMjBtb3JuaW5nfGVufDB8MHx8fDE3ODYyMzYyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le calme invite à se réinventer chaque matin" title="Comment mon environnement a transformé ma vie" caption="Le calme invite à se réinventer chaque matin - Photo de [Stacy](https://unsplash.com/@stacysuxx)" >}}
 
-
-Le calme invite à se réinventer chaque matin - Photo de [Stacy](https://unsplash.com/@stacysuxx)
 
 ## Clarifie ton « pourquoi »
 

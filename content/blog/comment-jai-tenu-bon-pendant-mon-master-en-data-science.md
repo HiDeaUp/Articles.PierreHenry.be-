@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/1e29ab831c0a"
 source_youtube = "https://www.youtube.com/watch?v=MQpohqjGZiE"
 +++
 
-{{< figure src="https://unsplash.com/@dmtrdon" alt="Comment j’ai tenu bon pendant mon master en data science" title="Comment j’ai tenu bon pendant mon master en data science" caption="Parcours et persévérance" >}}
+{{< figure src="https://images.unsplash.com/photo-1545014171-35a4a2cfaedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwc3R1ZHlpbmclMjBsYXRlJTIwbGFwdG9wfGVufDB8MHx8fDE3ODU2NzA3MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Tracer ma route malgré le doute" title="Comment j’ai tenu bon pendant mon master en data science" caption="Tracer ma route malgré le doute - Photo de [Dimitar Donovski](https://unsplash.com/@dmtrdon)" >}}
 
+
+**Parcours et persévérance**
 
 ## Comment j’ai tenu bon pendant mon master en data science
 

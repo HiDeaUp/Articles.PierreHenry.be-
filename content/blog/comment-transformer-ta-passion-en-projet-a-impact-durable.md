@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/a7ea070d444b"
 source_youtube = "https://www.youtube.com/watch?v=m6Z3_ZbgagY"
 +++
 
-{{< figure src="https://unsplash.com/@silverkblack" alt="Comment transformer ta passion en projet à impact durable" title="Comment transformer ta passion en projet à impact durable" caption="Projet passion et réussite" >}}
+{{< figure src="https://images.unsplash.com/photo-1758600588428-2cca8c96bfba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHBhaW50aW5nJTIwaW4lMjBicmlnaHQlMjBzdHVkaW98ZW58MHwwfHx8MTc4NTY3MDA5Mnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Rayonne en suivant ta passion authentique" title="Comment transformer ta passion en projet à impact durable" caption="Rayonne en suivant ta passion authentique - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
+
+**Projet passion et réussite**
 
 ## Comment transformer ta passion en projet à impact durable
 
@@ -32,10 +34,8 @@ Chaque matin, je réserve 20 à 30 minutes à mon projet passion. Cette régular
 
 Une fois lancé, partage ton aventure. Quel que soit ton domaine, il existe mille façons de transmettre ce que tu apprends. Si tu cultives des légumes, par exemple, pourquoi ne pas documenter tes progrès ? Tu peux le faire sur les réseaux sociaux, à l’écrit, en audio, ou sous forme de podcast.
 
-{{< figure src="https://images.unsplash.com/photo-1625758476104-f2ed6c81248f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMHBsYW50aW5nJTIwc21hbGwlMjB0cmVlJTIwc29pbHxlbnwwfDB8fHwxNzg1NjcwMDkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Saisir l’essentiel pour bâtir son projet" title="Comment transformer ta passion en projet à impact durable" caption="Saisir l’essentiel pour bâtir son projet" >}}
+{{< figure src="https://images.unsplash.com/photo-1625758476104-f2ed6c81248f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMHBsYW50aW5nJTIwc21hbGwlMjB0cmVlJTIwc29pbHxlbnwwfDB8fHwxNzg1NjcwMDkzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Saisir l’essentiel pour bâtir son projet" title="Comment transformer ta passion en projet à impact durable" caption="Saisir l’essentiel pour bâtir son projet - Photo de [Vitor Monthay](https://unsplash.com/@vitormonthay)" >}}
 
-
-Saisir l’essentiel pour bâtir son projet - Photo de [Vitor Monthay](https://unsplash.com/@vitormonthay)
 
 Certains métiers, comme les jardiniers souvent sur la route, aimeraient écouter un podcast dédié à leur passion. Adapter ton contenu au mode de vie de ton audience, c’est déjà te démarquer. En partageant, tu clarifies tes idées, tu progresses, et tu crées des liens avec d’autres passionnés.
 
@@ -49,10 +49,8 @@ Dans le jardinage, par exemple, il existe des techniques originales comme le «�
 
 Inventer ton concept ou ta méthodologie, c’est la clé pour te distinguer. Tu n’es pas obligé de suivre les modèles existants. Propose ce qui te ressemble, façonne-le à ta manière. Cette unicité fera la différence et donnera envie aux autres de te suivre ou de s’inspirer de toi.
 
-{{< figure src="https://images.unsplash.com/photo-1622495893726-f1478dcebc03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwY2VsZWJyYXRpbmclMjBwcm9qZWN0JTIwbGF1bmNofGVufDB8MHx8fDE3ODU2NzAwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ose concrétiser tes idées en action" title="Comment transformer ta passion en projet à impact durable" caption="Ose concrétiser tes idées en action" >}}
+{{< figure src="https://images.unsplash.com/photo-1622495893726-f1478dcebc03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwY2VsZWJyYXRpbmclMjBwcm9qZWN0JTIwbGF1bmNofGVufDB8MHx8fDE3ODU2NzAwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ose concrétiser tes idées en action" title="Comment transformer ta passion en projet à impact durable" caption="Ose concrétiser tes idées en action - Photo de [Jarritos Mexican Soda](https://unsplash.com/@jarritos)" >}}
 
-
-Ose concrétiser tes idées en action - Photo de [Jarritos Mexican Soda](https://unsplash.com/@jarritos)
 
 ## La régularité, ton meilleur investissement
 

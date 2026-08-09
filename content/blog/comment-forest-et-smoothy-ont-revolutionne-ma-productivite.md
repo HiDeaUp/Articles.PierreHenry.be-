@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/92b5c04ae24b"
 source_youtube = "https://www.youtube.com/watch?v=sJLpo67-UGA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1518644730709-0835105d9daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxmb2N1c2VkJTIwcGVyc29uJTIwbGFwdG9wJTIwd2luZG93JTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTYzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Concentré grâce à la magie des apps" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Concentré grâce à la magie des apps" >}}
+{{< figure src="https://images.unsplash.com/photo-1518644730709-0835105d9daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxmb2N1c2VkJTIwcGVyc29uJTIwbGFwdG9wJTIwd2luZG93JTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTYzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Concentré grâce à la magie des apps" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Concentré grâce à la magie des apps - Photo de [bruce mars](https://unsplash.com/@brucemars)" >}}
 
-
-Concentré grâce à la magie des apps - Photo de [bruce mars](https://unsplash.com/@brucemars)
 
 Il y a un moment précis où tout bascule : tu es devant ton ordinateur, prêt à avancer sur un projet important, mais une notification surgit et ta concentration s’évapore. Retrouver ce fameux “flow” - cet état où tu avances sans effort, totalement immergé dans ta tâche - devient alors un défi. J’ai longtemps cherché des outils concrets pour rester concentré malgré la tentation constante du numérique. C’est là que j’ai découvert Forest, une application qui a réellement transformé ma productivité.
 
@@ -32,10 +30,8 @@ Forest ne se limite pas à bloquer les distractions. Tu peux personnaliser l’e
 
 La concentration ne dépend pas seulement de la gestion des distractions numériques. L’environnement sonore joue aussi un rôle clé. Pour cela, j’utilise Smoothy, une application gratuite qui permet de créer une ambiance sur mesure. Tu veux te sentir comme dans un coffee shop sans quitter ton salon ? Tu peux associer plusieurs sons : bruit de mer, vagues, ambiance Starbucks, piano… Les combinaisons sont infinies.
 
-{{< figure src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxsdXNoJTIwZ3JlZW4lMjBmb3Jlc3QlMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjQxNjM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dans la forêt du focus retrouvé" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Dans la forêt du focus retrouvé" >}}
+{{< figure src="https://images.unsplash.com/photo-1426170042593-200f250dfdaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxsdXNoJTIwZ3JlZW4lMjBmb3Jlc3QlMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjQxNjM5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Dans la forêt du focus retrouvé" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Dans la forêt du focus retrouvé - Photo de [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign)" >}}
 
-
-Dans la forêt du focus retrouvé - Photo de [Lukasz Szmigiel](https://unsplash.com/@szmigieldesign)
 
 Le vrai secret, c’est d’écouter ces sons avec un bon casque. Pas besoin d’un modèle 360 binaural : un casque de qualité suffit pour s’immerger totalement. Quand je mets ces ambiances, je sens vraiment la différence. Je me retrouve à 100 % dans ma bulle, coupé du monde extérieur, prêt à avancer sans interruption.
 
@@ -47,10 +43,8 @@ Il existe aussi Don Dog, une application avec un système de gamification. Elle 
 
 Enfin, j’ai utilisé Befocust, qui fonctionne surtout comme un minuteur Pomodoro avec gestion de tâches intégrée. Pratique pour organiser ta journée, mais sans la dimension immersive et motivante de Forest.
 
-{{< figure src="https://images.unsplash.com/photo-1739826294194-9e0ceaea136f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoZWFkcGhvbmVzJTIwZGVzayUyMGNvenklMjB3b3Jrc3BhY2V8ZW58MHwwfHx8MTc4NjI0MTY0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Éviter les distractions pour mieux avancer" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Éviter les distractions pour mieux avancer" >}}
+{{< figure src="https://images.unsplash.com/photo-1739826294194-9e0ceaea136f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoZWFkcGhvbmVzJTIwZGVzayUyMGNvenklMjB3b3Jrc3BhY2V8ZW58MHwwfHx8MTc4NjI0MTY0MHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Éviter les distractions pour mieux avancer" title="Comment Forest et Smoothy ont révolutionné ma productivité" caption="Éviter les distractions pour mieux avancer - Photo de [Daniel Boberg](https://unsplash.com/@dbbrg)" >}}
 
-
-Éviter les distractions pour mieux avancer - Photo de [Daniel Boberg](https://unsplash.com/@dbbrg)
 
 ## Comment tirer le meilleur parti de ces outils
 

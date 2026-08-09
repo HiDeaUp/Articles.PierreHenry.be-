@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/eb56e69c8e51"
 source_youtube = "https://www.youtube.com/watch?v=ynHydU5OAQc"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1467842553903-611167c15daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzdHJldGNoaW5nJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODYyNDk3MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ouvrir à une nouvelle énergie quotidienne" title="Dix minutes par jour pour transformer ses journées" caption="S’ouvrir à une nouvelle énergie quotidienne" >}}
+{{< figure src="https://images.unsplash.com/photo-1467842553903-611167c15daf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzdHJldGNoaW5nJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODYyNDk3MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ouvrir à une nouvelle énergie quotidienne" title="Dix minutes par jour pour transformer ses journées" caption="S’ouvrir à une nouvelle énergie quotidienne - Photo de [Allef Vinicius](https://unsplash.com/@seteph)" >}}
 
-
-S’ouvrir à une nouvelle énergie quotidienne - Photo de [Allef Vinicius](https://unsplash.com/@seteph)
 
 Chaque matin, une décision s’impose : céder à la facilité de remettre à plus tard ou saisir l’occasion de progresser, même brièvement, vers une vie qui te ressemble. Il ne s’agit pas de volonté exceptionnelle ni de chance, mais d’un choix à renouveler chaque jour, parfois pour seulement dix minutes.
 
@@ -28,10 +26,8 @@ Ce temps, je le consacre à ce qui compte vraiment pour moi. Avant de répondre 
 
 On sous-estime la force de la régularité. Dix minutes de vidéo chaque jour, cela paraît peu. Mais au bout d’une semaine, cela fait soixante-dix minutes. Plus d’une heure de contenu, l’équivalent d’un cours ou d’une présentation complète. Ce principe s’applique à tout : apprendre une langue, découvrir la plongée, chanter, créer un logiciel, maîtriser un outil, se former au marketing. Demande-toi chaque matin : quelle connaissance aimerais-tu acquérir aujourd’hui ? Quelle porte pourrais-tu ouvrir en investissant ce petit temps sur toi ?
 
-{{< figure src="https://images.unsplash.com/photo-1614447911900-a69203b0e6b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjdXAlMjBvZiUyMHRlYSUyMGNvenklMjB3aW5kb3d8ZW58MHwwfHx8MTc4NjI0OTcxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Dix minutes pour savourer l’instant présent" title="Dix minutes par jour pour transformer ses journées" caption="Dix minutes pour savourer l’instant présent" >}}
+{{< figure src="https://images.unsplash.com/photo-1614447911900-a69203b0e6b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjdXAlMjBvZiUyMHRlYSUyMGNvenklMjB3aW5kb3d8ZW58MHwwfHx8MTc4NjI0OTcxN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Dix minutes pour savourer l’instant présent" title="Dix minutes par jour pour transformer ses journées" caption="Dix minutes pour savourer l’instant présent - Photo de [Elimende Inagella](https://unsplash.com/@elimendeinagella)" >}}
 
-
-Dix minutes pour savourer l’instant présent - Photo de [Elimende Inagella](https://unsplash.com/@elimendeinagella)
 
 En visualisant les opportunités qui s’ouvrent grâce à ces apprentissages, tu découvriras de nouveaux chemins. Certains te permettront peut-être de mieux gagner ta vie, d’autres de dépasser des blocages. L’essentiel est de ne pas laisser la stagnation s’installer. La stagnation, c’est comme une petite mort. Sans challenge, sans mission, on finit par s’éteindre.
 
@@ -41,10 +37,8 @@ Fais de cette recherche une mission quotidienne. Demande-toi chaque matin : qu�
 
 Il ne s’agit pas de tout changer d’un coup, mais de semer chaque jour une graine. Avec le temps, tu seras surpris de voir ce que tu as accompli, appris, et toutes les portes qui se sont ouvertes.
 
-{{< figure src="https://images.unsplash.com/photo-1762689123175-37089bd5ed57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5yaXNlJTIwd2FsayUyMHF1aWV0JTIwc3RyZWV0fGVufDB8MHx8fDE3ODYyNDk3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer sa journée avec un nouvel élan" title="Dix minutes par jour pour transformer ses journées" caption="Commencer sa journée avec un nouvel élan" >}}
+{{< figure src="https://images.unsplash.com/photo-1762689123175-37089bd5ed57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzdW5yaXNlJTIwd2FsayUyMHF1aWV0JTIwc3RyZWV0fGVufDB8MHx8fDE3ODYyNDk3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer sa journée avec un nouvel élan" title="Dix minutes par jour pour transformer ses journées" caption="Commencer sa journée avec un nouvel élan - Photo de [Federico Garaffi](https://unsplash.com/@fedingo13_photography)" >}}
 
-
-Commencer sa journée avec un nouvel élan - Photo de [Federico Garaffi](https://unsplash.com/@fedingo13_photography)
 
 Le meilleur moment pour passer à l’action, c’est aujourd’hui. Commence maintenant, même modestement. Ce n’est pas une question de perfection, mais de mouvement.
 

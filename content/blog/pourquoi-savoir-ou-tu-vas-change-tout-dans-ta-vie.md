@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/20f11c259f71"
 source_youtube = "https://www.youtube.com/watch?v=Iirs2Dh48KE"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1628112602161-b635c8a21378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGhpa2luZyUyMG1vdW50YWluJTIwdHJhaWx8ZW58MHwwfHx8MTc4NjI1MDMxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’arrêter pour choisir sa propre direction" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="S’arrêter pour choisir sa propre direction" >}}
+{{< figure src="https://images.unsplash.com/photo-1628112602161-b635c8a21378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGhpa2luZyUyMG1vdW50YWluJTIwdHJhaWx8ZW58MHwwfHx8MTc4NjI1MDMxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="S’arrêter pour choisir sa propre direction" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="S’arrêter pour choisir sa propre direction - Photo de [Katie Polansky](https://unsplash.com/@ktpolansky12)" >}}
 
-
-S’arrêter pour choisir sa propre direction - Photo de [Katie Polansky](https://unsplash.com/@ktpolansky12)
 
 La plupart des gens avancent dans la vie sans direction précise, comme si tu montais dans un taxi sans indiquer de destination. Imagine : tu ouvres Google Maps et tu demandes simplement « amène-moi nulle part » ou « partout, sauf dans l’océan ». Impossible d’arriver à bon port sans savoir où tu veux aller. Pourtant, beaucoup vivent ainsi, espérant que le hasard les mènera quelque part de satisfaisant.
 
@@ -34,10 +32,8 @@ J’ai connu ce sentiment de vide en fin de journée, cette impression d’avoir
 
 Pour moi, cette clarté est devenue une habitude. Je m’installe souvent près du feu, dans un coin qui m’inspire, et je prends le temps de réfléchir à mes priorités. L’environnement joue un rôle important : il peut te tirer vers le haut ou, au contraire, t’éloigner de tes ambitions. Choisis donc des lieux qui nourrissent ton énergie et ta concentration.
 
-{{< figure src="https://images.unsplash.com/photo-1646617747563-4f080bddf282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwZHJhd2luZyUyMG1hcCUyMG9uJTIwcGFwZXJ8ZW58MHwwfHx8MTc4NjI1MDMxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tracer sa route commence sur le papier" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="Tracer sa route commence sur le papier" >}}
+{{< figure src="https://images.unsplash.com/photo-1646617747563-4f080bddf282?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kJTIwZHJhd2luZyUyMG1hcCUyMG9uJTIwcGFwZXJ8ZW58MHwwfHx8MTc4NjI1MDMxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tracer sa route commence sur le papier" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="Tracer sa route commence sur le papier - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-Tracer sa route commence sur le papier - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Prendre du recul : la rétrospective quotidienne
 
@@ -53,10 +49,8 @@ J’ai donc décidé de créer un outil sur mesure, capable d’analyser en dét
 
 Ce n’est pas tant la technologie qui compte ici, mais le fait d’avoir un objectif précis, un projet qui te motive et structure tes journées. Peu importe le domaine, ce qui compte, c’est de trouver ce qui te donne envie d’agir et t’aide à progresser.
 
-{{< figure src="https://images.unsplash.com/photo-1766225441944-2f2e34c1035e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBsb29raW5nJTIwYXQlMjBjaXR5JTIwc2t5bGluZSUyMHN1bnNldHxlbnwwfDB8fHwxNzg2MjUwMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’horizon change quand on sait où aller" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="L’horizon change quand on sait où aller" >}}
+{{< figure src="https://images.unsplash.com/photo-1766225441944-2f2e34c1035e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxtYW4lMjBsb29raW5nJTIwYXQlMjBjaXR5JTIwc2t5bGluZSUyMHN1bnNldHxlbnwwfDB8fHwxNzg2MjUwMzE5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’horizon change quand on sait où aller" title="Pourquoi savoir où tu vas change tout dans ta vie" caption="L’horizon change quand on sait où aller - Photo de [Fethi Benattallah](https://unsplash.com/@fethibenattallah)" >}}
 
-
-L’horizon change quand on sait où aller - Photo de [Fethi Benattallah](https://unsplash.com/@fethibenattallah)
 
 ## Comment trouver ta propre direction
 

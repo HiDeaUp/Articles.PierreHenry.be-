@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/604dfbfd8436"
 source_youtube = "https://www.youtube.com/watch?v=AfxGSi8s910"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1739133552309-8ef12d23be37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHJlYWRpbmclMjBjYW5kbGVsaWdodHxlbnwwfDB8fHwxNzg2MjU5NjI1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un moment de lumière pour apaiser l’esprit" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="Un moment de lumière pour apaiser l’esprit" >}}
+{{< figure src="https://images.unsplash.com/photo-1739133552309-8ef12d23be37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHJlYWRpbmclMjBjYW5kbGVsaWdodHxlbnwwfDB8fHwxNzg2MjU5NjI1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un moment de lumière pour apaiser l’esprit" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="Un moment de lumière pour apaiser l’esprit - Photo de [Samir Vanegas](https://unsplash.com/@samir_vanegas_)" >}}
 
-
-Un moment de lumière pour apaiser l’esprit - Photo de [Samir Vanegas](https://unsplash.com/@samir_vanegas_)
 
 Après une journée de travail intense, le stress s’accumule et la fatigue se fait sentir, même avec une bonne résistance mentale. Pour moi, la fin de journée n’est pas qu’une transition vers la nuit : c’est le début de ma routine du soir, un rituel essentiel pour me recentrer, retrouver le calme et préparer demain avec clarté.
 
@@ -32,10 +30,8 @@ Ce n’est pas la durée qui compte, mais la régularité. Dix minutes suffisent
 
 J’aime varier : parfois j’écris, parfois je lis, parfois je prépare mon repas du lendemain (comme faire des pâtes pour le déjeuner). Ces gestes simples, intégrés à ma routine, me permettent de clore la journée en ayant pris soin de moi et préparé le terrain pour demain.
 
-{{< figure src="https://images.unsplash.com/photo-1660490104558-2c2cb072b4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb3p5JTIwdGVhJTIwZXZlbmluZyUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjU5NjI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’eau claire qui invite au lâcher-prise" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="L’eau claire qui invite au lâcher-prise" >}}
+{{< figure src="https://images.unsplash.com/photo-1660490104558-2c2cb072b4fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb3p5JTIwdGVhJTIwZXZlbmluZyUyMHdpbmRvd3xlbnwwfDB8fHwxNzg2MjU5NjI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’eau claire qui invite au lâcher-prise" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="L’eau claire qui invite au lâcher-prise - Photo de [EADWYNE](https://unsplash.com/@eadwyne)" >}}
 
-
-L’eau claire qui invite au lâcher-prise - Photo de [EADWYNE](https://unsplash.com/@eadwyne)
 
 ## Pratiquer pour ancrer la routine
 
@@ -53,10 +49,8 @@ Il y a toujours un moment de doute, une baisse de motivation, ce fameux “creux
 
 On nous répète qu’il faut être productif, optimiser chaque minute. Mais la routine du soir n’a pas pour objectif de te transformer en machine à accomplir. Son but, c’est le bonheur et le bien-être. Les Grecs anciens définissaient le bonheur comme une vie sans tracas, calme et sereine. C’est ce que je recherche à travers ces rituels : une vie où l’on avance sans se laisser submerger par le stress.
 
-{{< figure src="https://images.unsplash.com/photo-1559841771-599b6eeaca62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzb2Z0JTIwYmVkJTIwZnJlc2glMjBsaW5lbnN8ZW58MHwwfHx8MTc4NjI1OTYyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Préparer son cocon pour une nuit sereine" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="Préparer son cocon pour une nuit sereine" >}}
+{{< figure src="https://images.unsplash.com/photo-1559841771-599b6eeaca62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzb2Z0JTIwYmVkJTIwZnJlc2glMjBsaW5lbnN8ZW58MHwwfHx8MTc4NjI1OTYyNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Préparer son cocon pour une nuit sereine" title="Comment ma routine du soir m’aide à retrouver calme et clarté" caption="Préparer son cocon pour une nuit sereine - Photo de [Khadeeja Yasser](https://unsplash.com/@k_yasser)" >}}
 
-
-Préparer son cocon pour une nuit sereine - Photo de [Khadeeja Yasser](https://unsplash.com/@k_yasser)
 
 La routine du soir, c’est une rétrospective quotidienne. Un moment pour revisualiser ta journée, en tirer des enseignements, et te préparer à accueillir demain avec plus de clarté.
 

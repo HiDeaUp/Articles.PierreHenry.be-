@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/a9ca3d99ae47"
 source_youtube = "https://www.youtube.com/watch?v=0rmpp1aV1vw"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1758599880489-403f7ae405f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBpbiUyMGxpdmluZyUyMHJvb218ZW58MHwwfHx8MTc4NjIzNjUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pause yoga pour réveiller le corps" title="Comment j’ai appris à varier mes activités chaque jour" caption="Pause yoga pour réveiller le corps" >}}
+{{< figure src="https://images.unsplash.com/photo-1758599880489-403f7ae405f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBpbiUyMGxpdmluZyUyMHJvb218ZW58MHwwfHx8MTc4NjIzNjUyM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Pause yoga pour réveiller le corps" title="Comment j’ai appris à varier mes activités chaque jour" caption="Pause yoga pour réveiller le corps - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Pause yoga pour réveiller le corps - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 Imagine-toi passer toute une journée devant ton ordinateur, enchaînant les tâches intellectuelles sans jamais lever les yeux de l’écran. Même si tu avances sur tes projets, tu risques de finir la journée avec une impression de vide ou de stagnation. J’ai connu ce sentiment, et il m’a poussé à repenser l’organisation de mes journées. J’ai compris qu’il ne suffit pas de remplir son emploi du temps, mais qu’il faut varier les pôles d’activité pour trouver un équilibre réel.
 
@@ -32,10 +30,8 @@ Si tu passes ta journée entière à faire la même chose, même en variant les 
 
 Cette logique de polarité ne concerne pas que le travail. Elle s’applique aussi à ce que tu manges et aux personnes que tu fréquentes. Même une alimentation saine manque d’équilibre si tu ne consommes que des carottes et des épinards du matin au soir. Ton corps, comme ton esprit, a besoin de diversité.
 
-{{< figure src="https://images.unsplash.com/photo-1723744909898-4a1ce8922699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwc2hhcmluZyUyMGhlYWx0aHklMjBtZWFsfGVufDB8MHx8fDE3ODYyMzY1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partage et connexion autour d’un bon repas" title="Comment j’ai appris à varier mes activités chaque jour" caption="Partage et connexion autour d’un bon repas" >}}
+{{< figure src="https://images.unsplash.com/photo-1723744909898-4a1ce8922699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwc2hhcmluZyUyMGhlYWx0aHklMjBtZWFsfGVufDB8MHx8fDE3ODYyMzY1MjR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partage et connexion autour d’un bon repas" title="Comment j’ai appris à varier mes activités chaque jour" caption="Partage et connexion autour d’un bon repas - Photo de [Negley Stockman](https://unsplash.com/@negley)" >}}
 
-
-Partage et connexion autour d’un bon repas - Photo de [Negley Stockman](https://unsplash.com/@negley)
 
 C’est pareil pour les relations humaines. Fréquenter des personnes issues de milieux, de générations ou de visions différentes t’ouvre à d’autres perspectives. Discuter avec quelqu’un dont tu ne partages pas les opinions te pousse à comprendre sa manière de penser. Tu n’es pas obligé d’adopter ses idées, mais cet exercice d’ouverture enrichit ta propre vision du monde.
 
@@ -51,10 +47,8 @@ Face à la nouveauté, il est normal de ressentir une certaine résistance. C’
 
 Il faut cependant savoir doser cette résistance. Être trop rigide empêche de s’adapter à une société qui évolue vite. Il y a toujours un temps d’adaptation, un moment où l’on se demande pourquoi on était si attaché à l’ancienne façon de faire. Mais une fois ce cap franchi, on réalise souvent que le changement était nécessaire.
 
-{{< figure src="https://images.unsplash.com/photo-1558478551-be297c7bb253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwcGxhbm5lciUyMHdpdGglMjBjb2ZmZWUlMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjM2NTI1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’accorder un temps d’écriture inspirant" title="Comment j’ai appris à varier mes activités chaque jour" caption="S’accorder un temps d’écriture inspirant" >}}
+{{< figure src="https://images.unsplash.com/photo-1558478551-be297c7bb253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwcGxhbm5lciUyMHdpdGglMjBjb2ZmZWUlMjBzdW5saWdodHxlbnwwfDB8fHwxNzg2MjM2NTI1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’accorder un temps d’écriture inspirant" title="Comment j’ai appris à varier mes activités chaque jour" caption="S’accorder un temps d’écriture inspirant - Photo de [Alexa Williams](https://unsplash.com/@glamorousplanning)" >}}
 
-
-S’accorder un temps d’écriture inspirant - Photo de [Alexa Williams](https://unsplash.com/@glamorousplanning)
 
 J’observe ces différences de paradigme entre générations, mais aussi au sein de ma famille. Mes parents, mes grands-parents, mes neveux et nièces : chacun a grandi dans un contexte différent, avec ses propres repères. C’est naturel, et c’est ce qui rend les échanges enrichissants.
 

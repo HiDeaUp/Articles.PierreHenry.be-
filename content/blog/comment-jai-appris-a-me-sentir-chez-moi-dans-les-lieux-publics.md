@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/bb83111b53c4"
 source_youtube = "https://www.youtube.com/watch?v=spMi00zF1aw"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1708578120855-7b0936191fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHdhbGtpbmclMjBjaXR5JTIwc3RyZWV0JTIwY29uZmlkZW50fGVufDB8MHx8fDE3ODYyMzg5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Marcher la tête haute dans la nuit" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Marcher la tête haute dans la nuit" >}}
+{{< figure src="https://images.unsplash.com/photo-1708578120855-7b0936191fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHdhbGtpbmclMjBjaXR5JTIwc3RyZWV0JTIwY29uZmlkZW50fGVufDB8MHx8fDE3ODYyMzg5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Marcher la tête haute dans la nuit" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Marcher la tête haute dans la nuit - Photo de [Dennis Zhang](https://unsplash.com/@windagh)" >}}
 
-
-Marcher la tête haute dans la nuit - Photo de [Dennis Zhang](https://unsplash.com/@windagh)
 
 Salut ! Aujourd’hui, je veux parler d’un sujet concret : comment se sentir vraiment chez soi dans la rue ou dans les lieux publics, là où l’insécurité peut vite s’installer. Ce malaise, je l’ai ressenti souvent. Mais j’ai découvert que la confiance en soi change tout.
 
@@ -30,10 +28,8 @@ Cette dynamique me rappelle le comportement des loups. Les loups repèrent la pe
 
 Être perçu comme vulnérable dépend souvent de la posture et du regard. Je ne choisis pas toujours mes émotions, mais je peux décider de la façon dont je les montre. J’ai compris que je voulais être cette personne qui avance avec assurance, même si à l’intérieur il y a parfois des doutes. Les gens un peu relous ou bizarres sentent quand tu n’as pas peur d’eux. Ils passent leur chemin.
 
-{{< figure src="https://images.unsplash.com/photo-1709900096576-91a1042e704e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBzaG9wJTIwd2luZG93JTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzODkxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Refléter sa confiance sur chaque vitrine" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Refléter sa confiance sur chaque vitrine" >}}
+{{< figure src="https://images.unsplash.com/photo-1709900096576-91a1042e704e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjb2ZmZWUlMjBzaG9wJTIwd2luZG93JTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzODkxM3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Refléter sa confiance sur chaque vitrine" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Refléter sa confiance sur chaque vitrine - Photo de [Fons Heijnsbroek](https://unsplash.com/@fonsheijnsbroek_amsterdam_photos)" >}}
 
-
-Refléter sa confiance sur chaque vitrine - Photo de [Fons Heijnsbroek](https://unsplash.com/@fonsheijnsbroek_amsterdam_photos)
 
 Ce n’est pas de l’arrogance, mais du respect de soi. Plus je cultive cette estime, plus je me sens à ma place, même dans les espaces publics. Cette impression de sécurité, je la porte avec moi.
 
@@ -43,10 +39,8 @@ Tout cela demande un vrai travail mental. Il faut s’entraîner, petit à petit
 
 Au début, c’est inconfortable. On a l’impression de jouer un rôle. Mais à force, ce rôle devient naturel. Je finis par me comporter différemment, et les autres le sentent. La rue devient moins hostile, les lieux publics moins intimidants. Je n’attire plus les ennuis, parce que je n’envoie plus les signaux de la peur.
 
-{{< figure src="https://images.unsplash.com/photo-1775317353265-1c5022d6dc53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzaXR0aW5nJTIwcGFyayUyMGJlbmNoJTIwcmVsYXhlZHxlbnwwfDB8fHwxNzg2MjM4OTE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partager l’espace public, se sentir légitime" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Partager l’espace public, se sentir légitime" >}}
+{{< figure src="https://images.unsplash.com/photo-1775317353265-1c5022d6dc53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBzaXR0aW5nJTIwcGFyayUyMGJlbmNoJTIwcmVsYXhlZHxlbnwwfDB8fHwxNzg2MjM4OTE0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partager l’espace public, se sentir légitime" title="Comment j’ai appris à me sentir chez moi dans les lieux publics" caption="Partager l’espace public, se sentir légitime - Photo de [Pedro Correia](https://unsplash.com/@pvcsilva)" >}}
 
-
-Partager l’espace public, se sentir légitime - Photo de [Pedro Correia](https://unsplash.com/@pvcsilva)
 
 ## Ce que tu peux faire dès maintenant
 

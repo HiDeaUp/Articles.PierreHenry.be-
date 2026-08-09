@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/961c5ffe165c"
 source_youtube = "https://www.youtube.com/watch?v=mrqJXGDul5s"
 +++
 
-{{< figure src="https://unsplash.com/@priscilladupreez" alt="Investir sur soi-même pour valoriser son temps unique" title="Investir sur soi-même pour valoriser son temps unique" caption="Développement personnel" >}}
+{{< figure src="https://images.unsplash.com/photo-1581832097738-9810da6766c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHJlYWRpbmclMjBub3RlYm9vayUyMHdpbmRvdyUyMGxpZ2h0fGVufDB8MHx8fDE3ODU2NjkxOTN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps de se recentrer" title="Investir sur soi-même pour valoriser son temps unique" caption="Prendre le temps de se recentrer - Photo de [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez)" >}}
 
+
+**Développement personnel**
 
 ## Investir sur soi-même pour valoriser son temps unique
 
@@ -34,10 +36,8 @@ La première étape, c’est de parier sur tes connaissances, ta créativité, t
 
 Pour avancer concrètement, fixe-toi un projet réalisable en une semaine. Pas besoin de viser grand : choisis une chose qui te tient à cœur et consacre-lui un peu de temps chaque jour. La régularité, même minime, fait toute la différence. C’est en avançant ainsi que tu obtiens des résultats tangibles et une vraie satisfaction.
 
-{{< figure src="https://images.unsplash.com/photo-1557316655-8715fdecd2d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwb3ZlciUyMGNhbG0lMjBsYWtlfGVufDB8MHx8fDE3ODU2NjkxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Atteindre de nouveaux sommets personnels" title="Investir sur soi-même pour valoriser son temps unique" caption="Atteindre de nouveaux sommets personnels" >}}
+{{< figure src="https://images.unsplash.com/photo-1557316655-8715fdecd2d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwb3ZlciUyMGNhbG0lMjBsYWtlfGVufDB8MHx8fDE3ODU2NjkxOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Atteindre de nouveaux sommets personnels" title="Investir sur soi-même pour valoriser son temps unique" caption="Atteindre de nouveaux sommets personnels - Photo de [Neil Thomas](https://unsplash.com/@neilthomas)" >}}
 
-
-Atteindre de nouveaux sommets personnels - Photo de [Neil Thomas](https://unsplash.com/@neilthomas)
 
 Chaque semaine, par exemple, je me demande quelle fonctionnalité j’aimerais ajouter ou améliorer dans mon application de nutrition, 1000 Snap. Parfois, il s’agit d’en supprimer une, de simplifier l’interface ou d’optimiser l’expérience utilisateur. L’essentiel, c’est de progresser vers un objectif qui me motive.
 
@@ -51,10 +51,8 @@ Ce principe s’applique partout. Alléger tes projets, tes routines, tes object
 
 Tout cela vise un but : te rendre heureux, aligné avec toi-même. Qu’est-ce qui te donnerait le sourire en fin de journée ? Quelle petite victoire te rendrait fier ? Prends le temps d’y réfléchir. La satisfaction vient de la qualité de ce que tu choisis de faire, de ce qui te ressemble vraiment.
 
-{{< figure src="https://images.unsplash.com/photo-1590682680695-43b964a3ae17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHBsYW50aW5nJTIwc21hbGwlMjBzYXBsaW5nJTIwc29pbHxlbnwwfDB8fHwxNzg1NjY5MTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Nourrir sa croissance intérieure chaque jour" title="Investir sur soi-même pour valoriser son temps unique" caption="Nourrir sa croissance intérieure chaque jour" >}}
+{{< figure src="https://images.unsplash.com/photo-1590682680695-43b964a3ae17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMHBsYW50aW5nJTIwc21hbGwlMjBzYXBsaW5nJTIwc29pbHxlbnwwfDB8fHwxNzg1NjY5MTk1fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Nourrir sa croissance intérieure chaque jour" title="Investir sur soi-même pour valoriser son temps unique" caption="Nourrir sa croissance intérieure chaque jour - Photo de [GreenForce Staffing](https://unsplash.com/@greenforce_staffing)" >}}
 
-
-Nourrir sa croissance intérieure chaque jour - Photo de [GreenForce Staffing](https://unsplash.com/@greenforce_staffing)
 
 Pour moi, chaque amélioration ou simplification de mon application est une source de joie. C’est un reflet de mon engagement à progresser, à créer quelque chose qui me ressemble et qui apporte de la valeur. Et toi, quelle est la chose, même minuscule, qui pourrait te rendre complètement satisfait cette semaine ?
 

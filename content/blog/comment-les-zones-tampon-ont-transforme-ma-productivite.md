@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/bc5a33d812e2"
 source_youtube = "https://www.youtube.com/watch?v=jIBx9X3iA7c"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBtb3JuaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzODAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée en douceur, sans précipitation" title="Comment les zones tampon ont transformé ma productivité" caption="Commencer la journée en douceur, sans précipitation" >}}
+{{< figure src="https://images.unsplash.com/photo-1552650272-b8a34e21bc4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBtb3JuaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjIzODAyMnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée en douceur, sans précipitation" title="Comment les zones tampon ont transformé ma productivité" caption="Commencer la journée en douceur, sans précipitation - Photo de [bruce mars](https://unsplash.com/@brucemars)" >}}
 
-
-Commencer la journée en douceur, sans précipitation - Photo de [bruce mars](https://unsplash.com/@brucemars)
 
 Créer une zone tampon : le secret d’une productivité apaisée
 
@@ -24,10 +22,8 @@ J’applique ce principe à d’autres moments clés. Avant d’aller me coucher
 
 Avant d’entamer une tâche importante, que je ne peux pas fractionner, je crée aussi une zone tampon de 15 minutes. Souvent, j’utilise l’application Forest sur iPhone, qui propose des bruits de fond apaisants. Je prends un café, je me détends, je souffle. Je ne touche pas à mon téléphone. Ce quart d’heure me permet de décompresser avant de passer à l’action.
 
-{{< figure src="https://images.unsplash.com/photo-1640609432611-f4e2ae26898c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxob3VyZ2xhc3MlMjBzYW5kJTIwY2xvc2V1cHxlbnwwfDB8fHwxNzg2MjM4MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps d’une pause pour être efficace" title="Comment les zones tampon ont transformé ma productivité" caption="Prendre le temps d’une pause pour être efficace" >}}
+{{< figure src="https://images.unsplash.com/photo-1640609432611-f4e2ae26898c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxob3VyZ2xhc3MlMjBzYW5kJTIwY2xvc2V1cHxlbnwwfDB8fHwxNzg2MjM4MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps d’une pause pour être efficace" title="Comment les zones tampon ont transformé ma productivité" caption="Prendre le temps d’une pause pour être efficace - Photo de [Immo Wegmann](https://unsplash.com/@tinkerman)" >}}
 
-
-Prendre le temps d’une pause pour être efficace - Photo de [Immo Wegmann](https://unsplash.com/@tinkerman)
 
 ## Pourquoi ces zones tampon sont efficaces
 
@@ -43,10 +39,8 @@ Tu peux facilement adapter ce principe à ta routine. Voici comment je procède 
 
 Ce sont de petites habitudes, mais elles font une grande différence. Elles ont transformé mon rapport à la productivité. Je prends le temps de me préparer, ce qui réduit mon stress et améliore ma concentration.
 
-{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMGNvZmZlZSUyMHRhYmxlJTIwY296eXxlbnwwfDB8fHwxNzg2MjM4MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Préparer l’esprit avant de s’attaquer aux tâches" title="Comment les zones tampon ont transformé ma productivité" caption="Préparer l’esprit avant de s’attaquer aux tâches" >}}
+{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxub3RlYm9vayUyMGNvZmZlZSUyMHRhYmxlJTIwY296eXxlbnwwfDB8fHwxNzg2MjM4MDIzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Préparer l’esprit avant de s’attaquer aux tâches" title="Comment les zones tampon ont transformé ma productivité" caption="Préparer l’esprit avant de s’attaquer aux tâches - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)" >}}
 
-
-Préparer l’esprit avant de s’attaquer aux tâches - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)
 
 ## Ce que tu peux en retirer
 

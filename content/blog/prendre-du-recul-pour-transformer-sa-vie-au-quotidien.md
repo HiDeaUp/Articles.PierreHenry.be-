@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/b742b5c68a20"
 source_youtube = "https://www.youtube.com/watch?v=DN3nN2Qd8CE"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1641809293305-145d5067fffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG92ZXJsb29raW5nJTIwbW91bnRhaW4lMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNTYzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'ouvrir à de nouveaux horizons intérieurs" title="Prendre du recul pour transformer sa vie au quotidien" caption="S'ouvrir à de nouveaux horizons intérieurs" >}}
+{{< figure src="https://images.unsplash.com/photo-1641809293305-145d5067fffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG92ZXJsb29raW5nJTIwbW91bnRhaW4lMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNTYzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="S'ouvrir à de nouveaux horizons intérieurs" title="Prendre du recul pour transformer sa vie au quotidien" caption="S'ouvrir à de nouveaux horizons intérieurs - Photo de [Jason Ayers](https://unsplash.com/@jasonayersraw)" >}}
 
-
-S'ouvrir à de nouveaux horizons intérieurs - Photo de [Jason Ayers](https://unsplash.com/@jasonayersraw)
 
 Il arrive que tu te sentes bloqué, comme enfermé dans une impasse sans issue vers une vie meilleure. Ce sentiment de stagnation, je l’ai connu. Il donne l’impression que rien ne peut changer. Pourtant, il existe toujours une solution, même si cela demande du courage et de la réflexion.
 
@@ -28,10 +26,8 @@ Quand tu avances sans recul, tu subis les événements et répètes les mêmes g
 
 Être stratège dans sa propre vie, c’est décider d’en devenir l’acteur. Cela demande parfois de s’arrêter, de souffler, de sortir prendre l’air pour réfléchir. Ce moment de pause est essentiel. Il permet de te demander : « Qu’est-ce que je peux faire maintenant ? » Pas dans un an, mais aujourd’hui, demain, après-demain. Il s’agit de repérer les petites actions et habitudes à prendre qui, mises bout à bout, changent la trajectoire.
 
-{{< figure src="https://images.unsplash.com/photo-1661951931903-6e081f801afe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxtYW4lMjBzaXR0aW5nJTIwYWxvbmUlMjBjYWZlJTIwd2luZG93fGVufDB8MHx8fDE3ODYyNTYzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps de repenser sa trajectoire" title="Prendre du recul pour transformer sa vie au quotidien" caption="Prendre le temps de repenser sa trajectoire" >}}
+{{< figure src="https://images.unsplash.com/photo-1661951931903-6e081f801afe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxtYW4lMjBzaXR0aW5nJTIwYWxvbmUlMjBjYWZlJTIwd2luZG93fGVufDB8MHx8fDE3ODYyNTYzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le temps de repenser sa trajectoire" title="Prendre du recul pour transformer sa vie au quotidien" caption="Prendre le temps de repenser sa trajectoire - Photo de [Diane Picchiottino](https://unsplash.com/@diane_soko)" >}}
 
-
-Prendre le temps de repenser sa trajectoire - Photo de [Diane Picchiottino](https://unsplash.com/@diane_soko)
 
 ## Utiliser ton énergie pour agir
 
@@ -43,10 +39,8 @@ Il ne s’agit pas de tout bouleverser d’un coup, mais d’accumuler ces petit
 
 Tu n’es pas condamné à rester spectateur. Prendre du recul, réfléchir, agir, ce sont des choix accessibles à chacun. Ce n’est pas toujours facile, mais c’est possible. La vie n’est pas un tunnel sans issue. Il y a des portes, parfois cachées, qui attendent d’être ouvertes. Il suffit parfois d’un peu de courage et d’un moment de réflexion pour les apercevoir.
 
-{{< figure src="https://images.unsplash.com/photo-1708909526327-83f0a61b24d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxvcGVuJTIwcm9hZCUyMGFlcmlhbCUyMHZpZXd8ZW58MHwwfHx8MTc4NjI1NjMzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir sa propre voie vers le changement" title="Prendre du recul pour transformer sa vie au quotidien" caption="Choisir sa propre voie vers le changement" >}}
+{{< figure src="https://images.unsplash.com/photo-1708909526327-83f0a61b24d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxvcGVuJTIwcm9hZCUyMGFlcmlhbCUyMHZpZXd8ZW58MHwwfHx8MTc4NjI1NjMzOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Choisir sa propre voie vers le changement" title="Prendre du recul pour transformer sa vie au quotidien" caption="Choisir sa propre voie vers le changement - Photo de [Andrew Nemeth](https://unsplash.com/@foremostcreative)" >}}
 
-
-Choisir sa propre voie vers le changement - Photo de [Andrew Nemeth](https://unsplash.com/@foremostcreative)
 
 Si tu as l’impression de tourner en rond, rappelle-toi que tu as en toi l’énergie nécessaire pour changer les choses. Prends le temps de regarder ta vie avec un grand angle, comme un stratège. Identifie les actions et habitudes à adopter, commence dès aujourd’hui, et tu verras que, petit à petit, tu reprendras le contrôle.
 

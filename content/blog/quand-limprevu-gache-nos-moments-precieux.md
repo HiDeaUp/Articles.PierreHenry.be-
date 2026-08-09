@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/eb3f00b672cb"
 source_youtube = "https://www.youtube.com/watch?v=EG46uM6aDlI"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1625585675064-7b8cdcd0ca49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGZydXN0cmF0ZWQlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODYyNTc1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quand tout s’arrête, respirer profondément" title="Quand l’imprévu gâche nos moments précieux" caption="Quand tout s’arrête, respirer profondément" >}}
+{{< figure src="https://images.unsplash.com/photo-1625585675064-7b8cdcd0ca49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMGZydXN0cmF0ZWQlMjByZXN0YXVyYW50fGVufDB8MHx8fDE3ODYyNTc1MTh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Quand tout s’arrête, respirer profondément" title="Quand l’imprévu gâche nos moments précieux" caption="Quand tout s’arrête, respirer profondément - Photo de [Tamara Harhai](https://unsplash.com/@toma_ha)" >}}
 
-
-Quand tout s’arrête, respirer profondément - Photo de [Tamara Harhai](https://unsplash.com/@toma_ha)
 
 Un imprévu, et tout bascule. Tu es au restaurant, prêt à savourer un bon repas, mais le plat arrive froid ou l’addition est fausse. La frustration monte, la soirée s’assombrit. Ou bien tu passes une journée dans un parc d’attractions avec les enfants, espérant créer de beaux souvenirs, mais tu te retrouves à faire trois heures de queue pour une attraction, puis une heure de plus pour manger. La tension grimpe, ton sang-froid s’effrite, et soudain, la journée que tu voulais parfaite te glisse entre les doigts.
 
@@ -26,10 +24,8 @@ La vraie difficulté, c’est d’accepter que nos journées ne se déroulent ja
 
 Parfois, la pollution mentale prend tellement de place qu’elle se manifeste physiquement : mal de tête, fatigue, sensation de malaise. Elle te freine, t’empêche de profiter, et finit par déteindre sur les personnes qui comptent le plus pour toi. Pourtant, il existe des moyens simples pour reprendre le contrôle.
 
-{{< figure src="https://images.unsplash.com/photo-1668025533776-e584cb3fab3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmYW1pbHklMjByYWlueSUyMGFtdXNlbWVudCUyMHBhcmt8ZW58MHwwfHx8MTc4NjI1NzUxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Le chaos extérieur reflète notre agitation intérieure" title="Quand l’imprévu gâche nos moments précieux" caption="Le chaos extérieur reflète notre agitation intérieure" >}}
+{{< figure src="https://images.unsplash.com/photo-1668025533776-e584cb3fab3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmYW1pbHklMjByYWlueSUyMGFtdXNlbWVudCUyMHBhcmt8ZW58MHwwfHx8MTc4NjI1NzUxOHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Le chaos extérieur reflète notre agitation intérieure" title="Quand l’imprévu gâche nos moments précieux" caption="Le chaos extérieur reflète notre agitation intérieure - Photo de [Pablo Hernández](https://unsplash.com/@pablogt)" >}}
 
-
-Le chaos extérieur reflète notre agitation intérieure - Photo de [Pablo Hernández](https://unsplash.com/@pablogt)
 
 ## Revenir à soi : des outils concrets
 
@@ -39,10 +35,8 @@ La méditation peut aussi t’aider, même si ce n’est pas une pratique qui pa
 
 Souvent, ces problèmes qui nous minent sont insignifiants à l’échelle de l’univers. Ce sont des poussières, des détails qui ne valent pas la peine de sacrifier une journée, un moment précieux, ou la qualité de ta présence avec ceux que tu aimes.
 
-{{< figure src="https://images.unsplash.com/photo-1758599878920-d42cccc4aeca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzZXJlbmUlMjBtb3JuaW5nJTIwbWVkaXRhdGlvbiUyMGhvbWV8ZW58MHwwfHx8MTc4NjI1NzUxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la paix malgré l’imprévu" title="Quand l’imprévu gâche nos moments précieux" caption="Trouver la paix malgré l’imprévu" >}}
+{{< figure src="https://images.unsplash.com/photo-1758599878920-d42cccc4aeca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzZXJlbmUlMjBtb3JuaW5nJTIwbWVkaXRhdGlvbiUyMGhvbWV8ZW58MHwwfHx8MTc4NjI1NzUxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la paix malgré l’imprévu" title="Quand l’imprévu gâche nos moments précieux" caption="Trouver la paix malgré l’imprévu - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Trouver la paix malgré l’imprévu - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 ## Protéger ce qui compte vraiment
 

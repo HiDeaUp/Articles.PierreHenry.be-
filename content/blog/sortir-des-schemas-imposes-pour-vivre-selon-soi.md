@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/4e842c0d58cc"
 source_youtube = "https://www.youtube.com/watch?v=xEs7K9TQl4s"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1784131722192-701a0863f01f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUxODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer librement sur son propre chemin" title="Sortir des schémas imposés pour vivre selon soi" caption="Avancer librement sur son propre chemin" >}}
+{{< figure src="https://images.unsplash.com/photo-1784131722192-701a0863f01f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUxODh8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer librement sur son propre chemin" title="Sortir des schémas imposés pour vivre selon soi" caption="Avancer librement sur son propre chemin - Photo de [Bob Jenkin](https://unsplash.com/@bobj245)" >}}
 
-
-Avancer librement sur son propre chemin - Photo de [Bob Jenkin](https://unsplash.com/@bobj245)
 
 Il t’arrive peut-être de ressentir un décalage entre la vie que tu mènes et celle que tu voudrais vraiment. Tu avances sur un chemin qui semble tracé d’avance, influencé par la société, ton éducation ou les habitudes de ton entourage. Sans t’en rendre compte, tu reproduis des schémas, tu restes dans le même environnement, tu perpétues des traditions, et tu finis par t’oublier.
 

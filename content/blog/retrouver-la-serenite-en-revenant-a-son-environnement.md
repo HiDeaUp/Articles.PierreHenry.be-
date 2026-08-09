@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/7ae1cd01f224"
 source_youtube = "https://www.youtube.com/watch?v=sYPXbRcS1fg"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1484446991649-77f7fbd73f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNpdHRpbmclMjBieSUyMHdpbmRvdyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTU0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver le calme en observant le dehors" title="Retrouver la sérénité en revenant à son environnement" caption="Trouver le calme en observant le dehors" >}}
+{{< figure src="https://images.unsplash.com/photo-1484446991649-77f7fbd73f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNpdHRpbmclMjBieSUyMHdpbmRvdyUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTU0MjV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver le calme en observant le dehors" title="Retrouver la sérénité en revenant à son environnement" caption="Trouver le calme en observant le dehors - Photo de [Roberto Nickson](https://unsplash.com/@rpnickson)" >}}
 
-
-Trouver le calme en observant le dehors - Photo de [Roberto Nickson](https://unsplash.com/@rpnickson)
 
 Il t’arrive peut-être de te sentir envahi par des pensées négatives, surtout quand tu attends une réponse qui ne vient jamais. Ce silence, ce sentiment d’être ignoré, peut facilement polluer ton esprit et te détourner de l’essentiel. Pourtant, il existe une solution simple et accessible : te reconnecter à ton environnement immédiat et savourer le moment présent.
 
@@ -30,10 +28,8 @@ Ne pas recevoir de réponse ou se sentir ignoré peut provoquer une sorte de par
 
 La vie est trop courte pour se laisser gâcher par le comportement des autres. Il y aura toujours des personnes qui ne répondent pas ou qui se comportent mal. Tu ne peux pas contrôler leurs actions, mais tu peux choisir de ne pas te laisser envahir par leur négativité.
 
-{{< figure src="https://images.unsplash.com/photo-1616430284384-62ba9ce6c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxiYXJlZm9vdCUyMHdhbGtpbmclMjBmb3Jlc3QlMjB0cmFpbHxlbnwwfDB8fHwxNzg2MjU1NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ancrer dans la nature pour apaiser l’esprit" title="Retrouver la sérénité en revenant à son environnement" caption="S’ancrer dans la nature pour apaiser l’esprit" >}}
+{{< figure src="https://images.unsplash.com/photo-1616430284384-62ba9ce6c11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxiYXJlZm9vdCUyMHdhbGtpbmclMjBmb3Jlc3QlMjB0cmFpbHxlbnwwfDB8fHwxNzg2MjU1NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="S’ancrer dans la nature pour apaiser l’esprit" title="Retrouver la sérénité en revenant à son environnement" caption="S’ancrer dans la nature pour apaiser l’esprit - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)" >}}
 
-
-S’ancrer dans la nature pour apaiser l’esprit - Photo de [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Profiter du moment présent
 
@@ -51,10 +47,8 @@ Ta priorité numéro une doit être ton bonheur et ton épanouissement. Ce n’e
 
 Si tu sens que la négativité prend trop de place, voici quelques étapes simples à mettre en pratique :
 
-{{< figure src="https://images.unsplash.com/photo-1751236856786-e8faa1d3556d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMHRvdWNoaW5nJTIwbW9zcyUyMHRyZWUlMjB0cnVua3xlbnwwfDB8fHwxNzg2MjU1NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La beauté du présent invite à la paix" title="Retrouver la sérénité en revenant à son environnement" caption="La beauté du présent invite à la paix" >}}
+{{< figure src="https://images.unsplash.com/photo-1751236856786-e8faa1d3556d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMHRvdWNoaW5nJTIwbW9zcyUyMHRyZWUlMjB0cnVua3xlbnwwfDB8fHwxNzg2MjU1NDI2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="La beauté du présent invite à la paix" title="Retrouver la sérénité en revenant à son environnement" caption="La beauté du présent invite à la paix - Photo de [Zoshua Colah](https://unsplash.com/@zoshuacolah)" >}}
 
-
-La beauté du présent invite à la paix - Photo de [Zoshua Colah](https://unsplash.com/@zoshuacolah)
 
 - Identifie ce qui t’envahit : attente, frustration, interaction non résolue.
 - Fais une pause : éloigne-toi de la source de stress, même quelques minutes.

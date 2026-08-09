@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/e95f81c8aa51"
 source_youtube = "https://www.youtube.com/watch?v=74Q51QHHtmM"
 +++
 
-{{< figure src="https://unsplash.com/@nasimkeshmiri" alt="Comment j’ai appris à avancer chaque jour vers l’essentiel" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Priorités quotidiennes" >}}
+{{< figure src="https://images.unsplash.com/photo-1699075092783-8e58982bc3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHBsYW5uaW5nJTIwbm90ZWJvb2slMjBkZXNrfGVufDB8MHx8fDE3ODU2NjUyOTl8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Écrire ses priorités pour avancer chaque jour" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Écrire ses priorités pour avancer chaque jour - Photo de [Nasim Keshmiri](https://unsplash.com/@nasimkeshmiri)" >}}
 
+
+**Priorités quotidiennes**
 
 ## Comment j’ai appris à avancer chaque jour vers l’essentiel
 
@@ -32,10 +34,8 @@ L’autre option, c’est de rester présent tout en ayant une vision claire de 
 
 Définir à l’avance les tâches à accomplir évite la dispersion. Par exemple, je décide : « Pendant une heure, je travaille sur telle tâche précise. » Ensuite, je peux me détendre ou faire autre chose. Cela m’empêche de perdre du temps à scroller sans but. Je commence par l’essentiel, ce qui me rapproche de mes objectifs, comme devenir CTO ou créer une start-up.
 
-{{< figure src="https://images.unsplash.com/photo-1752343186236-eee11956960f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtb3JuaW5nJTIwc3VubGlnaHQlMjB0aHJvdWdoJTIwd2luZG93fGVufDB8MHx8fDE3ODU2NjUzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lumière nouvelle sur ce qui compte vraiment" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Lumière nouvelle sur ce qui compte vraiment" >}}
+{{< figure src="https://images.unsplash.com/photo-1752343186236-eee11956960f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtb3JuaW5nJTIwc3VubGlnaHQlMjB0aHJvdWdoJTIwd2luZG93fGVufDB8MHx8fDE3ODU2NjUzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lumière nouvelle sur ce qui compte vraiment" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Lumière nouvelle sur ce qui compte vraiment - Photo de [K Adams](https://unsplash.com/@kadams77)" >}}
 
-
-Lumière nouvelle sur ce qui compte vraiment - Photo de [K Adams](https://unsplash.com/@kadams77)
 
 Changer d’environnement m’aide aussi à rester productif. Tous les matins, je vais dans un café différent. Ce rituel booste ma concentration. J’ai remarqué que cette variété me stimule davantage que le coworking.
 
@@ -51,10 +51,8 @@ Pour garder le cap, j’ai mis en place une routine journalière. Je sais ce que
 
 En suivant ce programme, tu avances vers ton objectif plus vite que si tu laissais ta journée au hasard. Tu évites de faire du surplace, tu progresses, même à petits pas. C’est cette accumulation de petits efforts qui finit par porter ses fruits.
 
-{{< figure src="https://images.unsplash.com/photo-1630783098843-956335ee5275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjb2ZmZWUlMjBjdXAlMjBxdWlldCUyMG1vbWVudHxlbnwwfDB8fHwxNzg1NjY1MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le rituel du matin pour choisir l’essentiel" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Le rituel du matin pour choisir l’essentiel" >}}
+{{< figure src="https://images.unsplash.com/photo-1630783098843-956335ee5275?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxjb2ZmZWUlMjBjdXAlMjBxdWlldCUyMG1vbWVudHxlbnwwfDB8fHwxNzg1NjY1MzAxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le rituel du matin pour choisir l’essentiel" title="Comment j’ai appris à avancer chaque jour vers l’essentiel" caption="Le rituel du matin pour choisir l’essentiel - Photo de [Nick Harsell](https://unsplash.com/@nickharsell)" >}}
 
-
-Le rituel du matin pour choisir l’essentiel - Photo de [Nick Harsell](https://unsplash.com/@nickharsell)
 
 ## Avancer, même par petites touches
 

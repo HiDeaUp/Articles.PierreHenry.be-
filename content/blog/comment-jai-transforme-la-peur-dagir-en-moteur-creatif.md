@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/72e79ff322f2"
 source_youtube = "https://www.youtube.com/watch?v=aR56l-ooQIE"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1614435839931-3db7e7e51ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzdGFyaW5nJTIwd2luZG93JTIwcmFpbnxlbnwwfDB8fHwxNzg2MjQ4MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder la ville, apprivoiser ses envies d’agir" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Regarder la ville, apprivoiser ses envies d’agir" >}}
+{{< figure src="https://images.unsplash.com/photo-1614435839931-3db7e7e51ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzdGFyaW5nJTIwd2luZG93JTIwcmFpbnxlbnwwfDB8fHwxNzg2MjQ4MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder la ville, apprivoiser ses envies d’agir" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Regarder la ville, apprivoiser ses envies d’agir - Photo de [Nishaan ahmed](https://unsplash.com/@nishaan_ahmed)" >}}
 
-
-Regarder la ville, apprivoiser ses envies d’agir - Photo de [Nishaan ahmed](https://unsplash.com/@nishaan_ahmed)
 
 Il t’est sûrement déjà arrivé de te lever sans but précis, à errer devant ton ordinateur, sans savoir par où commencer. Dans ces moments, le doute s’installe vite : est-ce le bon moment pour se lancer, pour créer, pour avancer ? Plus on hésite, plus l’indécision s’installe et finit par façonner nos journées. J’ai longtemps connu ce blocage, jusqu’au jour où j’ai compris qu’attendre le moment parfait ne mène nulle part.
 
@@ -34,10 +32,8 @@ Cette méthode m’aide à rester concentré et à garder mes objectifs en tête
 
 Il faut aussi accepter que certains projets ne sont pas faits pour nous. Parfois, on s’obstine alors qu’on n’y trouve plus de sens. Mieux vaut pivoter, essayer autre chose, et voir chaque opportunité comme un investissement sur soi.
 
-{{< figure src="https://images.unsplash.com/photo-1609881820579-c678969c79dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGJ1aWxkaW5nJTIwY2xheSUyMHNjdWxwdHVyZXxlbnwwfDB8fHwxNzg2MjQ4MjU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le courage naît d’un geste hésitant" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Le courage naît d’un geste hésitant" >}}
+{{< figure src="https://images.unsplash.com/photo-1609881820579-c678969c79dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxoYW5kcyUyMGJ1aWxkaW5nJTIwY2xheSUyMHNjdWxwdHVyZXxlbnwwfDB8fHwxNzg2MjQ4MjU5fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Le courage naît d’un geste hésitant" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Le courage naît d’un geste hésitant - Photo de [Earl Wilcox](https://unsplash.com/@earl_plannerzone)" >}}
 
-
-Le courage naît d’un geste hésitant - Photo de [Earl Wilcox](https://unsplash.com/@earl_plannerzone)
 
 ## La valeur de la spécialisation et du long terme
 
@@ -53,10 +49,8 @@ Un projet ne doit jamais devenir une prison. C’est à toi de façonner tes pro
 
 J’ai expérimenté cela : avant, mon bureau était face au mur, et je me sentais à l’étroit. En le plaçant devant une fenêtre ou en variant les lieux, j’ai retrouvé du plaisir à travailler. Le projet n’a pas changé, mais ma relation avec lui, oui.
 
-{{< figure src="https://images.unsplash.com/photo-1541296239751-35023f37d0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5yaXNlJTIwb3ZlciUyMG1vdW50YWluJTIwcGVha3xlbnwwfDB8fHwxNzg2MjQ4MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur ses peurs" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Prendre de la hauteur sur ses peurs" >}}
+{{< figure src="https://images.unsplash.com/photo-1541296239751-35023f37d0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxzdW5yaXNlJTIwb3ZlciUyMG1vdW50YWluJTIwcGVha3xlbnwwfDB8fHwxNzg2MjQ4MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre de la hauteur sur ses peurs" title="Comment j’ai transformé la peur d’agir en moteur créatif" caption="Prendre de la hauteur sur ses peurs - Photo de [Kerensa Pickett](https://unsplash.com/@kerensa1)" >}}
 
-
-Prendre de la hauteur sur ses peurs - Photo de [Kerensa Pickett](https://unsplash.com/@kerensa1)
 
 ## Documenter et partager pour progresser
 

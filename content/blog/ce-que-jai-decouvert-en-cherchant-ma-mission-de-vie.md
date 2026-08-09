@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/704b3fec7f51"
 source_youtube = "https://www.youtube.com/watch?v=BhB7Ly4tdaI"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1711640649008-142a73094068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBtb3JuaW5nJTIwd2luZG93fGVufDB8MHx8fDE3ODYyNTY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser être soi pour avancer chaque matin" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="Oser être soi pour avancer chaque matin" >}}
+{{< figure src="https://images.unsplash.com/photo-1711640649008-142a73094068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHN0cmV0Y2hpbmclMjBtb3JuaW5nJTIwd2luZG93fGVufDB8MHx8fDE3ODYyNTY5MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser être soi pour avancer chaque matin" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="Oser être soi pour avancer chaque matin - Photo de [Pablo Merchán Montes](https://unsplash.com/@pablomerchanm)" >}}
 
-
-Oser être soi pour avancer chaque matin - Photo de [Pablo Merchán Montes](https://unsplash.com/@pablomerchanm)
 
 Il y a des matins où tu te réveilles sans énergie, où tu repousses l’alarme encore et encore, jusqu’à te lever tard, avec la sensation d’avoir déjà perdu une partie précieuse de ta journée. Je connais bien ces moments. Ils arrivent souvent quand rien de spécial n’est prévu, quand aucun projet ne t’attend, quand tu n’as pas de raison de sortir du lit. Sur le moment, cela peut sembler anodin, presque agréable de traîner un peu. Mais à la longue, ces journées vides laissent un goût amer. On finit par se demander : « Qu’est-ce que j’ai fait, ces derniers mois ? » Et la réponse n’est pas toujours satisfaisante.
 
@@ -30,10 +28,8 @@ Quand tu n’as rien de prévu, rien qui t’attire, tu risques de sombrer dans 
 
 C’est tout l’objet de mon atelier Belle Vie, où je t’accompagne pas à pas pour créer ce projet qui te ressemble et pour bâtir une vie qui te plaît vraiment. Une belle vie, c’est une vie où tu réalises des choses pour toi, où tu avances vers ce qui t’anime.
 
-{{< figure src="https://images.unsplash.com/photo-1758275557490-ab6edb971ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwbGF1Z2hpbmclMjBvdXRkb29yJTIwcGljbmljfGVufDB8MHx8fDE3ODYyNTY5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’énergie de la passion partagée entre amis" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="L’énergie de la passion partagée entre amis" >}}
+{{< figure src="https://images.unsplash.com/photo-1758275557490-ab6edb971ee7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwbGF1Z2hpbmclMjBvdXRkb29yJTIwcGljbmljfGVufDB8MHx8fDE3ODYyNTY5MzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’énergie de la passion partagée entre amis" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="L’énergie de la passion partagée entre amis - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-L’énergie de la passion partagée entre amis - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 ## S’entourer des bonnes personnes
 
@@ -47,10 +43,8 @@ Quand tu marches, quand tu prends les transports, quand tu fais le ménage, mets
 
 Il est facile de se trouver des excuses : « Je ne peux pas avancer parce que je suis entouré de personnes négatives », « Je n’ai pas le bon environnement », « Je n’ai pas de chance ». Mais au fond, tu es responsable de ta vie. Parfois, il faut faire des choix différents, même si ce ne sont pas les plus évidents. Si tu ne peux pas changer ton entourage du jour au lendemain, commence par changer ce que tu laisses entrer dans ta tête.
 
-{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjB0YWJsZXxlbnwwfDB8fHwxNzg2MjU2OTM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Débuter la quête de sens autour d’un café" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="Débuter la quête de sens autour d’un café" >}}
+{{< figure src="https://images.unsplash.com/photo-1650735311937-1876825e971b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMGNvZmZlZSUyMGNvenklMjB0YWJsZXxlbnwwfDB8fHwxNzg2MjU2OTM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Débuter la quête de sens autour d’un café" title="Ce que j’ai découvert en cherchant ma mission de vie" caption="Débuter la quête de sens autour d’un café - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)" >}}
 
-
-Débuter la quête de sens autour d’un café - Photo de [dlxmedia.hu](https://unsplash.com/@dlxmedia)
 
 Créer un projet de long terme, c’est aussi accepter de sortir de ta zone de confort, de te lancer dans l’inconnu. Mais c’est là que tu trouveras l’énergie, la motivation, et surtout la fierté d’avoir accompli quelque chose qui compte pour toi.
 

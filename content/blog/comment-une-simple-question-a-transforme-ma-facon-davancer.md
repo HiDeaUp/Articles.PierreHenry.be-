@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/6f72f857489e"
 source_youtube = "https://www.youtube.com/watch?v=F5amI2l9A10"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1674787246820-cb208f639bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGxvb2tpbmclMjB0aHJvdWdoJTIwd2luZG93JTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTAxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder dehors pour trouver de nouvelles réponses" title="Comment une simple question a transformé ma façon d’avancer" caption="Regarder dehors pour trouver de nouvelles réponses" >}}
+{{< figure src="https://images.unsplash.com/photo-1674787246820-cb208f639bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGxvb2tpbmclMjB0aHJvdWdoJTIwd2luZG93JTIwbGlnaHR8ZW58MHwwfHx8MTc4NjI0MTAxOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Regarder dehors pour trouver de nouvelles réponses" title="Comment une simple question a transformé ma façon d’avancer" caption="Regarder dehors pour trouver de nouvelles réponses - Photo de [Sydney Moore](https://unsplash.com/@sydmoore6)" >}}
 
-
-Regarder dehors pour trouver de nouvelles réponses - Photo de [Sydney Moore](https://unsplash.com/@sydmoore6)
 
 Tout commence souvent par une petite voix intérieure qui murmure : « Ce n’est pas pour moi, je ne peux pas faire ça. » Cette phrase, anodine en apparence, ferme plus de portes qu’on ne l’imagine. Pourtant, la différence entre avancer et stagner ne tient pas à un talent inné, mais à une question simple : comment puis-je y arriver ?
 
@@ -28,10 +26,8 @@ Dire « Je ne sais pas encore faire ça » laisse la porte ouverte à l’appren
 
 Pour illustrer ce changement de perspective, je peux te parler de mon expérience avec le développement de mon application, M Snap. C’est une application de nourriture que je développe depuis un certain temps et dont je suis fier. Le chemin n’a pas été sans embûches.
 
-{{< figure src="https://images.unsplash.com/photo-1696986324639-caa0590be25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwZG9vciUyMHN1bmxpZ2h0JTIwaGFsbHdheXxlbnwwfDB8fHwxNzg2MjQxMDIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ouvrir une porte intérieure vers d’autres possibles" title="Comment une simple question a transformé ma façon d’avancer" caption="Ouvrir une porte intérieure vers d’autres possibles" >}}
+{{< figure src="https://images.unsplash.com/photo-1696986324639-caa0590be25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxvcGVuJTIwZG9vciUyMHN1bmxpZ2h0JTIwaGFsbHdheXxlbnwwfDB8fHwxNzg2MjQxMDIwfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Ouvrir une porte intérieure vers d’autres possibles" title="Comment une simple question a transformé ma façon d’avancer" caption="Ouvrir une porte intérieure vers d’autres possibles - Photo de [Clay Banks](https://unsplash.com/@claybanks)" >}}
 
-
-Ouvrir une porte intérieure vers d’autres possibles - Photo de [Clay Banks](https://unsplash.com/@claybanks)
 
 À chaque difficulté, au lieu de me dire « Je n’y arriverai jamais », je me suis posé la question : « Comment puis-je résoudre ce problème ? » Parfois, la solution n’était pas immédiate. Parfois, c’était difficile ou décourageant. Mais à chaque blocage, je revenais à cette question : « Quelles actions puis-je mettre en place pour avancer ? » Ce réflexe m’a permis de franchir des obstacles qui, autrement, m’auraient arrêté.
 
@@ -41,10 +37,8 @@ Ce qui fait la différence, ce n’est pas la chance ou l’intelligence, mais l
 
 Si tu continues à agir comme tu l’as toujours fait, tu obtiendras les mêmes résultats. Pour progresser, il faut accepter de changer ses habitudes, d’apprendre de nouvelles compétences, d’investir du temps et de l’énergie sur soi. C’est en pratiquant chaque jour, en sortant de sa zone de confort, qu’on finit par franchir les étapes qui semblaient insurmontables.
 
-{{< figure src="https://images.unsplash.com/photo-1687145183501-0c8e76bc2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwd3JpdGluZyUyMHF1ZXN0aW9uJTIwbm90ZWJvb2t8ZW58MHwwfHx8MTc4NjI0MTAyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tracer de nouvelles questions pour avancer" title="Comment une simple question a transformé ma façon d’avancer" caption="Tracer de nouvelles questions pour avancer" >}}
+{{< figure src="https://images.unsplash.com/photo-1687145183501-0c8e76bc2175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kJTIwd3JpdGluZyUyMHF1ZXN0aW9uJTIwbm90ZWJvb2t8ZW58MHwwfHx8MTc4NjI0MTAyMHww&ixlib=rb-4.1.0&q=80&w=1080" alt="Tracer de nouvelles questions pour avancer" title="Comment une simple question a transformé ma façon d’avancer" caption="Tracer de nouvelles questions pour avancer - Photo de [Khoiru Abdan](https://unsplash.com/@khoiruabdan)" >}}
 
-
-Tracer de nouvelles questions pour avancer - Photo de [Khoiru Abdan](https://unsplash.com/@khoiruabdan)
 
 ## Passer à l’action : les étapes clés
 

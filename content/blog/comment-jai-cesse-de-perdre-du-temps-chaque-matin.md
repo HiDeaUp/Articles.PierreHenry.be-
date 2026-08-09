@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/732439d092e3"
 source_youtube = "https://www.youtube.com/watch?v=rwgYBD9BGZ0"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1543702865-cb28b0a1139a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1ha2luZyUyMGNvZmZlZSUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée sans courir après le temps" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Commencer la journée sans courir après le temps" >}}
+{{< figure src="https://images.unsplash.com/photo-1543702865-cb28b0a1139a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMG1ha2luZyUyMGNvZmZlZSUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTM2MzV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée sans courir après le temps" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Commencer la journée sans courir après le temps - Photo de [Bohdan Maylove](https://unsplash.com/@maylove)" >}}
 
-
-Commencer la journée sans courir après le temps - Photo de [Bohdan Maylove](https://unsplash.com/@maylove)
 
 Chaque matin, il y a un moment clé : celui où tu te réveilles, encore dans le brouillard, tenté de te jeter sur un café. Pourtant, c’est là que tout se joue pour ne plus perdre de temps inutilement. L’efficacité ne commence pas par une to-do list, mais par quelques gestes simples qui font la différence. Je partage ici comment, dans mon quotidien, ces choix m’aident à mieux démarrer mes journées et à optimiser mon travail, en te montrant aussi l’envers du décor de mes activités.
 
@@ -34,10 +32,8 @@ Une fois la journée lancée, je me plonge dans mes projets, comme le montage vi
 
 J’adore créer du contenu, mais il faut bien passer par le montage pour que la vidéo soit regardable. J’aimerais trouver un outil d’intelligence artificielle qui fasse le montage exactement comme je le veux. Si tu en connais un, fais-moi signe.
 
-{{< figure src="https://images.unsplash.com/photo-1537561096824-fd30db54f839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxvcmdhbml6ZWQlMjBkZXNrJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODYyNTM2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un souffle d’organisation dès le réveil" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Un souffle d’organisation dès le réveil" >}}
+{{< figure src="https://images.unsplash.com/photo-1537561096824-fd30db54f839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxvcmdhbml6ZWQlMjBkZXNrJTIwbW9ybmluZyUyMGxpZ2h0fGVufDB8MHx8fDE3ODYyNTM2Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un souffle d’organisation dès le réveil" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Un souffle d’organisation dès le réveil - Photo de [Dallas Reedy](https://unsplash.com/@dallasreedy)" >}}
 
-
-Un souffle d’organisation dès le réveil - Photo de [Dallas Reedy](https://unsplash.com/@dallasreedy)
 
 C’est pareil pour la mise en page d’un livre : écrire est passionnant, mais tout ce qui concerne la couverture ou la mise en forme, c’est autre chose. La plupart des auteurs préfèrent écrire plutôt que de s’occuper de ces détails. Parfois, il vaut mieux déléguer. Chacun son métier, chacun ses talents. Accepter de ne pas tout faire soi-même, c’est aussi gagner en efficacité.
 
@@ -53,10 +49,8 @@ Je consacre beaucoup de temps à améliorer mes propres outils, notamment mes ap
 
 Beaucoup d’applications similaires fonctionnent mal, souvent parce que leurs créateurs ne sont pas vraiment passionnés par la nutrition. Pour moi, c’est l’inverse : je peaufine chaque détail, corrige les bugs, améliore la précision. Ce travail de fond fait toute la différence pour l’utilisateur.
 
-{{< figure src="https://images.unsplash.com/photo-1622675363311-3e1904dc1885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBkZWxlZ2F0aW5nJTIwd29yayUyMHRlYW18ZW58MHwwfHx8MTc4NjI1MzYzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Déléguer pour gagner en sérénité matinale" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Déléguer pour gagner en sérénité matinale" >}}
+{{< figure src="https://images.unsplash.com/photo-1622675363311-3e1904dc1885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBkZWxlZ2F0aW5nJTIwd29yayUyMHRlYW18ZW58MHwwfHx8MTc4NjI1MzYzN3ww&ixlib=rb-4.1.0&q=80&w=1080" alt="Déléguer pour gagner en sérénité matinale" title="Comment j’ai cessé de perdre du temps chaque matin" caption="Déléguer pour gagner en sérénité matinale - Photo de [Mapbox](https://unsplash.com/@mapbox)" >}}
 
-
-Déléguer pour gagner en sérénité matinale - Photo de [Mapbox](https://unsplash.com/@mapbox)
 
 Si tu veux gagner en efficacité, prends le temps d’améliorer les outils que tu utilises au quotidien. Que ce soit une application, un agenda ou ton espace de travail, chaque amélioration, même minime, finit par te faire gagner du temps et de l’énergie.
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/ab6d3eb56b71"
 source_youtube = "https://www.youtube.com/watch?v=2itB1ayw9EA"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNDMwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lâcher prise pour laisser place à la clarté" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Lâcher prise pour laisser place à la clarté" >}}
+{{< figure src="https://images.unsplash.com/photo-1574783797574-e7fc2348caf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMG1lZGl0YXRpbmclMjBzdW5yaXNlfGVufDB8MHx8fDE3ODYyNDMwOTR8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Lâcher prise pour laisser place à la clarté" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Lâcher prise pour laisser place à la clarté - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)" >}}
 
-
-Lâcher prise pour laisser place à la clarté - Photo de [Léonard Cotte](https://unsplash.com/@ettocl)
 
 Trouver le calme pour avancer vite
 
@@ -30,10 +28,8 @@ Quand on est plongé dans l’action, on devient parfois aveugle à ses propres 
 
 Ce calme et ce recul ne sont pas du temps perdu. Au contraire, c’est le secret de ceux qui avancent vite. C’est une manière d’être plus efficace, de prendre de meilleures décisions, de voir ce qui compte vraiment. Quand tu t’accordes ces pauses, tu actives ton intelligence d’arrière-plan, celle qui travaille en silence et connecte les idées sans effort conscient. C’est là que les bonnes actions émergent.
 
-{{< figure src="https://images.unsplash.com/photo-1536911733014-14f38a1fd928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxlbXB0eSUyMHdvb2RlbiUyMGJlbmNoJTIwbGFrZXxlbnwwfDB8fHwxNzg2MjYwNTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un instant de recul pour de grandes avancées" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Un instant de recul pour de grandes avancées" >}}
+{{< figure src="https://images.unsplash.com/photo-1536911733014-14f38a1fd928?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxlbXB0eSUyMHdvb2RlbiUyMGJlbmNoJTIwbGFrZXxlbnwwfDB8fHwxNzg2MjYwNTMxfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un instant de recul pour de grandes avancées" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Un instant de recul pour de grandes avancées - Photo de [Andy Køgl](https://unsplash.com/@thevisiter)" >}}
 
-
-Un instant de recul pour de grandes avancées - Photo de [Andy Køgl](https://unsplash.com/@thevisiter)
 
 ## Créer tes propres rituels de ressourcement
 
@@ -47,10 +43,8 @@ La vie est courte, bien plus qu’on ne le pense. Perdre trois semaines à faire
 
 Pour t’aider à franchir ce cap, j’ai conçu un atelier « Lifestyle Job ». Cet atelier, que je mets à jour régulièrement, regroupe tout ce que j’ai appris sur la création d’un mode de vie aligné avec tes envies. Tu y trouveras des conseils sur la vie nomade, les espaces de coworking, des astuces pour voyager et travailler partout, mais aussi des méthodes pour réaliser tes rêves longtemps repoussés.
 
-{{< figure src="https://images.unsplash.com/photo-1764531810787-105375affabe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMGhvbGRpbmclMjB3YXJtJTIwdGVhJTIwbXVnfGVufDB8MHx8fDE3ODYyNjA1MzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la paix intérieure avant de décider" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Trouver la paix intérieure avant de décider" >}}
+{{< figure src="https://images.unsplash.com/photo-1764531810787-105375affabe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHxoYW5kcyUyMGhvbGRpbmclMjB3YXJtJTIwdGVhJTIwbXVnfGVufDB8MHx8fDE3ODYyNjA1MzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Trouver la paix intérieure avant de décider" title="Trouver le calme pour avancer plus vite dans sa vie" caption="Trouver la paix intérieure avant de décider - Photo de [علیرضا افتخاری](https://unsplash.com/@alireza_eftekhary_110)" >}}
 
-
-Trouver la paix intérieure avant de décider - Photo de [علیرضا افتخاری](https://unsplash.com/@alireza_eftekhary_110)
 
 L’idée, c’est de t’offrir un plan d’action prêt à l’emploi. Dès la fin de la semaine, tu peux avoir entre les mains les ressources nécessaires pour partir au bout du monde ou simplement transformer ton quotidien. Tu y découvriras des outils de productivité, des applications utiles, et surtout, une nouvelle manière de penser ton travail et ta liberté.
 

@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/89585c914621"
 source_youtube = "https://www.youtube.com/watch?v=siTjnNjXXow"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1634749715333-627ef55abbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBsYW5uaW5nJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI2MjkzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Noter ses idées pour ralentir le temps" title="Comment j’ai appris à ne plus courir après le temps" caption="Noter ses idées pour ralentir le temps" >}}
+{{< figure src="https://images.unsplash.com/photo-1634749715333-627ef55abbab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMHBsYW5uaW5nJTIwbm90ZWJvb2slMjBjb2ZmZWV8ZW58MHwwfHx8MTc4NjI2MjkzOXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Noter ses idées pour ralentir le temps" title="Comment j’ai appris à ne plus courir après le temps" caption="Noter ses idées pour ralentir le temps - Photo de [Dollar Gill](https://unsplash.com/@dollargill)" >}}
 
-
-Noter ses idées pour ralentir le temps - Photo de [Dollar Gill](https://unsplash.com/@dollargill)
 
 Tu te lèves tôt, motivé, prêt à attaquer ta journée. Pourtant, à 9h, tu te demandes déjà où sont passées tes deux premières heures. Cette sensation de courir après le temps, je la connais bien. Le vrai problème n’est pas seulement la quantité de tâches à accomplir, mais la façon dont tu les gères. Le multitâche, ou “context switching”, est un piège : tu passes d’une idée à l’autre, tu ouvres une appli, tu réponds à un message, tu notes une idée, et au final, ton cerveau s’épuise sans rien terminer de concret.
 
@@ -32,10 +30,8 @@ Je te conseille aussi de te fixer un taux horaire, même symbolique. Demande-toi
 
 Certaines tâches reviennent sans cesse : laver tes vêtements, te couper les ongles, faire le ménage. Plutôt que de les faire à intervalles fixes, demande-toi si tu peux les espacer. Par exemple, au lieu de te couper les ongles toutes les deux semaines, essaie toutes les deux semaines et demie. Sur une année, ce sont des heures gagnées.
 
-{{< figure src="https://images.unsplash.com/photo-1503803548695-c2a7b4a5b875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlfGVufDB8MHx8fDE3ODYyNjI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le large loin de la course quotidienne" title="Comment j’ai appris à ne plus courir après le temps" caption="Prendre le large loin de la course quotidienne" >}}
+{{< figure src="https://images.unsplash.com/photo-1503803548695-c2a7b4a5b875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxzdW5yaXNlfGVufDB8MHx8fDE3ODYyNjI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Prendre le large loin de la course quotidienne" title="Comment j’ai appris à ne plus courir après le temps" caption="Prendre le large loin de la course quotidienne - Photo de [Sebastien Gabriel](https://unsplash.com/@sgabriel)" >}}
 
-
-Prendre le large loin de la course quotidienne - Photo de [Sebastien Gabriel](https://unsplash.com/@sgabriel)
 
 Automatise aussi ce qui peut l’être. Utilise les raccourcis clavier, active le déverrouillage automatique de ton téléphone, adopte un gestionnaire de mots de passe fiable (celui d’Apple est désormais très efficace). Moins tu passes de temps sur des micro-tâches, plus tu en as pour ce qui compte.
 
@@ -49,10 +45,8 @@ Pour avancer, il faut parfois s’immerger totalement dans une tâche. J’aime 
 
 Pour gérer tes emails plus efficacement, active la lecture vocale sur ton téléphone. Sur iPhone, tu peux faire défiler tes messages avec deux doigts et les faire lire automatiquement. Siri ou Google Assistant peuvent aussi t’aider à traiter tes emails à la voix. La dictée vocale, sur Mac ou Android, est un vrai gain de temps pour rédiger rapidement.
 
-{{< figure src="https://images.unsplash.com/photo-1707241358597-bafcc8a8e73d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGF1dG9tYXRpbmclMjBjb2ZmZWUlMjBtYWNoaW5lfGVufDB8MHx8fDE3ODYyNjI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée sans stress ni précipitation" title="Comment j’ai appris à ne plus courir après le temps" caption="Commencer la journée sans stress ni précipitation" >}}
+{{< figure src="https://images.unsplash.com/photo-1707241358597-bafcc8a8e73d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxoYW5kcyUyMGF1dG9tYXRpbmclMjBjb2ZmZWUlMjBtYWNoaW5lfGVufDB8MHx8fDE3ODYyNjI5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Commencer la journée sans stress ni précipitation" title="Comment j’ai appris à ne plus courir après le temps" caption="Commencer la journée sans stress ni précipitation - Photo de [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki)" >}}
 
-
-Commencer la journée sans stress ni précipitation - Photo de [Jakub Żerdzicki](https://unsplash.com/@jakubzerdzicki)
 
 ## Prends des décisions plus vite
 

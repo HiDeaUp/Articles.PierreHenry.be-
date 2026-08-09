@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/2536b1b2f462"
 source_youtube = "https://www.youtube.com/watch?v=00OIQUdCTdw"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1620137964181-2596f0fb0454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer pas à pas vers soi-même" title="Pourquoi j’investis mon temps dans mon propre développement" caption="Avancer pas à pas vers soi-même" >}}
+{{< figure src="https://images.unsplash.com/photo-1620137964181-2596f0fb0454?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHx3b21hbiUyMHdhbGtpbmclMjBmb3Jlc3QlMjBwYXRofGVufDB8MHx8fDE3ODYyNDUyMzF8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Avancer pas à pas vers soi-même" title="Pourquoi j’investis mon temps dans mon propre développement" caption="Avancer pas à pas vers soi-même - Photo de [Magda Smolen](https://unsplash.com/@magda_smolen)" >}}
 
-
-Avancer pas à pas vers soi-même - Photo de [Magda Smolen](https://unsplash.com/@magda_smolen)
 
 Le temps, cette ressource qui ne revient jamais
 

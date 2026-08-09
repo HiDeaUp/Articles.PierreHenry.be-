@@ -13,8 +13,10 @@ source_medium = "https://medium.com/@phenrysay/4dde59d4747c"
 source_youtube = "https://www.youtube.com/watch?v=BGxcPVKYhqM"
 +++
 
-{{< figure src="https://unsplash.com/@madalyncox" alt="Comment mon projet Miss Snap a transformé mes journées" title="Comment mon projet Miss Snap a transformé mes journées" caption="Trouver du sens au quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1597080342519-70ccdd468aa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGNyZWF0aW5nJTIwYXJ0JTIwZGVza3xlbnwwfDB8fHwxNzg1NjY0OTk0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourer chaque instant de créativité retrouvée" title="Comment mon projet Miss Snap a transformé mes journées" caption="Savourer chaque instant de créativité retrouvée - Photo de [Madalyn Cox](https://unsplash.com/@madalyncox)" >}}
 
+
+**Trouver du sens au quotidien**
 
 ## Comment mon projet Miss Snap a transformé mes journées
 
@@ -28,10 +30,8 @@ Je parle ici de mon expérience personnelle. Chaque jour, je consacre du temps a
 
 On imagine souvent qu’il faut tout changer pour améliorer sa vie. Pourtant, un engagement régulier, même modeste, dans une activité qui nous tient à cœur suffit souvent à faire la différence. Pour moi, c’est le développement de Miss Snap ; pour toi, ce sera peut-être la musique, l’écriture, le sport, ou toute autre passion qui te donne le sentiment d’avancer.
 
-{{< figure src="https://images.unsplash.com/photo-1507290243274-299e646b93da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb2ZmZWUlMjBtdWclMjBtb3JuaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NTY2NDk5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Se créer des pauses qui ont du sens" title="Comment mon projet Miss Snap a transformé mes journées" caption="Se créer des pauses qui ont du sens" >}}
+{{< figure src="https://images.unsplash.com/photo-1507290243274-299e646b93da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxjb2ZmZWUlMjBtdWclMjBtb3JuaW5nJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NTY2NDk5NXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Se créer des pauses qui ont du sens" title="Comment mon projet Miss Snap a transformé mes journées" caption="Se créer des pauses qui ont du sens - Photo de [Luke Porter](https://unsplash.com/@lukeporter)" >}}
 
-
-Se créer des pauses qui ont du sens - Photo de [Luke Porter](https://unsplash.com/@lukeporter)
 
 L’essentiel est de t’accorder ce temps, même court, pour créer ou progresser dans ce qui a du sens pour toi. Ce n’est pas un luxe, mais une nécessité pour ne pas passer à côté de ta propre vie.
 
@@ -41,10 +41,8 @@ Mon application m’aide à garder une trace de ce que je mange et bois chaque j
 
 Par exemple, j’ai découvert que j’avais consommé beaucoup plus de frites que je ne l’imaginais. Sans cette trace, je n’en aurais pas eu conscience. Cette transparence m’aide à ajuster mon comportement : diminuer ce qui me nuit, augmenter ce qui me fait du bien. C’est un outil concret pour reprendre le contrôle de mon quotidien.
 
-{{< figure src="https://images.unsplash.com/photo-1758272420706-36a5b46a673d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwd29tYW4lMjB3YWxraW5nJTIwY2l0eSUyMHN0cmVldHxlbnwwfDB8fHwxNzg1NjY0OTk2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser s’inventer de nouveaux rituels joyeux" title="Comment mon projet Miss Snap a transformé mes journées" caption="Oser s’inventer de nouveaux rituels joyeux" >}}
+{{< figure src="https://images.unsplash.com/photo-1758272420706-36a5b46a673d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxzbWlsaW5nJTIwd29tYW4lMjB3YWxraW5nJTIwY2l0eSUyMHN0cmVldHxlbnwwfDB8fHwxNzg1NjY0OTk2fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Oser s’inventer de nouveaux rituels joyeux" title="Comment mon projet Miss Snap a transformé mes journées" caption="Oser s’inventer de nouveaux rituels joyeux - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)" >}}
 
-
-Oser s’inventer de nouveaux rituels joyeux - Photo de [Vitaly Gariev](https://unsplash.com/@silverkblack)
 
 ## Avancer vers une vie qui te ressemble
 

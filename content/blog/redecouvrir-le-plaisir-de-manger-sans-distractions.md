@@ -11,10 +11,8 @@ source_medium = "https://medium.com/@phenrysay/3deb0922e697"
 source_youtube = "https://www.youtube.com/watch?v=rOOwGE81TTY"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1726126744163-a7b2a1eb5c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGVhdGluZyUyMGFsb25lJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0NjQxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourez chaque bouchée, l’instant présent retrouvé" title="Redécouvrir le plaisir de manger sans distractions" caption="Savourez chaque bouchée, l’instant présent retrouvé" >}}
+{{< figure src="https://images.unsplash.com/photo-1726126744163-a7b2a1eb5c4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGVhdGluZyUyMGFsb25lJTIwc3VubGlnaHR8ZW58MHwwfHx8MTc4NjI0NjQxNXww&ixlib=rb-4.1.0&q=80&w=1080" alt="Savourez chaque bouchée, l’instant présent retrouvé" title="Redécouvrir le plaisir de manger sans distractions" caption="Savourez chaque bouchée, l’instant présent retrouvé - Photo de [Phạm Trần Hoàn Thịnh](https://unsplash.com/@thinhpham)" >}}
 
-
-Savourez chaque bouchée, l’instant présent retrouvé - Photo de [Phạm Trần Hoàn Thịnh](https://unsplash.com/@thinhpham)
 
 Il y a quelques minutes, je venais de finir une assiette de pâtes complètes au pesto. Ce repas, pourtant banal, m’a offert un déclic inattendu : j’étais totalement présent, concentré sur chaque bouchée, sans aucune distraction. Je me suis alors rendu compte à quel point cette expérience est devenue rare. Aujourd’hui, beaucoup mangent en faisant autre chose : téléphone à la main, télévision en fond, parfois même en marchant ou au volant. On ne s’arrête plus vraiment pour manger, on ne prend plus le temps de ressentir ou de partager.
 
@@ -26,10 +24,8 @@ Dans ma famille, on n’a jamais mangé devant la télévision. Le dîner était
 
 La tentation de se distraire est forte, surtout quand on mange seul. Prendre son téléphone, regarder une vidéo, occuper son esprit. Parfois, avec ma copine, on regarde un film en mangeant, mais c’est rare. La plupart du temps, on choisit de vivre le repas comme un vrai moment, pas comme une simple formalité.
 
-{{< figure src="https://images.unsplash.com/photo-1576089073624-b5751a8f4de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBkaW5uZXIlMjB0YWJsZSUyMGxhdWdodGVyfGVufDB8MHx8fDE3ODYyNDY0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partager le repas, se reconnecter ensemble" title="Redécouvrir le plaisir de manger sans distractions" caption="Partager le repas, se reconnecter ensemble" >}}
+{{< figure src="https://images.unsplash.com/photo-1576089073624-b5751a8f4de9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBkaW5uZXIlMjB0YWJsZSUyMGxhdWdodGVyfGVufDB8MHx8fDE3ODYyNDY0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Partager le repas, se reconnecter ensemble" title="Redécouvrir le plaisir de manger sans distractions" caption="Partager le repas, se reconnecter ensemble - Photo de [National Cancer Institute](https://unsplash.com/@nci)" >}}
 
-
-Partager le repas, se reconnecter ensemble - Photo de [National Cancer Institute](https://unsplash.com/@nci)
 
 ## Transformer le repas en méditation
 
@@ -41,10 +37,8 @@ Prendre le temps de manger transforme ce moment en récompense. Un rendez-vous a
 
 Je t’invite à essayer. Lors de ton prochain repas, pose ton téléphone, éloigne les distractions, et sois présent. Ressens les saveurs, la texture, la température. Prends le temps de respirer, de savourer, de te reconnecter à toi-même. Fais du repas un moment d’harmonie et de plaisir.
 
-{{< figure src="https://images.unsplash.com/photo-1548084769-1b94d5c3168e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjbG9zZXVwJTIwaGFuZHMlMjBob2xkaW5nJTIwY2VyYW1pYyUyMGJvd2x8ZW58MHwwfHx8MTc4NjI0NjQxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Redécouvrir la simplicité du goût authentique" title="Redécouvrir le plaisir de manger sans distractions" caption="Redécouvrir la simplicité du goût authentique" >}}
+{{< figure src="https://images.unsplash.com/photo-1548084769-1b94d5c3168e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxjbG9zZXVwJTIwaGFuZHMlMjBob2xkaW5nJTIwY2VyYW1pYyUyMGJvd2x8ZW58MHwwfHx8MTc4NjI0NjQxNnww&ixlib=rb-4.1.0&q=80&w=1080" alt="Redécouvrir la simplicité du goût authentique" title="Redécouvrir le plaisir de manger sans distractions" caption="Redécouvrir la simplicité du goût authentique - Photo de [Gilles Lambert](https://unsplash.com/@gilleslambert)" >}}
 
-
-Redécouvrir la simplicité du goût authentique - Photo de [Gilles Lambert](https://unsplash.com/@gilleslambert)
 
 Ce simple changement peut tout transformer. Reprendre plaisir à manger, c’est retrouver le bien-être, l’énergie, l’envie d’aller plus loin. C’est aussi une manière de se prouver qu’on peut reprendre le contrôle sur sa vie, même à travers des gestes simples.
 

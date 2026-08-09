@@ -13,10 +13,8 @@ source_medium = "https://medium.com/@phenrysay/2ce5104ac5b6"
 source_youtube = "https://www.youtube.com/watch?v=6FpAK1xfFpY"
 +++
 
-{{< figure src="https://images.unsplash.com/photo-1774853094610-89be6f1a7690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtaW5pbWFsJTIwZGVzayUyMHdvcmtzcGFjZSUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTkzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un espace épuré libère l’esprit" title="Comment choisir moins peut vraiment alléger ta vie" caption="Un espace épuré libère l’esprit" >}}
+{{< figure src="https://images.unsplash.com/photo-1774853094610-89be6f1a7690?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxtaW5pbWFsJTIwZGVzayUyMHdvcmtzcGFjZSUyMHN1bmxpZ2h0fGVufDB8MHx8fDE3ODYyNTkzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080" alt="Un espace épuré libère l’esprit" title="Comment choisir moins peut vraiment alléger ta vie" caption="Un espace épuré libère l’esprit - Photo de [FlippingBook](https://unsplash.com/@flippingbook)" >}}
 
-
-Un espace épuré libère l’esprit - Photo de [FlippingBook](https://unsplash.com/@flippingbook)
 
 Il est facile de croire que plus on ajoute, mieux c’est. Pourtant, cette logique nous piège souvent dans la complexité, au détriment de notre bien-être. Récemment, en développant un petit logiciel pour créer des miniatures YouTube, j’ai commencé avec une version simple et efficace. Rapidement, j’ai voulu ajouter des fonctionnalités comme un bouton “auto enhance”, inspiré de la baguette magique sur Apple. À chaque nouvelle idée, je me demandais : “Et si j’ajoutais ça aussi ?” Mais avais-je vraiment besoin de tout cela ? Non.
 
@@ -30,10 +28,8 @@ Dire non n’est pas naturel. Refuser ce qui est gratuit ou accessible, c’est 
 
 On retrouve ce schéma partout, notamment dans la gestion de l’argent. Acheter une voiture de luxe ou investir dans des montages fiscaux compliqués semble séduisant, mais cela ajoute de la maintenance, des risques, des soucis. Est-ce que ça en vaut la peine ? Souvent, non.
 
-{{< figure src="https://images.unsplash.com/photo-1562986398-ef6efbbc9537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGRlY2x1dHRlcmluZyUyMGNsb3NldHxlbnwwfDB8fHwxNzg2MjU5MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Moins de choix pour plus de clarté" title="Comment choisir moins peut vraiment alléger ta vie" caption="Moins de choix pour plus de clarté" >}}
+{{< figure src="https://images.unsplash.com/photo-1562986398-ef6efbbc9537?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHx3b21hbiUyMGRlY2x1dHRlcmluZyUyMGNsb3NldHxlbnwwfDB8fHwxNzg2MjU5MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Moins de choix pour plus de clarté" title="Comment choisir moins peut vraiment alléger ta vie" caption="Moins de choix pour plus de clarté - Photo de [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez)" >}}
 
-
-Moins de choix pour plus de clarté - Photo de [Priscilla Du Preez 🇨🇦](https://unsplash.com/@priscilladupreez)
 
 Même dans la réussite professionnelle, vouloir toujours plus peut nous perdre. On cherche à atteindre le niveau supérieur, à créer un produit encore plus sophistiqué. Mais il faut savoir s’arrêter, reconnaître qu’on a assez fait, et passer à autre chose. Accepter de savourer ce qu’on a accompli, c’est aussi une forme de maturité.
 
@@ -45,10 +41,8 @@ Prends l’exemple d’une télévision dernier cri ou d’une voiture de sport.
 
 La vraie question à se poser, c’est : “Qu’est-ce que je veux vraiment pour moi ?” Pas pour impressionner les autres, pas pour la gloire, mais pour toi. La gloire, c’est pour les autres. La victoire, c’est personnel. Il faut apprendre à distinguer les deux.
 
-{{< figure src="https://images.unsplash.com/photo-1659918151453-8cabafe3880e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdvb2RlbiUyMHRhYmxlJTIwbW9ybmluZ3xlbnwwfDB8fHwxNzg2MjU5MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alléger ses possessions apaise le quotidien" title="Comment choisir moins peut vraiment alléger ta vie" caption="Alléger ses possessions apaise le quotidien" >}}
+{{< figure src="https://images.unsplash.com/photo-1659918151453-8cabafe3880e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHwxfHxlbXB0eSUyMHdvb2RlbiUyMHRhYmxlJTIwbW9ybmluZ3xlbnwwfDB8fHwxNzg2MjU5MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="Alléger ses possessions apaise le quotidien" title="Comment choisir moins peut vraiment alléger ta vie" caption="Alléger ses possessions apaise le quotidien - Photo de [Samuel Svec](https://unsplash.com/@viewofsamu)" >}}
 
-
-Alléger ses possessions apaise le quotidien - Photo de [Samuel Svec](https://unsplash.com/@viewofsamu)
 
 ## Mettre du piment, pas du poids
 
@@ -62,10 +56,8 @@ Dans mon expérience, la simplicité est un choix quotidien. Quand je crée un l
 
 La clé, c’est de se recentrer sur l’essentiel. De se demander ce qui est vraiment important pour soi, pas pour les autres. De ne pas se laisser happer par la course à la complexité, à la possession, à la performance. D’accepter que parfois, moins c’est mieux.
 
-{{< figure src="https://images.unsplash.com/photo-1705165812902-0829cd52f2ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZWFjZWZ1bCUyMGxha2VzaWRlJTIwcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzg2MjU5MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’horizon s’ouvre quand on simplifie" title="Comment choisir moins peut vraiment alléger ta vie" caption="L’horizon s’ouvre quand on simplifie" >}}
+{{< figure src="https://images.unsplash.com/photo-1705165812902-0829cd52f2ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NjcyMjF8MHwxfHNlYXJjaHw3fHxwZWFjZWZ1bCUyMGxha2VzaWRlJTIwcmVmbGVjdGlvbnxlbnwwfDB8fHwxNzg2MjU5MzM0fDA&ixlib=rb-4.1.0&q=80&w=1080" alt="L’horizon s’ouvre quand on simplifie" title="Comment choisir moins peut vraiment alléger ta vie" caption="L’horizon s’ouvre quand on simplifie - Photo de [Barnabas Davoti](https://unsplash.com/@davotibarna)" >}}
 
-
-L’horizon s’ouvre quand on simplifie - Photo de [Barnabas Davoti](https://unsplash.com/@davotibarna)
 
 Ce principe, je l’applique aussi dans mes ateliers. Je préfère parler d’atelier plutôt que de formation, parce que je veux que tu sois avec moi, au même niveau, comme un ami ou une amie. Je partage tout ce que j’ai appris, sans me placer sur un piédestal. Et surtout, je mets à jour mes ateliers en permanence, pour qu’ils restent simples, pratiques, adaptés à la réalité.
 
