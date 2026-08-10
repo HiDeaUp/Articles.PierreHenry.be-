@@ -6,7 +6,7 @@ draft = false
 description = "Au réveil, il t’arrive peut être d’avoir l’esprit déjà saturé de questions, de doutes, de réflexions sans fin. Plus tu analyses, plus tu doutes, et ce doute finit par ronger ton énergie. Il occupe..."
 summary = "Au réveil, il t’arrive peut être d’avoir l’esprit déjà saturé de questions, de doutes, de réflexions sans fin. Plus tu analyses, plus tu doutes, et ce doute finit par ronger ton énergie. Il occupe..."
 tags = ["confiance en soi", "gestion du doute", "motivation matinale", "passer à l'action", "épanouissement personnel"]
-original_title = "Comment être ÉPANOUI dès le RÉVEIL ! ⏰ #motivation #réussite"
+original_title = "Comment être ÉPANOUI dès le RÉVEIL ! #motivation #réussite"
 source_medium = "https://medium.com/@phenrysay/6f5b95315bff"
 source_youtube = "https://www.youtube.com/watch?v=oO0DsgTm4zY"
 +++

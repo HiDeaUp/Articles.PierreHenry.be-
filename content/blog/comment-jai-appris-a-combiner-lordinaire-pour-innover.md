@@ -8,7 +8,7 @@ summary = "La créativité n’est pas un privilège réservé à quelques uns, 
 tags = ["créativité", "développement personnel", "habitudes", "idées", "innovation", "tech"]
 priority = true
 priority_topics = ["tech"]
-original_title = "Comment devenir plus créatif 💡 VOICI MON SYSTÈME"
+original_title = "Comment devenir plus créatif VOICI MON SYSTÈME"
 source_medium = "https://medium.com/@phenrysay/1e74e9370ed0"
 source_youtube = "https://www.youtube.com/watch?v=E8EsJcddepM"
 +++

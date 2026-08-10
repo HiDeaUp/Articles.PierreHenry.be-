@@ -8,7 +8,7 @@ summary = "Il est facile de croire que le bonheur se trouve dans la réussite pr
 tags = ["bien-être", "bonheur", "développement personnel", "gestion du temps", "gratitude", "self-transcendence", "tech"]
 priority = true
 priority_topics = ["tech", "self-transcendence"]
-original_title = "DEVENS le HÉROS de TA VIE 🔥 #réussite #succès"
+original_title = "DEVENS le HÉROS de TA VIE #réussite #succès"
 source_medium = "https://medium.com/@phenrysay/50697853a547"
 source_youtube = "https://www.youtube.com/watch?v=v-7VTEj5TiY"
 +++
