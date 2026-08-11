@@ -1,7 +1,7 @@
 +++
 title = "Comment régler la luminosité sous Linux Mint"
 slug = "regler-luminosite-linux-mint"
-date = "2026-08-10T08:10:00+10:00"
+date = "2014-03-08T15:40:00+01:00"
 draft = false
 description = "Régler la luminosité sous Linux Mint avec les commandes brightnessctl, puis diagnostiquer un pilote de rétroéclairage mal détecté."
 summary = "Des touches du clavier aux paramètres du noyau, voici l’ordre de diagnostic lorsque la luminosité ne répond plus sous Linux Mint."
@@ -60,6 +60,12 @@ ls -1 /sys/class/backlight
 
 Si le dossier est vide, le noyau n’a probablement pas chargé le bon pilote. S’il contient plusieurs périphériques, `brightnessctl --list` t’aide à choisir le bon avec l’option `--device`.
 
+Par exemple, si la liste contient `intel_backlight` :
+
+```bash
+brightnessctl --device='intel_backlight' set 50%
+```
+
 La [documentation du noyau Linux](https://docs.kernel.org/gpu/backlight.html) décrit les valeurs `brightness`, `actual_brightness` et `max_brightness` fournies par chaque pilote.
 
 ## Tester un paramètre de démarrage
@@ -96,4 +102,3 @@ Ne cumule pas plusieurs valeurs `acpi_backlight`. Garde aussi une copie de la li
 Le rétroéclairage d’un écran externe n’est souvent pas exposé comme celui d’un ordinateur portable. Les boutons de l’écran restent la méthode la plus fiable. Certains écrans prennent en charge DDC/CI, mais cela dépend du modèle, du câble et du pilote graphique.
 
 Je préfère avancer dans cet ordre : interface graphique, `brightnessctl`, détection du noyau, puis GRUB. Cela évite de garder une ancienne astuce de démarrage alors qu’un outil simple suffisait.
-

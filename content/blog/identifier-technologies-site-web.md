@@ -1,7 +1,7 @@
 +++
 title = "Comment reconnaître les technologies d’un site web"
 slug = "identifier-technologies-site-web"
-date = "2026-08-10T08:20:00+10:00"
+date = "2011-09-09T01:02:00+02:00"
 draft = false
 description = "Identifier le CMS, les bibliothèques, le serveur et les services tiers d’un site avec Wappalyzer, BuiltWith et les outils du navigateur."
 summary = "Une méthode simple pour reconnaître la pile technique d’un site tout en gardant une marge d’erreur."
@@ -27,6 +27,16 @@ L’extension de navigateur est pratique pour une vérification rapide. Le servi
 [BuiltWith](https://builtwith.com/) fournit une seconde lecture. Il classe les technologies détectées par catégories et conserve parfois des informations historiques.
 
 Quand les deux services donnent le même résultat, la confiance augmente. Quand ils se contredisent, je reviens aux données du navigateur.
+
+## Lire les en-têtes sans extension
+
+Une commande suffit pour afficher les en-têtes publics et suivre les redirections :
+
+```bash
+curl --head --location https://example.com
+```
+
+Un en-tête `server` peut identifier Nginx, Apache ou un CDN. Il peut aussi décrire seulement le proxy placé devant l’application. Je le traite comme un indice, pas comme une preuve.
 
 ## Vérifier dans Chrome DevTools
 

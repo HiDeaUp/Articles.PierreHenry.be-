@@ -1,7 +1,7 @@
 +++
 title = "Comment créer une clé USB bootable pour Linux Mint"
 slug = "creer-une-cle-usb-bootable-linux-mint"
-date = "2026-08-10T08:00:00+10:00"
+date = "2018-01-02T18:47:00+01:00"
 draft = false
 description = "Créer une clé USB bootable pour installer Linux Mint avec USB Image Writer ou balenaEtcher, puis démarrer le PC sur la clé."
 summary = "La méthode actuelle pour écrire une image ISO de Linux Mint sur une clé USB sans copier le fichier comme un document ordinaire."
@@ -28,11 +28,17 @@ sha256sum linuxmint.iso
 
 Compare le résultat avec la valeur publiée par Linux Mint.
 
+Sous macOS, la commande équivalente est :
+
+```bash
+shasum -a 256 linuxmint.iso
+```
+
 ## Créer la clé depuis Linux Mint
 
 Linux Mint intègre déjà l’outil nécessaire :
 
-1. Branche une clé USB d’au moins 4 Go.
+1. Branche une clé USB d’au moins 4 Go et retire les autres supports amovibles si tu risques de les confondre.
 2. Fais un clic droit sur le fichier ISO.
 3. Choisis **Créer une clé USB bootable**.
 4. Sélectionne la bonne clé.
@@ -57,4 +63,3 @@ Redémarre l’ordinateur avec la clé branchée. Ouvre le menu de démarrage au
 Choisis la clé USB dans la liste. Linux Mint démarre alors en session live. Tu peux tester le Wi-Fi, le son et l’affichage avant de lancer l’installation. Le [guide officiel explique aussi le démarrage en mode BIOS ou EFI](https://linuxmint-installation-guide.readthedocs.io/en/latest/boot.html).
 
 Si la clé n’apparaît pas, essaie un autre port USB, recrée le support et vérifie les réglages UEFI. N’active ou ne désactive pas Secure Boot au hasard : commence par consulter la documentation du fabricant de ton ordinateur.
-

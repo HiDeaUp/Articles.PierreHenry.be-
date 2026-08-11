@@ -1,7 +1,7 @@
 +++
 title = "Réparer un système Linux qui ne démarre plus avec fsck"
 slug = "reparer-systeme-linux-fsck"
-date = "2026-08-10T08:05:00+10:00"
+date = "2011-11-01T18:02:00+01:00"
 draft = false
 description = "Diagnostiquer puis réparer un système de fichiers ext4 depuis une session live Linux, sans lancer fsck sur une partition montée."
 summary = "Une procédure prudente pour utiliser fsck lorsqu’une partition Linux ext4 empêche le démarrage."
@@ -66,6 +66,14 @@ sudo fsck -f /dev/nvme0n1p2
 
 Lis chaque question avant de confirmer une correction. Je préfère cette approche interactive à l’option `-y`, qui accepte tout sans contrôle.
 
+Juste après la commande, tu peux lire son code de sortie :
+
+```bash
+echo $?
+```
+
+Le manuel distingue notamment `0` pour aucune erreur, `1` pour des erreurs corrigées, `2` lorsqu’un redémarrage est nécessaire et `4` lorsque des erreurs restent présentes. Un code `4` mérite une nouvelle vérification du disque avant de tenter d’autres écritures.
+
 Une fois la vérification terminée, redémarre :
 
 ```bash
@@ -79,4 +87,3 @@ Retire la clé USB lorsque l’ordinateur s’éteint.
 N’utilise pas cette commande telle quelle sur XFS, Btrfs, ZFS ou une partition chiffrée. Chaque technologie possède ses propres outils. Ne lance pas non plus `fsck` sur le disque entier, comme `/dev/sda`, si le système de fichiers se trouve sur `/dev/sda2`.
 
 Si les erreurs reviennent, consulte les données SMART du disque et sauvegarde ce qui reste accessible. `fsck` répare une structure logique. Il ne répare pas un SSD ou un disque dur en fin de vie.
-
