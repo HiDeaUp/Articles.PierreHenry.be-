@@ -1,7 +1,7 @@
 +++
 title = "Comment changer le système lancé par défaut dans GRUB"
 slug = "changer-systeme-par-defaut-grub"
-date = "2026-08-10T08:30:00+10:00"
+date = "2012-02-01T14:24:00+01:00"
 draft = false
 description = "Changer l’entrée de démarrage par défaut dans GRUB depuis /etc/default/grub, sans modifier directement le fichier grub.cfg généré."
 summary = "La méthode actuelle pour choisir Linux ou Windows par défaut dans le menu GRUB."
@@ -73,6 +73,14 @@ sudo grub-set-default 'identifiant-de-l-entree'
 
 La commande `grub-set-default` est prévue par GRUB pour renseigner `saved_entry`. Tu peux consulter la [documentation de cette variable](https://www.gnu.org/software/grub/manual/grub/html_node/saved_005fentry.html).
 
+Vérifie ensuite la valeur enregistrée :
+
+```bash
+sudo grub-editenv list
+```
+
+Si aucune valeur `saved_entry` n’apparaît, ne suppose pas que la commande a fonctionné. Reviens à un identifiant défini directement dans `GRUB_DEFAULT`.
+
 ## Une entrée dans un sous-menu
 
 Les noyaux plus anciens se trouvent souvent dans **Advanced options**. GRUB accepte alors une notation avec `>` entre le sous-menu et l’entrée :
@@ -84,4 +92,3 @@ GRUB_DEFAULT="Advanced options for Linux Mint>Linux Mint, with Linux 6.x"
 Les titres peuvent changer après une mise à jour. Pour un besoin ponctuel, sélectionne simplement l’entrée dans le menu au démarrage. Pour une configuration durable, préfère un identifiant stable.
 
 Avant toute modification, garde une copie de `/etc/default/grub`. Et surtout, ne modifie plus directement `grub.cfg` : la prochaine génération effacerait ton changement.
-

@@ -1,7 +1,7 @@
 +++
 title = "Installer son propre wiki avec MediaWiki ou DokuWiki"
 slug = "installer-wiki-mediawiki-dokuwiki"
-date = "2026-08-10T08:35:00+10:00"
+date = "2012-08-27T15:32:00+02:00"
 draft = false
 description = "Choisir entre MediaWiki et DokuWiki, préparer l’hébergement, installer le wiki et sécuriser les mises à jour et sauvegardes."
 summary = "Deux solutions open source encore actives pour créer une documentation privée ou un wiki public."
@@ -55,5 +55,6 @@ Dans les deux cas, je vérifie ces points avant de publier :
 4. Le logiciel et ses extensions sont mis à jour.
 5. Les droits d’écriture du serveur sont limités au nécessaire.
 
-Créer le wiki prend peu de temps. Le garder propre, sauvegardé et à jour est le vrai travail.
+Avant une mise à jour importante, je teste la procédure sur une copie. Pour MediaWiki, je sauvegarde les fichiers, les médias, `LocalSettings.php` et la base de données. Pour DokuWiki, je sauvegarde aussi la configuration, les extensions et les données sous `data/`.
 
+Une sauvegarde que personne n’a restaurée reste une hypothèse. Créer le wiki prend peu de temps. Le garder propre, sauvegardé et à jour est le vrai travail.

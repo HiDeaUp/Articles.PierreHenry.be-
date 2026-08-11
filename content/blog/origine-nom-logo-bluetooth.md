@@ -1,7 +1,7 @@
 +++
 title = "D’où viennent le nom et le logo Bluetooth ?"
 slug = "origine-nom-logo-bluetooth"
-date = "2026-08-10T08:40:00+10:00"
+date = "2019-07-02T14:22:00+02:00"
 draft = false
 description = "L’origine du nom Bluetooth, son lien avec le roi Harald Gormsson et les deux runes qui composent le logo."
 summary = "Le nom d’une technologie sans fil moderne vient d’un roi scandinave du Xe siècle."
@@ -42,4 +42,3 @@ Le logo combine deux runes du Futhark récent :
 Ces deux signes forment une rune liée. Le logo résume donc les initiales du roi qui a donné son nom à la technologie.
 
 J’aime ce type d’histoire, car un symbole que l’on voit chaque jour peut contenir plus de mille ans de contexte.
-

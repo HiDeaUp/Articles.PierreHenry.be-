@@ -1,7 +1,7 @@
 +++
 title = "Créer une API web en C++ avec Drogon"
 slug = "creer-api-web-cpp-drogon"
-date = "2026-08-10T08:25:00+10:00"
+date = "2012-01-28T13:14:00+01:00"
 draft = false
 description = "Créer une petite API HTTP en C++ avec Drogon, CMake et une route JSON, puis comprendre quand ce choix technique est pertinent."
 summary = "Un premier serveur HTTP en C++ moderne avec Drogon, sans revenir aux anciens scripts CGI."
@@ -83,9 +83,20 @@ La réponse doit contenir :
 {"status":"ok"}
 ```
 
+## Préparer le passage en production
+
+Le gestionnaire déclaré dans `main` convient à ce prototype. Quand l’API grandit, je déplace les routes dans des contrôleurs et je sépare le transport HTTP de la logique métier.
+
+Je vérifie aussi cinq points avant une mise en production :
+
+1. Les entrées JSON sont validées et les erreurs suivent un format constant.
+2. La taille des requêtes et les délais d’attente sont limités.
+3. Aucun appel bloquant ne ralentit les gestionnaires asynchrones.
+4. Les journaux sont structurés et les métriques couvrent les erreurs et la latence.
+5. Le service ne tourne pas avec les droits administrateur et son exposition TLS est maîtrisée.
+
 ## Quand je choisirais un autre langage
 
 C++ demande une chaîne de compilation, une gestion attentive des dépendances et une bonne maîtrise des erreurs mémoire. Pour un produit classique avec beaucoup de formulaires et peu de calcul, PHP, Python, Go ou TypeScript permet souvent d’avancer plus vite.
 
 Je garde C++ pour les services où ses contraintes apportent une valeur réelle. Le langage n’est pas un argument commercial. La fiabilité de l’API, ses tests, son suivi et sa facilité de maintenance comptent davantage.
-
