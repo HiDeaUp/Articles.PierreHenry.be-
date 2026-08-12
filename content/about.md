@@ -25,6 +25,20 @@ J'aime la nature, la lecture d'essais, l'optimisation de la vie quotidienne, le 
 
 J'apprécie le Roquefort et les bons fromages, un bon café (souvent un flat white au lait d'amande ou un ristretto) et le chocolat noir.
 
+Le Roquefort présenté ci-dessous fait bien partie des fromages que je mange et que j'apprécie. J'ai pris cette photo moi-même, ainsi que celle du café et du chocolat.
+
+{{< photo-pair
+  label="Mes petits plaisirs autour du Roquefort, du café et du chocolat noir"
+  src1="/images/about/roquefort-pierre-henry.webp"
+  alt1="Morceaux de Roquefort photographiés par Pierre-Henry Soria"
+  title1="Le Roquefort que j'apprécie"
+  caption1="Un morceau de Roquefort que j'ai dégusté et photographié."
+  src2="/images/about/cafe-chocolat-pierre-henry.webp"
+  alt2="Pierre-Henry Soria tenant une tasse de café devant une part de chocolat"
+  title2="Café et chocolat noir"
+  caption2="Un café accompagné de chocolat noir, lors d'une pause que j'ai photographiée."
+>}}
+
 ## Me retrouver en ligne
 
 {{< social-links >}}
