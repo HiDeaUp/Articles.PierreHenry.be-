@@ -1,0 +1,26 @@
+{{- $label := .Get "label" | default "Galerie de photos personnelles" -}}
+<figure class="about-photo-mosaic" itemscope itemtype="https://schema.org/ImageGallery">
+  <div class="about-photo-grid" role="group" aria-label="{{ $label }}">
+    <div class="about-photo about-photo--roquefort" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="{{ .Get "src1" }}" alt="{{ .Get "alt1" }}" title="{{ .Get "title1" }}" width="1000" height="1257" loading="lazy" decoding="async" itemprop="contentUrl" />
+      <meta itemprop="name" content="{{ .Get "title1" }}" />
+      <meta itemprop="caption" content="{{ .Get "caption1" }}" />
+    </div>
+    <div class="about-photo about-photo--portrait" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="{{ .Get "src2" }}" alt="{{ .Get "alt2" }}" title="{{ .Get "title2" }}" width="1000" height="1334" loading="lazy" decoding="async" itemprop="contentUrl" />
+      <meta itemprop="name" content="{{ .Get "title2" }}" />
+      <meta itemprop="caption" content="{{ .Get "caption2" }}" />
+    </div>
+    <div class="about-photo about-photo--ristretto" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="{{ .Get "src3" }}" alt="{{ .Get "alt3" }}" title="{{ .Get "title3" }}" width="1000" height="750" loading="lazy" decoding="async" itemprop="contentUrl" />
+      <meta itemprop="name" content="{{ .Get "title3" }}" />
+      <meta itemprop="caption" content="{{ .Get "caption3" }}" />
+    </div>
+    <div class="about-photo about-photo--chocolate" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+      <img src="{{ .Get "src4" }}" alt="{{ .Get "alt4" }}" title="{{ .Get "title4" }}" width="1000" height="1334" loading="lazy" decoding="async" itemprop="contentUrl" />
+      <meta itemprop="name" content="{{ .Get "title4" }}" />
+      <meta itemprop="caption" content="{{ .Get "caption4" }}" />
+    </div>
+  </div>
+  <figcaption class="image-caption" itemprop="description">{{ .Get "caption" | markdownify }}</figcaption>
+</figure>
